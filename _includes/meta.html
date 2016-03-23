@@ -1,0 +1,40 @@
+<!-- Goodies -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Titles -->
+{% if page.title %}
+    <meta property="og:title" content="DSM Web Collective | {{ page.title }}">
+    <meta name="twitter:title" content="DSM Web Collective | {{ page.title }}">
+{% else %}
+    <meta property="og:title" content="DSM Web Collective">
+    <meta name="twitter:title" content="DSM Web Collective">
+{% endif %}
+
+<!-- Descriptions -->
+{% if page.excerpt %}
+    <meta name="description" content="{{ page.excerpt| strip_html }}" />
+    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}">
+{% else %}
+    <meta name="description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+<!-- Other -->
+
+<!-- SEO -->
+<meta name="keywords" content="collective, des moines, dsm, web development, web design, websites, central iowa">
+<meta name="author" content="{{ site.title }}">
+
+<!-- Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="/">
+<meta property="og:image" content="{{ site.baseurl }}/img/logo.png"/>
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="/">
+<meta name="twitter:image" content="{{ site.baseurl }}/img/logo.png"/>

@@ -1,0 +1,22 @@
+<head>
+    <title>
+        {% if page.title %}
+            {{ page.title | escape }} | {{ site.title | escape }}
+        {% else %}
+            {{ site.title | escape }}
+        {% endif %}
+    </title>
+
+    {% include meta.html %}
+
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+    <!-- Main Styles -->
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+    <!-- Other -->
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+</head>

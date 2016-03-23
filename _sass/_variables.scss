@@ -1,0 +1,76 @@
+// Variables
+
+// Colors
+$white : #ffffff;
+$black : #222222;
+$primary: #00ffcc;
+$primary-light: #85FFD6;
+$secondary: #222222;
+$secondary-light: #555555;
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
+$helvetica: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$georgia: Georgia, Times, serif;
+$roboto: 'Roboto Condensed', $helvetica;
+
+$font: $roboto;
+$font-secondary: $helvetica;
+$font-special: $georgia;
+
+// Layout
+$max-width: 72rem;
+$min-width: 20rem;
+$num-columns: 12;
+$footer-height: 50px;
+
+// Breakpoints
+$grid-width: $max-width;
+$breakpoints: (
+    xxs: (
+        max: rem-calc(320),
+        min: rem-calc(0)
+    ),
+    xs: (
+        max: rem-calc(480),
+        min: rem-calc(321)
+    ),
+    s: (
+        max: rem-calc(640),
+        min: rem-calc(481)
+    ),
+    m: (
+        max: rem-calc(1024),
+        min: rem-calc(641)
+    ),
+    l: (
+        max: rem-calc(1440),
+        min: rem-calc(1025)
+    ),
+    xl: (
+        max: rem-calc(1920),
+        min: rem-calc(1441)
+    )
+);
+$bp-xxs: map-get(map-get($breakpoints, xxs), max);
+$bp-xxs-max: map-get(map-get($breakpoints, xxs), max);
+$bp-xxs-min: map-get(map-get($breakpoints, xxs), min);
+$bp-xs: map-get(map-get($breakpoints, xs), max);
+$bp-xs-max: map-get(map-get($breakpoints, xs), max);
+$bp-xs-min: map-get(map-get($breakpoints, xs), min);
+$bp-s: map-get(map-get($breakpoints, s), max);
+$bp-s-max: map-get(map-get($breakpoints, s), max);
+$bp-s-min: map-get(map-get($breakpoints, s), min);
+$bp-m: map-get(map-get($breakpoints, m), max);
+$bp-m-max: map-get(map-get($breakpoints, m), max);
+$bp-m-min: map-get(map-get($breakpoints, m), min);
+$bp-l: map-get(map-get($breakpoints, l), max);
+$bp-l-max: map-get(map-get($breakpoints, l), max);
+$bp-l-min: map-get(map-get($breakpoints, l), min);
+$bp-xl: map-get(map-get($breakpoints, xl), max);
+$bp-xl-max: map-get(map-get($breakpoints, xl), max);
+$bp-xl-min: map-get(map-get($breakpoints, xl), min);
+
+// Misc
+$left-quote: "\201c";
+$right-quote: "\201d";

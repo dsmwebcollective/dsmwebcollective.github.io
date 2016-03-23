@@ -1,0 +1,36 @@
+// Buttons
+
+.btn,
+.button {
+	display: inline-block;
+	background: $primary;
+	color: $white;
+	line-height: 1;
+    font-size: 1rem;
+	font-weight: normal;
+	padding: 1rem;
+	border: 0;
+	text-align: center;
+    font-family: $font;
+    cursor: pointer;
+    border-radius: 3px;
+
+	&:hover,
+	&:focus {
+		background: $secondary-light;
+	}
+
+	&.disabled {
+		background: #888;
+		color: #bbb;
+	}
+}
+
+.btn-small {
+	padding: 0.5rem;
+}
+
+.btn-large {
+	padding: 1.5rem;
+	font-size: 1.4rem;
+}
