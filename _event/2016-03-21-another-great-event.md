@@ -3,7 +3,6 @@ layout: event
 title:  "Another Great Event!"
 date:   2016-03-21 00:00:00 -0600
 event_date:   2016-04-15 18:30:00 -0600
-categories: event
 ---
 
 #### Some great details

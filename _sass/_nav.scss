@@ -13,7 +13,13 @@
     }
 }
 
+
 .nav {
+    $num-list-items: 7;
+    $actual-item-height: ((1/($num-list-items+1))*100);
+    $actual-item-height-half: ($actual-item-height/2);
+    $item-height: ($actual-item-height+($actual-item-height-half/$num-list-items)) + vh;
+
     position: absolute;
     top: 0;
     left: 0;
@@ -25,36 +31,44 @@
     transition: transform 0.3s ease-in-out;
     z-index: 9999;
 
-    &.open {
-        transform: translateY(0);
+    @for $i from 1 through ($num-list-items + 1) {
+        li:nth-child(#{$i}) a {
+            transition: color 0.3s ease-in-out,
+                        background 0.3s ease-in-out,
+                        opacity 0.5s ease-in-out (0.1s * $i),
+                        transform 0.5s ease-in-out (0.1s * $i);
+        }
     }
-
-    $num-list-items: 6;
-    $actual-item-height: ((1/($num-list-items+1))*100);
-    $actual-item-height-half: ($actual-item-height/2);
-    $item-height: ($actual-item-height+($actual-item-height-half/$num-list-items)) + vh;
 
     a {
         display: block;
         height: $item-height;
         line-height: $item-height;
         padding: 0 1rem;
-        font-size: 6vh;
+        font-size: 8vh;
         color: $white;
+        opacity: 0;
         white-space: nowrap;
-        transition: color 0.3s ease-in-out,
-                    background 0.3s ease-in-out,
-                    letter-spacing 0.3s ease-in-out;
+        transform: translateX(50px);
 
         &.nav-toggle {
             height: $actual-item-height-half + vh;
             line-height: $actual-item-height-half + vh;
+            font-size: 4vh;
         }
 
         &:hover {
             color: $primary;
             background: $white;
-            letter-spacing: 2px;
+        }
+    }
+
+    &.open {
+        transform: translateY(0);
+
+        a {
+            opacity: 1;
+            transform: translateX(0);
         }
     }
 }

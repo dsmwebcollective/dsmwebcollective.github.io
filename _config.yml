@@ -15,5 +15,11 @@ url: "http://dsmwebcollective.com" # the base hostname & protocol for your site
 twitter_username: dsmwebcollective
 facebook_username: dsmwebcollective
 
+collections:
+  event:
+    output: true
+    permalink: /events/:path/
+
+
 # Build settings
 markdown: kramdown
