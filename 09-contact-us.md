@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contact Us
+title: Contact
 heading: Contact DSM Web Collective
-permalink: /contact-us/
+permalink: /contact/
 ---
 
 This is where you can contact DSM Web Collective.

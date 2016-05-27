@@ -1,7 +1,7 @@
 ---
 layout: page
 title: User Groups
-heading: Des Moines User Groups
+heading: Des Moines Metro User Groups
 permalink: /user-groups/
 ---
 

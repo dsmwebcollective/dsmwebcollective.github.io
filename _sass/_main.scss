@@ -14,7 +14,8 @@ body {
     font: 100%/1.5 $font-secondary;
     -webkit-text-size-adjust: 100%;
     color: $black;
-    padding-top: 4rem;
+    padding-top: 5rem;
+    padding-top: 1rem;
 }
 
 a {
@@ -83,7 +84,7 @@ pre,
 }
 
 .section {
-    // padding: 3rem 1rem;
+    margin: 0 1.5rem;
 }
 
 .section--home {
@@ -109,6 +110,7 @@ pre,
     h3 {
         font-size: 4vw;
         line-height: 1.2;
+        color: $secondary;
     }
 
     & + .footer {

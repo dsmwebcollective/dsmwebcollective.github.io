@@ -3,15 +3,13 @@ layout: default
 ---
 
 <section class="section section--event">
-    <div class="container">
-        <h1 class="event-header">{{ page.title }}</h1>
+    <h1 class="event-header">{{ page.title }}</h1>
 
-        <p class="event-meta">
-            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-        </p>
+    <p class="event-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y at %l:%M%p" }}</time>
+    </p>
 
-        <div class="event-content">
-            {{ content }}
-        </div>
+    <div class="event-content">
+        {{ content }}
     </div>
 </section>

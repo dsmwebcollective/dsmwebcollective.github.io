@@ -2,10 +2,10 @@
 
 // Colors
 $white : #ffffff;
-$black : #222222;
-$primary: #9479FF;
-$primary-light: #B9A7FF;
-$secondary: #222222;
+$black : #333333;
+$primary: #659EFF;
+$primary-light: lighten(#659EFF, 10%);
+$secondary: #333333;
 $secondary-light: #555555;
 
 // Fonts
