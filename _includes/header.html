@@ -2,16 +2,16 @@
 
 <nav class="nav">
     <ul class="nav-list">
+        <!-- Close button -->
+        <li><a href="#" class="nav-toggle nav-close"><i class="fa fa-close"></i></a></li>
+
         <!-- Home -->
-        <li><a href="{{ site.baseurl }}/">{dsmwc logo}</a></li>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
 
         {% for the_page in site.pages %}
             {% if the_page.title %}
                 <li><a href="{{ the_page.url | prepend: site.baseurl }}">{{ the_page.title }}</a></li>
             {% endif %}
         {% endfor %}
-
-        <!-- Close button -->
-        <li><a href="#" class="nav-toggle nav-close"><i class="fa fa-close"></i></a></li>
     </ul>
 </nav>
