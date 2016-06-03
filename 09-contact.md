@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact
-heading: Contact DSM Web Collective
+title: Contact DSM Web Collective
+nav_title: Contact
 permalink: /contact/
 ---
 
 This is where you can contact DSM Web Collective.
 
-Probably display some social icons and shit too.
+Probably display a form, some social icons, and other shit too.

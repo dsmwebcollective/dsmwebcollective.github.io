@@ -2,14 +2,19 @@
 
 .nav-open {
     position: absolute;
-    top: 1.5rem;
+    top: 1.45rem;
     right: 1.5rem;
-    font-size: 2rem;
+    font-size: 1.6rem;
     color: $black;
     line-height: 1;
 
     &:hover {
         color: $primary;
+    }
+
+    @media (min-width: $bp-s) {
+        top: 1.75rem;
+        font-size: 2rem;
     }
 }
 
@@ -46,7 +51,8 @@
         height: $item-height;
         line-height: $item-height;
         padding: 0 1rem;
-        font-size: 8vh;
+        font-size: 8vw;
+        font-size: 8vmin;
         color: $white;
         opacity: 0;
         white-space: nowrap;

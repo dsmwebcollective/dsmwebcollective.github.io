@@ -1,7 +1,7 @@
 ---
 layout: page
-title: User Groups
-heading: Des Moines User Groups
+title: Des Moines User Groups
+nav_title: User Groups
 permalink: /user-groups/
 ---
 

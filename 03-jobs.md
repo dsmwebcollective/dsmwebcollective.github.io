@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jobs
-heading: Jobs in Des Moines
+title: Jobs in Des Moines
+nav_title: Jobs
 permalink: /jobs/
 ---
 

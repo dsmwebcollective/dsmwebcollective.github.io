@@ -10,7 +10,7 @@
 
         {% for the_page in site.pages %}
             {% if the_page.title %}
-                <li><a href="{{ the_page.url | prepend: site.baseurl }}">{{ the_page.title }}</a></li>
+                <li><a href="{{ the_page.url | prepend: site.baseurl }}">{{ the_page.nav_title }}</a></li>
             {% endif %}
         {% endfor %}
     </ul>

@@ -46,6 +46,14 @@ img {
     max-width: 100%;
 }
 
+p {
+    margin-bottom: 0.5rem;
+
+    &:last-of-type {
+        margin-bottom: 0;
+    }
+}
+
 // Pre/Code
 code,
 pre,
@@ -88,22 +96,22 @@ pre,
 }
 
 .section--home {
-    margin-top: -4rem;
+    margin-top: -20px;
+    height: 100vh;
     min-height: 100vh;
 
     .container {
         position: absolute;
         top: 50%;
-        // left: 50%;
+        left: 0;
         width: 100%;
-        // margin: 0 auto;
         max-width: none;
         text-align: center;
         transform: translateY(-50%);
     }
 
     h1 {
-        font-size: 10vw;
+        font-size: 8vw;
         line-height: 1;
     }
 
@@ -115,5 +123,6 @@ pre,
 
     & + .footer {
         margin-top: -($footer-height);
+        text-align: center;
     }
 }
