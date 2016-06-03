@@ -1,0 +1,16 @@
+.list {
+    li {
+        margin-bottom: 1rem;
+        padding-left: 0.5rem;
+        border-left: 2px solid $primary;
+    }
+
+    .title {
+        font-size: 1.2rem;
+        line-height: 1.2;
+    }
+
+    .group {
+        font-size: 0.8rem;
+    }
+}

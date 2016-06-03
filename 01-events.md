@@ -1,15 +1,21 @@
 ---
 layout: page
 title: Events
-heading: Explore Upcoming Events
+heading: Upcoming Events
 permalink: /events/
 ---
 
-<ul>
-    {% for event in site.event %}
+<ul class="list event-list">
+    {% for event in site.data.events %}
         <li>
-            <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
-            <p>Event Date: {{ event.event_date | date: "%b %-d, %Y at %l:%M%p" }}</p>
+            <div class="title">
+                <span class="group">[{{ event.group }}]</span><br>
+                <a href="{{ event.details_url }}" target="_blank">{{ event.title }}</a>
+            </div>
+
+            <div class="date">
+                {{ event.date }} @ {{ event.time }} ({{ event.location }})
+            </div>
         </li>
     {% endfor %}
 </ul>
