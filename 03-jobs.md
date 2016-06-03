@@ -1,8 +1,17 @@
 ---
 layout: page
 title: Jobs
-heading: Jobs
+heading: Jobs in Des Moines
 permalink: /jobs/
 ---
 
-- This is where we will display any current job openings in the DSM metro.
+<ul class="list jobs-list">
+    {% for job in site.data.jobs %}
+        <li>
+            <div class="title">
+                <span class="group">[{{ job.company }}]</span><br>
+                <a href="{{ job.url }}" target="_blank">{{ job.title }}</a>
+            </div>
+        </li>
+    {% endfor %}
+</ul>

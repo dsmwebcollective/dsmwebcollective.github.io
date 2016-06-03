@@ -5,7 +5,7 @@ heading: Des Moines User Groups
 permalink: /user-groups/
 ---
 
-<ul class="list user-groups-list">
+<ul class="list groups-list">
     {% for group in site.data.groups %}
         <li>
             <div class="title">

@@ -5,7 +5,7 @@ heading: Upcoming Events
 permalink: /events/
 ---
 
-<ul class="list event-list">
+<ul class="list events-list">
     {% for event in site.data.events %}
         <li>
             <div class="title">
