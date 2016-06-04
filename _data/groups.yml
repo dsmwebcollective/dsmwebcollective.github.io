@@ -1,9 +1,62 @@
+- title: "Agile Iowa"
+  url: "http://www.agileiowa.org/"
+  meeting: "Second Thursday of the month"
+
+- title: "AWS User Group"
+  url: "http://www.meetup.com/AWS-User-Group-Des-Moines/"
+  meeting: "Unknown"
+
+- title: "Central Iowa Java User Group"
+  url: "http://cijug.net/"
+  meeting: "Second Thursday of the month"
+
+- title: "Central Iowa Linux User Group"
+  url: "http://www.cialug.org/"
+  meeting: "Third Wednesday of the month"
+
+- title: "Central Iowa R User Group"
+  url: "http://www.meetup.com/Central-Iowa-R-User-Group/"
+  meeting: "Unknown"
+
 - title: "Des Moines Web Geeks"
   url: "http://www.dsmwebgeeks.com/"
+  meeting: "Second Monday of the month"
+
+- title: "DevOpsDSM"
+  url: "http://devopsdsm.com/"
+  meeting: "Fourth Wednesday of the month"
 
 - title: "dsmJS"
   url: "http://dsmjs.com/"
   meeting: "Second Tuesday of the month"
+
+- title: "Experiencing UX"
+  url: "http://www.meetup.com/Experiencing-UX-DSM/"
+  meeting: "Third Wednesday of the month"
+
+- title: "Iowa .NET User Group"
+  url: "http://iadnug.org/"
+  meeting: "First Thursday of the month"
+
+- title: "Iowa CocoaHeads"
+  url: "http://cocoaheads.org/us/DesMoinesIowa/index.html"
+  meeting: "Unknown"
+
+- title: "Iowa Ruby Brigade"
+  url: "http://www.iowaruby.org/"
+  meeting: "Third Tuesday of the month"
+
+- title: "Pyowa"
+  url: "http://www.pyowa.org/"
+  meeting: "Unknown"
+
+- title: "SecDSM"
+  url: "https://secdsm.org/"
+  meeting: "Second Thursday of the month"
+
+- title: "Women Who Code"
+  url: "http://www.meetup.com/Women-Who-Code-Des-Moines/"
+  meeting: "Unknown"
 
 - title: "WordPress Des Moines"
   url: "http://wpdsm.org/"
