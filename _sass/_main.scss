@@ -132,7 +132,12 @@ pre,
     }
 
     & + .footer {
-        margin-top: -($footer-height);
-        text-align: center;
+        margin-top: -99px;
+    }
+}
+
+@media (min-width: $bp-xs) {
+    .section--home + .footer {
+        margin-top: -54px;
     }
 }

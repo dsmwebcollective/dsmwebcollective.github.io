@@ -1,9 +1,25 @@
 // Footer
 
 .footer {
-    height: $footer-height;
+    margin-top: 1.5rem;
     padding: 0 1.5rem;
-    // text-align: center;
-    line-height: $footer-height;
+    text-align: center;
     font-size: 0.8rem;
+    line-height: 44px;
+
+    .extras {
+        overflow: hidden;
+    }
+    .fa {
+        font-size: 2.8rem;
+        margin-right: 1rem;
+    }
+
+    @media (min-width: $bp-xs) {
+        text-align: left;
+
+        .extras {
+            float: right;
+        }
+    }
 }
