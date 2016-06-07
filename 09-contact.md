@@ -5,6 +5,4 @@ nav_title: Contact
 permalink: /contact/
 ---
 
-This is where you can contact DSM Web Collective.
-
-Probably display a form, some social icons, and other shit too.
+Have questions, ideas, want to help, or just want to chat? [Shoot us an email](mailto:kjbrumm@gmail.com)
