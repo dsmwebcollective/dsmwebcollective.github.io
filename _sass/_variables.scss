@@ -3,10 +3,10 @@
 // Colors
 $white : #ffffff;
 $black : #333333;
-$primary: #659EFF;
-$primary-light: lighten(#659EFF, 10%);
-$secondary: #333333;
-$secondary-light: #555555;
+$primary: #727E92;
+$primary-light: lighten($primary, 10%);
+$secondary: #555555;
+$secondary-light: #888888;
 
 // Fonts
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);

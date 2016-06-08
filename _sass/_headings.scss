@@ -27,13 +27,14 @@ h5 {}
 h6 {}
 
 .page-header {
+    padding: 1.75rem 1rem 1.5rem;
     font-size: 1.8rem;
     text-transform: uppercase;
-    margin-bottom: 1rem;
-    padding-right: 2rem;
-    border-bottom: 1px solid;
+    line-height: 1;
+    border-bottom: 1px solid $primary;
 
     @media (min-width: $bp-s) {
+        padding: 1.75rem 2rem 1.5rem;
         font-size: 2.5rem;
     }
 }

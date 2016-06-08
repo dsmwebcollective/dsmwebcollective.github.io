@@ -8,12 +8,13 @@
     color: $black;
     line-height: 1;
 
-    &:hover {
+    &:hover,
+    &:focus {
         color: $primary;
     }
 
     @media (min-width: $bp-s) {
-        top: 1.75rem;
+        top: 2rem;
         font-size: 2rem;
     }
 }

@@ -14,8 +14,6 @@ body {
     font: 100%/1.5 $font-secondary;
     -webkit-text-size-adjust: 100%;
     color: $black;
-    padding-top: 5rem;
-    padding-top: 1rem;
 }
 
 a {
@@ -102,7 +100,7 @@ pre,
 }
 
 .section {
-    margin: 0 1.5rem;
+    // margin: 0 1.5rem;
 }
 
 .section--home {
@@ -139,5 +137,17 @@ pre,
 @media (min-width: $bp-xs) {
     .section--home + .footer {
         margin-top: -54px;
+    }
+}
+
+.section--page .page-content {
+    padding: 1rem;
+
+    @media (min-width: $bp-s) {
+        padding: 2rem;
+    }
+
+    @media (min-width: $bp-m) {
+        padding: 3rem 2rem;
     }
 }

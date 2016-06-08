@@ -1,30 +1,28 @@
 ---
-layout: page
+layout: list
 title: Des Moines User Groups
 nav_title: User Groups
 permalink: /user-groups/
 ---
 
-<ul class="list groups-list">
+<div class="list groups-list">
     {% if site.data.groups %}
         {% for group in site.data.groups %}
-            <li>
+            <a href="{{ group.url }}" target="_blank">
                 <div class="title">
-                    <a href="{{ group.url }}" target="_blank">{{ group.title }}</a>
+                    {{ group.title }}
                 </div>
 
                 {% if group.meeting %}
-                    <div class="group">Meetings: {{ group.meeting }}</div>
+                    <div class="group">{{ group.meeting }}</div>
+                {% else %}
+                    <div class="group">Unknown</div>
                 {% endif %}
-            </li>
+            </a>
         {% endfor %}
 
-        <li>
-            <a href="#" target="_blank">Have a user group to add?</a>
-        </li>
+        <a href="#" target="_blank">Have a user group to add?</a>
     {% else %}
-        <li>
-            No user groups at this time. <a href="#" target="_blank">Have a user group to add?</a>
-        </li>
+        <a href="#" target="_blank">No user groups at this time. Have a user group to add?</a>
     {% endif %}
-</ul>
+</div>

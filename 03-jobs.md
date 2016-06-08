@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: list
 title: Jobs in Des Moines
 nav_title: Jobs
 permalink: /jobs/
@@ -8,20 +8,17 @@ permalink: /jobs/
 <ul class="list jobs-list">
     {% if site.data.jobs %}
         {% for job in site.data.jobs %}
-            <li>
+            <a href="{{ job.url }}" target="_blank">
                 <div class="title">
-                    <span class="group">[{{ job.company }}]</span><br>
-                    <a href="{{ job.url }}" target="_blank">{{ job.title }}</a>
+                    {{ job.title }}
                 </div>
-            </li>
+
+                <div class="group">{{ job.company }}</div>
+            </a>
         {% endfor %}
 
-        <li>
-            <a href="#" target="_blank">Have a job posting to add?</a>
-        </li>
+        <a href="#" target="_blank">Have a job posting to add?</a>
     {% else %}
-        <li>
-            No job postings at this time. <a href="#" target="_blank">Have a job posting to add?</a>
-        </li>
+        <a href="#" target="_blank">No job postings at this time. Have a job posting to add?</a>
     {% endif %}
 </ul>

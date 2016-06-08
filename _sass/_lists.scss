@@ -1,16 +1,99 @@
 .list {
-    li {
-        margin-bottom: 1rem;
-        padding-left: 0.5rem;
-        border-left: 2px solid $primary;
+    > a {
+        display: block;
+        padding: 1rem;
+        color: $primary;
+        overflow: hidden;
+        border-bottom: 1px solid $primary;
+        transition: 0.3s ease-in-out;
+
+        &:hover {
+            background: $primary;
+            color: $white;
+        }
     }
 
-    .title {
-        font-size: 1.2rem;
-        line-height: 1.2;
+    .date {
+        font-size: 1.25rem;
+
+        .day {
+            display: inline-block;
+        }
     }
 
     .group {
-        font-size: 0.8rem;
+        font-size: 1rem;
+        text-transform: uppercase;
+    }
+
+    .title {
+        font-size: 1.5rem;
+        line-height: 1;
+    }
+
+    @media (min-width: $bp-s) {
+        > a {
+            padding: 2rem;
+        }
+
+        .date {
+            font-size: 1.75rem;
+        }
+
+        .title {
+            font-size: 2rem;
+        }
+
+        .time {
+            font-size: 1.2rem;
+        }
+    }
+
+    @media (min-width: $bp-m) {
+        & > a {
+            padding: 3rem 2rem;
+        }
+
+        .date,
+        .content {
+            float: left;
+        }
+
+        .date {
+            width: 10%;
+            font-size: 2rem;
+            line-height: 1;
+            padding-right: 0.5rem;
+
+            .day {
+                display: block;
+                font-size: 3rem;
+            }
+        }
+
+        .content {
+            width: 90%;
+            padding-left: 0.5rem;
+        }
+
+        .title {
+            font-size: 3rem;
+        }
+    }
+
+    @media (min-width: $bp-xl) {
+        .date {
+            width: 8%;
+        }
+
+        .content {
+            width: 92%;
+        }
+    }
+}
+
+.groups-list {
+    .title {
+        margin-bottom: 0.5rem;
     }
 }
