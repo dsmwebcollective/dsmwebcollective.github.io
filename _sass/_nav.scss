@@ -2,19 +2,19 @@
 
 .nav-open {
     position: absolute;
-    top: 1.45rem;
-    right: 1.5rem;
+    top: 1.5rem;
+    right: 1rem;
     font-size: 1.6rem;
     color: $black;
     line-height: 1;
 
-    &:hover,
-    &:focus {
+    &:hover {
         color: $primary;
     }
 
     @media (min-width: $bp-s) {
-        top: 2rem;
+        top: 1.85rem;
+        right: 2rem;
         font-size: 2rem;
     }
 }
