@@ -7,7 +7,7 @@
 }
 
 html {
-    background: #f5f5f5;
+    background: $white;
 }
 
 body {
@@ -31,7 +31,7 @@ hr {
     width: 100%;
     margin: 2rem 0;
     border: 0;
-    background: #555555;
+    background: $secondary;
 }
 
 ul {
@@ -99,10 +99,6 @@ pre,
     white-space: normal;
 }
 
-.section {
-    // margin: 0 1.5rem;
-}
-
 .section--home {
     margin-top: -20px;
     height: 100vh;
@@ -142,6 +138,10 @@ pre,
 
 .section--page .page-content {
     padding: 1rem;
+
+    a {
+        text-decoration: underline;
+    }
 
     @media (min-width: $bp-s) {
         padding: 2rem;
