@@ -17,6 +17,7 @@
     ;(function(global) {
         $('.nav-toggle').click(function(e) {
             e.preventDefault();
+            $('html, body').toggleClass('open');
             $('.nav').toggleClass('open');
         });
     })(window);

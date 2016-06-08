@@ -6,6 +6,12 @@
     box-sizing: border-box;
 }
 
+html.open,
+body.open {
+    overflow: hidden;
+    height: 100%;
+}
+
 html {
     background: $white;
 }
@@ -35,9 +41,9 @@ hr {
 }
 
 ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    list-style: square;
+    margin: 0.5rem 0;
+    padding-left: 2rem;
 }
 
 img {
@@ -148,6 +154,11 @@ pre,
     }
 
     @media (min-width: $bp-m) {
+        width: 75%;
         padding: 3rem 2rem;
+    }
+
+    @media (min-width: $bp-l) {
+        width: 50%;
     }
 }
