@@ -9,7 +9,7 @@
 title: Des Moines Web Collective
 email: kjbrumm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Des Moines Web Collective is a place to engage with web professionals in the Des Moines metro area.
+  A community of web professionals in the Des Moines metro area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dsmwebcollective.com" # the base hostname & protocol for your site
 twitter_username: dsmwebcollective

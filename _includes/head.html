@@ -3,7 +3,7 @@
         {% if page.title %}
             {{ page.title | escape }} | {{ site.title | escape }}
         {% else %}
-            {{ site.title | escape }}
+            {{ site.title | escape }} | {{ site.description | escape }}
         {% endif %}
     </title>
 
