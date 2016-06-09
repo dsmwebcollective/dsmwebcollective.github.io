@@ -12,6 +12,11 @@ description: > # this means to ignore newlines until "baseurl:"
   A community of web professionals in the Des Moines metro area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dsmwebcollective.com" # the base hostname & protocol for your site
+
+# Google Analytics
+ga_tracking_id: UA-79014552-1
+
+# Social Media
 twitter_username: dsmwebcollective
 facebook_username: dsmwebcollective
 
