@@ -5,7 +5,7 @@ nav_title: Jobs
 permalink: /jobs/
 ---
 
-<ul class="list jobs-list">
+<div class="list jobs-list">
     {% if site.data.jobs %}
         {% for job in site.data.jobs %}
             <a href="{{ job.url }}" target="_blank">
@@ -21,4 +21,4 @@ permalink: /jobs/
     {% else %}
         <a href="#" target="_blank">No job postings at this time. Have a job posting to add?</a>
     {% endif %}
-</ul>
+</div>
