@@ -1,5 +1,15 @@
 // Main
 
+::-moz-selection {
+    color: $white;
+    background: $primary;
+}
+
+::selection {
+    color: $white;
+    background: $primary;
+}
+
 *,
 *:before,
 *:after {
