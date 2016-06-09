@@ -12,6 +12,9 @@
 <!-- jQuery -->
 <script src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
 
+<!-- ScrollReveal -->
+<script src="https://cdn.jsdelivr.net/scrollreveal.js/3.1.4/scrollreveal.min.js"></script>
+
 <!-- Main JS -->
 <script>
     ;(function(global) {
@@ -20,5 +23,8 @@
             $('html, body').toggleClass('open');
             $('.nav').toggleClass('open');
         });
+
+        window.sr = ScrollReveal({ origin: 'left', distance: '2rem', scale: 1, delay: 100 });
+        sr.reveal('.list a');
     })(window);
 </script>

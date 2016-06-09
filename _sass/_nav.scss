@@ -42,8 +42,8 @@
         li:nth-child(#{$i}) a {
             transition: color 0.3s ease-in-out,
                         background 0.3s ease-in-out,
-                        opacity 0.5s ease-in-out (0.1s * $i),
-                        transform 0.5s ease-in-out (0.1s * $i);
+                        opacity 0.5s ease-in-out (0.08s * $i),
+                        transform 0.5s ease-in-out (0.08s * $i);
         }
     }
 
@@ -57,7 +57,7 @@
         color: $white;
         opacity: 0;
         white-space: nowrap;
-        transform: translateX(50px);
+        transform: translateX(-50px);
 
         &.nav-toggle {
             height: $actual-item-height-half + vh;
