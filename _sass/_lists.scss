@@ -10,6 +10,7 @@
         &:hover {
             background: $primary;
             color: $white;
+            padding-left: 2rem;
         }
     }
 
@@ -34,6 +35,10 @@
     @media (min-width: $bp-s) {
         > a {
             padding: 2rem;
+
+            &:hover {
+                padding-left: 3rem;
+            }
         }
 
         .date {
@@ -52,6 +57,10 @@
     @media (min-width: $bp-m) {
         & > a {
             padding: 3rem 2rem;
+
+            &:hover {
+                padding-left: 4rem;
+            }
         }
 
         .date,
