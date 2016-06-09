@@ -15,7 +15,7 @@
         margin-right: 1rem;
     }
 
-    @media (min-width: $bp-xs) {
+    @media (min-width: $bp-s) {
         text-align: left;
 
         .extras {
@@ -23,7 +23,7 @@
         }
     }
 
-    @media (min-width: $bp-s) {
+    @media (min-width: $bp-m) {
         padding: 0 2rem;
     }
 }
