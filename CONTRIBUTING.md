@@ -2,18 +2,17 @@
 
 This is where you can learn how to contribute to the Des Moines Web Collective community!
 
-Below you can find instructions on adding the following:
 
-- Events
-- User groups
-- Jobs
+__Notes__
 
-__Note:__ Be sure to follow the individual instructions for each type.
+- Follow the individual instructions for each type.
+- Be sure to match the format of the other data.
+
 
 ## Table of Contents
 
 - [Adding an event, user group, or job](#adding-an-event-user-group-or-job)
-- [Events Guidlines](#event-guidelines)
+- [Event Guidlines](#event-guidelines)
 - [User Group Guidlines](#user-group-guidelines)
 - [Job Guidlines](#job-guidelines)
 
@@ -27,8 +26,17 @@ __Note:__ Be sure to follow the individual instructions for each type.
 1. Add your content to the file. Each file will have an example at the top. You can just copy that and update it with your information. ![Contributing - Changes](./media/contributing-changes.png)
 1. Say what changes you made and click "Propose file change". ![Contributing - Propose](./media/contributing-propose.png)
 
+
 ## Event Guidelines
+
+- Events should be organized by date and then time.
+
 
 ## User Group Guidelines
 
+- User groups should be organized alphabetically.
+
+
 ## Job Guidelines
+
+- Jobs should be organized alphabetically by company and then job title.
