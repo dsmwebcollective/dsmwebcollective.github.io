@@ -21,8 +21,6 @@ Join the Des Moines Web Collective and help solidify the Des Moines metro's plac
 
 Thank you for your interest and support.
 
-Kyle Brumm
-
 ---
 
 [Want to help us build the community?](https://github.com/dsmwebcollective/dsmwebcollective.github.io/blob/master/CONTRIBUTING.md){:target="_blank"}
