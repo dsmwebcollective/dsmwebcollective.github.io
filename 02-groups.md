@@ -21,8 +21,8 @@ permalink: /user-groups/
             </a>
         {% endfor %}
 
-        <a href="#" target="_blank">Have a user group to add?</a>
+        <a href="https://github.com/dsmwebcollective/dsmwebcollective.github.io/blob/master/CONTRIBUTING.md" target="_blank">Have a user group to add?</a>
     {% else %}
-        <a href="#" target="_blank">No user groups at this time. Have a user group to add?</a>
+        <a href="https://github.com/dsmwebcollective/dsmwebcollective.github.io/blob/master/CONTRIBUTING.md" target="_blank">No user groups at this time. Have a user group to add?</a>
     {% endif %}
 </div>

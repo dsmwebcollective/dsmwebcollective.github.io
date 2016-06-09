@@ -30,8 +30,8 @@ permalink: /events/
             </a>
         {% endfor %}
 
-        <a href="#" target="_blank">Have an upcoming event to add?</a>
+        <a href="https://github.com/dsmwebcollective/dsmwebcollective.github.io/blob/master/CONTRIBUTING.md" target="_blank">Have an upcoming event to add?</a>
     {% else %}
-        <a href="#" target="_blank">No upcoming events at this time. Have an upcoming event to add?</a>
+        <a href="https://github.com/dsmwebcollective/dsmwebcollective.github.io/blob/master/CONTRIBUTING.md" target="_blank">No upcoming events at this time. Have an upcoming event to add?</a>
     {% endif %}
 </div>

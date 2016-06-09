@@ -20,3 +20,9 @@ This site is an all-in-one resource for all things web design and development in
 Join the Des Moines Web Collective and help solidify the Des Moines metro's place as a technology and innovation hub in the Midwest.
 
 Thank you for your interest and support.
+
+Kyle Brumm
+
+---
+
+[Want to help us build the community?](https://github.com/dsmwebcollective/dsmwebcollective.github.io/blob/master/CONTRIBUTING.md){:target="_blank"}

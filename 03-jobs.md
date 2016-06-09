@@ -17,8 +17,8 @@ permalink: /jobs/
             </a>
         {% endfor %}
 
-        <a href="#" target="_blank">Have a job posting to add?</a>
+        <a href="https://github.com/dsmwebcollective/dsmwebcollective.github.io/blob/master/CONTRIBUTING.md" target="_blank">Have a job posting to add?</a>
     {% else %}
-        <a href="#" target="_blank">No job postings at this time. Have a job posting to add?</a>
+        <a href="https://github.com/dsmwebcollective/dsmwebcollective.github.io/blob/master/CONTRIBUTING.md" target="_blank">No job postings at this time. Have a job posting to add?</a>
     {% endif %}
 </div>
