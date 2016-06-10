@@ -5,27 +5,6 @@
 #   date: "June 23"
 #   time: "5:00pm - 6:00pm"
 
-- title: "Lean Coffee - June"
-  group: "Agile Iowa"
-  location: "Machine Shed Restaurant"
-  details_url: "http://www.agileiowa.org/events/leancoffee/2016/05/13/lean-coffee-june9/"
-  date: "June 09"
-  time: "7:00am - 8:30am"
-
-- title: "Archive/Analyze/Alert OpenDNS Data Using an S3 Bucket"
-  group: "SecDSM"
-  location: "Gravitate"
-  details_url: "https://secdsm.org/#schedule"
-  date: "June 09"
-  time: "6:00pm"
-
-- title: "Learning the Genetic Past and Predicting the Agricultural Future"
-  group: "Central Iowa R User Group"
-  location: "Online"
-  details_url: "http://www.meetup.com/Central-Iowa-R-User-Group/events/231107338/"
-  date: "June 09"
-  time: "6:00pm - 7:30pm"
-
 - title: "Improve the Quality of your Code with Automated Browser Testing"
   group: "Des Moines WebGeeks"
   location: "The Forge"
