@@ -17,6 +17,10 @@
         right: 2rem;
         font-size: 2rem;
     }
+
+    .home & {
+        display: none;
+    }
 }
 
 

@@ -4,8 +4,12 @@
         padding: 1rem;
         color: $primary;
         overflow: hidden;
-        border-bottom: 1px solid $primary;
+        border-top: 1px solid $primary;
         transition: 0.3s ease-in-out;
+
+        &:last-of-type {
+            border-bottom: 1px solid $primary;
+        }
 
         &:hover {
             background: $primary;

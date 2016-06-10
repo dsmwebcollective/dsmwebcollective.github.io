@@ -116,18 +116,18 @@ pre,
 }
 
 .section--home {
-    margin-top: -20px;
-    height: 100vh;
-    min-height: 100vh;
-
     .container {
-        position: absolute;
-        top: 50%;
-        left: 0;
         width: 100%;
         max-width: none;
-        text-align: center;
-        transform: translateY(-50%);
+        padding: 2rem 1rem;
+
+        @media (min-width: $bp-s) {
+            padding: 4rem 2rem;
+        }
+
+        @media (min-width: $bp-m) {
+            padding: 6rem 2rem;
+        }
     }
 
     h1 {
@@ -140,17 +140,8 @@ pre,
         line-height: 1.2;
         color: $secondary;
     }
-
-    & + .footer {
-        margin-top: -99px;
-    }
 }
 
-@media (min-width: $bp-xs) {
-    .section--home + .footer {
-        margin-top: -54px;
-    }
-}
 
 .section--page .page-content {
     padding: 1rem;

@@ -1,10 +1,23 @@
 ---
 layout: default
+slug: home
 ---
 
 <section class="section section--home">
     <div class="container">
         <h1>Des Moines Web Collective</h1>
         <h3>A community of web professionals<br>in the Des Moines metro area.</h3>
+    </div>
+
+    <div class="list">
+        {% for the_page in site.pages %}
+            {% if the_page.title %}
+                <a href="{{ the_page.url | prepend: site.baseurl }}" target="_blank">
+                    <div class="title">
+                        {{ the_page.nav_title }}
+                    </div>
+                </a>
+            {% endif %}
+        {% endfor %}
     </div>
 </section>
