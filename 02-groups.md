@@ -5,7 +5,7 @@ nav_title: User Groups
 permalink: /user-groups/
 ---
 
-<div class="list groups-list">
+<div class="list list-animate groups-list">
     {% if site.data.groups %}
         {% for group in site.data.groups %}
             <a href="{{ group.url }}" target="_blank">

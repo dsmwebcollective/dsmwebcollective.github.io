@@ -12,7 +12,7 @@ slug: home
     <div class="list">
         {% for the_page in site.pages %}
             {% if the_page.title %}
-                <a href="{{ the_page.url | prepend: site.baseurl }}" target="_blank">
+                <a href="{{ the_page.url | prepend: site.baseurl }}">
                     <div class="title">
                         {{ the_page.nav_title }}
                     </div>

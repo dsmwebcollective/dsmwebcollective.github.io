@@ -5,7 +5,7 @@ nav_title: Events
 permalink: /events/
 ---
 
-<div class="list events-list">
+<div class="list list-animate events-list">
     {% if site.data.events %}
         {% for event in site.data.events %}
             <a href="{{ event.details_url }}" target="_blank">
