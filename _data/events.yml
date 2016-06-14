@@ -46,6 +46,12 @@
   details_url: "http://www.meetup.com/Central-Iowa-R-User-Group/events/231252110/"
   date: "July 14"
   time: "6:00pm - 7:30pm"
+  
+- title: "CodePen Des Moines Meetup"
+  location: "Visionary Services, Inc"
+  details_url: "https://nvite.com/CodePenDSM/e491"
+  date: "July 27"
+  time: "6:30pm - 8:30pm"
 
 - title: "An Introduction to Causal Mediation Analysis"
   group: "Central Iowa R User Group"
