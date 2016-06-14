@@ -16,7 +16,9 @@ permalink: /events/
                 </div>
 
                 <div class="content">
-                    <div class="group">[{{ event.group }}]</div>
+                    {% if event.group %}
+                        <div class="group">[{{ event.group }}]</div>
+                    {% endif %}
 
                     <div class="title">
                         {{ event.title }}</a>
@@ -26,7 +28,6 @@ permalink: /events/
                         {{ event.time }} ({{ event.location }})
                     </div>
                 </div>
-
             </a>
         {% endfor %}
 
