@@ -21,7 +21,7 @@ permalink: /events/
                     {% endif %}
 
                     <div class="title">
-                        {{ event.title }}</a>
+                        {{ event.title }}
                     </div>
 
                     <div class="time">
