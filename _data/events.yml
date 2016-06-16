@@ -5,20 +5,6 @@
 #   date: "June 23"
 #   time: "5:00pm - 6:00pm"
 
-- title: "June UX Meetup - Case & Topic Studies"
-  group: "Experiencing UX"
-  location: "The Forge"
-  details_url: "http://www.meetup.com/experiencing-UX-DSM/events/229245719/"
-  date: "June 15"
-  time: "6:00pm - 7:00pm"
-
-- title: "Basic Use of SELINUX Utilities"
-  group: "Central Iowa Linux User Group"
-  location: "Right Stuf Inc"
-  details_url: "http://www.cialug.org/?page_id=7&event_id=1058"
-  date: "June 15"
-  time: "7:00pm"
-
 - title: "Refactoring with Jr. High Algebra"
   group: "Iowa Ruby Brigade"
   location: "Merchants Bonding Company"
