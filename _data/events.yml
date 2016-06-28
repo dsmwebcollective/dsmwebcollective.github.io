@@ -5,13 +5,6 @@
 #   date: "June 23"
 #   time: "5:00pm - 6:00pm"
 
-- title: "Marrying Great Design and SEO with WordPress"
-  group: "WordPress Des Moines"
-  location: "Gravitate"
-  details_url: "https://www.facebook.com/events/1155890561196694/"
-  date: "June 27"
-  time: "5:30pm - 7:00pm"
-
 - title: "R for Marketing Research and Analytics"
   group: "Central Iowa R User Group"
   location: "Online"
@@ -31,3 +24,10 @@
   details_url: "http://www.meetup.com/Central-Iowa-R-User-Group/events/231317820/"
   date: "August 10"
   time: "6:00pm - 7:30pm"
+
+- title: "Midwest.io Developer Conference"
+   group: "Midwest.io"
+   location: "Union Station, 30 W Pershing Rd, Kansas City, MO"
+   details_url: "http://www.midwest.io/"
+   date: "August 22-23"
+   time: "8:00am August 22 to 4:40pm August 23"
