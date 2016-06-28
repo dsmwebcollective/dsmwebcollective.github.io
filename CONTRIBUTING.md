@@ -15,7 +15,7 @@ __Notes__
 - [Event Guidlines](#event-guidelines)
 - [User Group Guidlines](#user-group-guidelines)
 - [Job Guidlines](#job-guidelines)
-- [Other](#other)
+- [Additional Help](#additional-help)
 
 
 ## Adding an event, user group, or job
@@ -43,6 +43,6 @@ __Notes__
 - Jobs should be organized alphabetically by company and then job title.
 
 
-## Other
+## Additional Help
 
-If you would prefer to just send the information and have someone add it for you, you can [visit this page](https://github.com/dsmwebcollective/dsmwebcollective.github.io/issues/new).
+If you would prefer to just send the information and have us add it for you, [just contact us](http://dsmwebcollective.com/contact/).
