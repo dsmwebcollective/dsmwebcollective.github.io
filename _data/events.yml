@@ -12,6 +12,13 @@
   date: "June 27"
   time: "5:30pm - 7:00pm"
 
+ - title: "Refactor Like A Scientist"
+   group: "DSM Web Geeks"
+   location: "The Forge"
+   details_url: "http://www.dsmwebgeeks.com/wg_events/fred-galoso-refactor-like-scientist/"
+   date: "July 11th"
+   time: "6:30pm - 8:30pm"
+
 - title: "R for Marketing Research and Analytics"
   group: "Central Iowa R User Group"
   location: "Online"
