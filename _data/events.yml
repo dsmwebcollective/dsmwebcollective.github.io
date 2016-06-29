@@ -36,3 +36,8 @@
   location: "Union Station"
   details_url: "http://www.midwest.io/"
   date: "August 22-23"
+
+- title: "Prairie.Code()"
+  location: "Iowa Event Center"
+  details_url: "http://prairiecode.amegala.com/"
+  date: "October 26-28"
