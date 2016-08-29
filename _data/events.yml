@@ -16,6 +16,12 @@
   details_url: "https://www.facebook.com/events/1735496410049976/"
   date: "August 29"
   time: "5:30pm - 7:00pm"
+  
+- title: "Using React in a Rails Environment"
+  location: "Shift Interactive"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/using-react-rails-environment/"
+  date: "September 19"
+  time: "12:00pm - 1:00pm"
 
 - title: "Prairie.Code()"
   location: "Iowa Event Center"
