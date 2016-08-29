@@ -18,6 +18,7 @@
   time: "5:30pm - 7:00pm"
   
 - title: "Using React in a Rails Environment"
+  group: "Des Moines Web Geeks"
   location: "Shift Interactive"
   details_url: "http://www.dsmwebgeeks.com/wg_events/using-react-rails-environment/"
   date: "September 19"
