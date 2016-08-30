@@ -5,18 +5,6 @@
 #   date: "June 23"
 #   time: "5:00pm - 6:00pm"
 
-- title: "Midwest.io Developer Conference"
-  location: "Union Station"
-  details_url: "http://www.midwest.io/"
-  date: "August 22-23"
-
-- title: "Learning OOUX with WordPress"
-  group: "WordPress Des Moines"
-  location: "Gravitate"
-  details_url: "https://www.facebook.com/events/1735496410049976/"
-  date: "August 29"
-  time: "5:30pm - 7:00pm"
-  
 - title: "Using React in a Rails Environment"
   group: "Des Moines Web Geeks"
   location: "Shift Interactive"
