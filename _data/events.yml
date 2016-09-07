@@ -5,6 +5,13 @@
 #   date: "June 23"
 #   time: "5:00pm - 6:00pm"
 
+- title: "Build Desktop Apps using the Web Stack with Electron"
+  group: "Des Moines Web Geeks"
+  location: "The Forge"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/build-desktop-apps-using-web-stack-electron/"
+  date: "September 12"
+  time: "6:30pm - 8:30pm"
+
 - title: "Using React in a Rails Environment"
   group: "Des Moines Web Geeks"
   location: "Shift Interactive"
