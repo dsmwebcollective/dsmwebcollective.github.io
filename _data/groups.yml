@@ -20,9 +20,20 @@
 - title: "Central Iowa R User Group"
   url: "http://www.meetup.com/Central-Iowa-R-User-Group/"
 
+- title: "DAMA Iowa"
+  url: "http://damaiowa.org/"
+  meeting: "Third Tuesday of the month"
+
+- title: "Des Moines Atlassian User Group"
+  url: "http://aug.atlassian.com/cities/desmoinesia/"
+  meeting: "Quarterly"
+
 - title: "Des Moines Area Quality Assurance Association"
   url: "http://www.daqaa.com/"
   meeting: "Second Wednesday of the month"
+
+- title: "Des Moines Tableau User Group"
+  url: "https://community.tableau.com/groups/des-moines"
 
 - title: "Des Moines Web Geeks"
   url: "http://www.dsmwebgeeks.com/"
@@ -50,6 +61,14 @@
 - title: "Iowa Ruby Brigade"
   url: "http://www.iowaruby.org/"
   meeting: "Third Tuesday of the month"
+
+- title: "Iowa SQL Server User Group"
+  url: "http://iowa.sqlpass.org/"
+  meeting: "Second Wednesday of the month"
+
+- title: "ISSA Des Moines Chapter"
+  url: "http://desmoines.issa.org/"
+  meeting: "Fourth Monday of the month"
 
 - title: "Pyowa"
   url: "http://www.pyowa.org/"
