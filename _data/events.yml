@@ -12,6 +12,13 @@
   date: "September 27"
   time: "5:30pm - 7:30pm"
 
+- title: "Security by Design"
+  group: "DevOpsDSM"
+  location: "Gravitate"
+  details_url: "http://devopsdsm.com/posts/security-by-design-2"
+  date: "September 28"
+  time: "6:00pm - 7:00pm"
+
 - title: "2016 Secure Iowa Conference"
   group: "ISSA Des Moines Chapter"
   location: "FFA Enrichment Center, DMACC"
