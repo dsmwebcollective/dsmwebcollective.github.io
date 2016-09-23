@@ -37,3 +37,10 @@
   location: "Iowa Event Center"
   details_url: "http://prairiecode.amegala.com/"
   date: "October 26-28"
+
+- title: "Iowa Code Camp"
+  group: "Iowa .NET User Group"
+  location: "FFA Enrichment Center, DMACC"
+  details_url: "http://www.iowacodecamp.com/attendee/register"
+  date: "October 29"
+  time: "8:00am - 5:30pm"
