@@ -33,6 +33,13 @@
   date: "October 4"
   time: "8:00am - 4:00pm"
 
+- title: "ASP.NET Core Fundamentals"
+  group: "Iowa .NET User Group"
+  location: "Gravitate"
+  details_url: "http://www.iadnug.org/"
+  date: "October 6"
+  time: "5:45pm - 8:00pm"
+
 - title: "DAQAA Annual Meeting, Election, & Social"
   group: "Des Moines Area Quality Assurance Association"
   location: "Rock Bottom Restaurant & Brewery"
