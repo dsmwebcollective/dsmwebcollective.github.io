@@ -32,6 +32,13 @@
   details_url: "http://www.eventbrite.com/e/daqaa-2016-annual-meeting-board-elections-social-tickets-27747043153"
   date: "October 12"
   time: "4:00pm - 6:00pm"
+  
+- title: "SecDSM Monthly Information Security Meetup"
+  group: "SecDSM"
+  location: "The Forge"
+  detauls_url: "https://secdsm.org/#schedule"
+  date: "October 13"
+  time: "6:00pm - 7:30pm"
 
 - title: "Prairie.Code()"
   location: "Iowa Event Center"
