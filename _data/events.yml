@@ -5,3 +5,9 @@
 #   date: "June 23"
 #   time: "5:00pm - 6:00pm"
 
+- title: "TEST EVENT PLEASE IGNORE"
+  group: "Group who is hosting"
+  location: "Name of the location"
+  details_url: "URL to additional details"
+  date: "June 23"
+  time: "5:00pm - 6:00pm"
