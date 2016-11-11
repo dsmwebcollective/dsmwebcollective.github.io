@@ -4,3 +4,10 @@
 #   details_url: "URL to additional details"
 #   date: "June 23"
 #   time: "5:00pm - 6:00pm"
+
+- title: "Data Visualization Using dc.js"
+  group: "Des Moines Web Geeks"
+  location: "The Forge"
+  details_url: "https://www.eventbrite.com/e/data-visualization-using-dcjs-tickets-29135418822"
+  date: "November 14"
+  time: "6:30pm - 8:00pm"
