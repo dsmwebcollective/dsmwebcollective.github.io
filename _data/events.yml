@@ -4,3 +4,10 @@
 #   details_url: "URL to additional details"
 #   date: "June 23"
 #   time: "5:00pm - 6:00pm"
+
+- title: "Ugly Sweater Show and Tell"
+  group: "Des Moines Web Geeks"
+  location: "The Forge"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/ugly-sweater-show-tell/"
+  date: "December 12"
+  time: "6:30pm - 8:00pm"
