@@ -32,6 +32,10 @@
   url: "http://www.daqaa.com/"
   meeting: "Second Wednesday of the month"
 
+- title: "Des Moines Front-End"
+  url: "http://www.dsmfrontend.github.io/"
+  meeting: "First Monday of the month"
+
 - title: "Des Moines Tableau User Group"
   url: "https://community.tableau.com/groups/des-moines"
 
