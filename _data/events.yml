@@ -18,3 +18,17 @@
   details_url: "https://www.eventbrite.com/e/daqaa-safe-in-8-pictures-tickets-31718046531"
   date: "Feb 8"
   time: "4:00pm - 5:00pm"
+
+- title: "An introduction to Webpack and building single page apps"
+  group: "Des Moines Web Geeks"
+  location: "The Forge"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/introduction-webpack-building-single-page-apps/"
+  date: "Feb 13"
+  time: "6:30pm - 8:00pm"
+  
+- title: "Building Facebook Messenger Bots with JavaScript"
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/building-facebook-messenger-bots-javascript/"
+  date: "Feb 20"
+  time: "12:00pm - 1:00pm"
