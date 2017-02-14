@@ -4,13 +4,6 @@
 #   details_url: "URL to additional details"
 #   date: "Jun 23"
 #   time: "5:00pm - 6:00pm"
-
-- title: "An introduction to Webpack and building single page apps"
-  group: "Des Moines Web Geeks"
-  location: "The Forge"
-  details_url: "http://www.dsmwebgeeks.com/wg_events/introduction-webpack-building-single-page-apps/"
-  date: "Feb 13"
-  time: "6:30pm - 8:00pm"
   
 - title: "Building Facebook Messenger Bots with JavaScript"
   group: "Des Moines Web Geeks"
