@@ -5,13 +5,6 @@
 #   date: "Jun 23"
 #   time: "5:00pm - 6:00pm"
 
-- title: "SAFe in 8 Pictures"
-  group: "Des Moines Area Quality Assurance Association"
-  location: "Farm Bureau"
-  details_url: "https://www.eventbrite.com/e/daqaa-safe-in-8-pictures-tickets-31718046531"
-  date: "Feb 8"
-  time: "4:00pm - 5:00pm"
-
 - title: "An introduction to Webpack and building single page apps"
   group: "Des Moines Web Geeks"
   location: "The Forge"
