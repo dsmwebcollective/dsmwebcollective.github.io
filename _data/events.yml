@@ -5,9 +5,17 @@
 #   date: "Jun 23"
 #   time: "5:00pm - 6:00pm"
 
+- title: "Redux - Journey from MVP to production"
+  group: "dsmJS"
+  location: "Denim Headquarters (Space2Work) 700 Locust St"
+  details_url: "http://dsmjs.com/"
+  date: "May 9"
+  time: "6:00pm - 7:00pm"
+
 - title: "TechnoLeaders: Steps to Enhance Your Technical Leadership by Tom Henricksen"
   group: "Des Moines Area Quality Assurance Association"
   location: "Farm Bureau Financial Services"
   details_url: "https://www.eventbrite.com/e/daqaa-technoleaders-steps-to-enhance-your-technical-leadership-tickets-34278343448"
   date: "May 10"
   time: "4:00pm - 5:00pm"
+
