@@ -4,6 +4,14 @@
 #   details_url: "URL to additional details"
 #   date: "Jun 23"
 #   time: "5:00pm - 6:00pm"
+
+ - title: "Building your personal website with Jekyll"
+   group: "DSM Web Geeks"
+   location: "the Forge"
+   details_url: "https://www.eventbrite.com/e/june-12th-building-your-personal-website-with-jekyll-tickets-34797908481?aff=WGBlog"
+   date: "June 12"
+   time: "6:30pm - 8:30pm"
+
  - title: "CIALUG Monthly Meeting: LPIC-2 Certification Prep talk"
    group: "Centeral Iowa Linux Users Group"
    location: "DMACC Ankeny Campus Building 3W Room 50"
