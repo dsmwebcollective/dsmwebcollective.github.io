@@ -12,6 +12,13 @@
    date: "June 12"
    time: "6:30pm - 8:30pm"
 
+ - title: "Continuous Deployment of npm packages"
+   group: "dsmJS"
+   location: "Gravitate"
+   details_url: "http://dsmjs.com/"
+   date: "June 13"
+   time: "6:15pm - 7:00pm"
+
  - title: "Summer Social"
    group: "Des Moines Area Quality Assurance Association"
    location: "Wellman's Pub on Ingersoll"
