@@ -5,6 +5,13 @@
 #   date: "Jun 23"
 #   time: "5:00pm - 6:00pm"
 
+ - title: "Move Over Continuous Integration, We've Got Continuous Compliance"
+   group: "Agile Iowa"
+   location: "John Deere Financial"
+   details_url: "https://www.eventbrite.com/e/move-over-continuous-integration-weve-got-continuous-compliance-tickets-35569088100"
+   date: "July 12"
+   time: "12:00pm - 1:00pm"
+
  - title: "Think Like a Tester – Puzzles and Games to Spark Great Questions"
    group: "Des Moines Area Quality Assurance Association"
    location: "Source Allies"
