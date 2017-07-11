@@ -19,6 +19,13 @@
    date: "July 12"
    time: "4:00pm - 5:00pm"
 
+ - title: "Interactive document and dashboard using R and shiny"
+   group: "Central Iowa R User Group"
+   location: "Johnston Public Library"
+   details_url: "https://www.meetup.com/Central-Iowa-R-User-Group/events/239762260/"
+   date: "July 12"
+   time: "6:00pm - 8:00pm"
+
  - title: "T-SQL Tips & Tricks to Make Your Life Easier"
    group: "Iowa SQL Server User Group"
    location: "CCOP Training Center"
