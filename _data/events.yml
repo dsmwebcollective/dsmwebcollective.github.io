@@ -5,13 +5,6 @@
 #   date: "Jun 23"
 #   time: "5:00pm - 6:00pm"
 
- - title: "Intro to Angular 2+"
-   group: "DSM Web Geeks"
-   location: "The Forge"
-   details_url: "https://www.eventbrite.com/e/intro-to-angular-2-tickets-35710640487?aff=WGBlog"
-   date: "July 10"
-   time: "6:30pm - 8:30pm"
-   
  - title: "Think Like a Tester – Puzzles and Games to Spark Great Questions"
    group: "Des Moines Area Quality Assurance Association"
    location: "Source Allies"
