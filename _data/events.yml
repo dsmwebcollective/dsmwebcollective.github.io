@@ -11,6 +11,13 @@
    details_url: "https://www.eventbrite.com/e/intro-to-angular-2-tickets-35710640487?aff=WGBlog"
    date: "July 10"
    time: "6:30pm - 8:30pm"
+   
+ - title: "Think Like a Tester – Puzzles and Games to Spark Great Questions"
+   group: "Des Moines Area Quality Assurance Association"
+   location: "Source Allies"
+   details_url: "https://www.eventbrite.com/e/daqaa-think-like-a-tester-puzzles-and-games-to-spark-great-questions-tickets-35013115170"
+   date: "July 12"
+   time: "4:00pm - 5:00pm"
 
  - title: "Serverless Java Applications with Nate Buwalda"
    group: "Central Iowa Java User Group"
