@@ -25,3 +25,10 @@
    details_url: "https://www.eventbrite.com/e/building-blazing-fast-progressive-web-apps-tickets-36083234927"
    date: "July 18"
    time: "12:00pm - 1:00pm"
+
+ - title: "An interactive demo with NodeJS and AWS Lambda | Redux And TypeScript - better together"
+   group: "dsmJS"
+   location: "Source Allies"
+   details_url: "https://dsmjs.com/"
+   date: "July 18"
+   time: "6:00pm - 7:00pm"
