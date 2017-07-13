@@ -5,27 +5,6 @@
 #   date: "Jun 23"
 #   time: "5:00pm - 6:00pm"
 
- - title: "Move Over Continuous Integration, We've Got Continuous Compliance"
-   group: "Agile Iowa"
-   location: "John Deere Financial"
-   details_url: "https://www.eventbrite.com/e/move-over-continuous-integration-weve-got-continuous-compliance-tickets-35569088100"
-   date: "July 12"
-   time: "12:00pm - 1:00pm"
-
- - title: "Think Like a Tester – Puzzles and Games to Spark Great Questions"
-   group: "Des Moines Area Quality Assurance Association"
-   location: "Source Allies"
-   details_url: "https://www.eventbrite.com/e/daqaa-think-like-a-tester-puzzles-and-games-to-spark-great-questions-tickets-35013115170"
-   date: "July 12"
-   time: "4:00pm - 5:00pm"
-
- - title: "Interactive document and dashboard using R and shiny"
-   group: "Central Iowa R User Group"
-   location: "Johnston Public Library"
-   details_url: "https://www.meetup.com/Central-Iowa-R-User-Group/events/239762260/"
-   date: "July 12"
-   time: "6:00pm - 8:00pm"
-
  - title: "T-SQL Tips & Tricks to Make Your Life Easier"
    group: "Iowa SQL Server User Group"
    location: "CCOP Training Center"
