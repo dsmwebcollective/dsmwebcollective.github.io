@@ -5,20 +5,6 @@
 #   date: "Jun 23"
 #   time: "5:00pm - 6:00pm"
 
- - title: "T-SQL Tips & Tricks to Make Your Life Easier"
-   group: "Iowa SQL Server User Group"
-   location: "CCOP Training Center"
-   details_url: "https://www.meetup.com/dsmsql/events/240942719/"
-   date: "July 13"
-   time: "6:00pm - 8:00pm"
-
- - title: "Serverless Java Applications with Nate Buwalda"
-   group: "Central Iowa Java User Group"
-   location: "Businessolver"
-   details_url: "https://www.meetup.com/central-iowa-java-users-group/events/240666097/"
-   date: "July 13"
-   time: "6:00pm - 9:00pm"
-   
  - title: "Building Blazing-Fast Progressive Web Apps"
    group: "Des Moines Web Geeks"
    location: "Source Allies"
