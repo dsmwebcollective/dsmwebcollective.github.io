@@ -5,6 +5,13 @@
 #   date: "Jun 23"
 #   time: "5:00pm - 6:00pm"
 
+ - title: "How Computers Really Work. Revealing the magic behind the machine."
+   group: "Pillar Technology"
+   location: "The Forge"
+   details_url: "http://info.pillartechnology.com/ihr_pi_magic"
+   date: "July 25"
+   time: "5:30pm - 7:30pm"
+
  - title: "Building a raspberry pi cluster using docker swarm"
    group: "DevOpsDSM"
    location: "Gravitate - Downtown"
