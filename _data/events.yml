@@ -32,3 +32,10 @@
    details_url: "http://www.cialug.org/?page_id=7&event_id=1070"
    date: "July 19"
    time: "7:00pm - 8:30pm"
+
+ - title: "Building a raspberry pi cluster using docker swarm"
+   group: "DevOpsDSM"
+   location: "Gravitate - Downtown"
+   details_url: "http://devopsdsm.com/posts/pi-docker-swarm"
+   date: "July 26"
+   time: "6:00pm - 7:00pm"
