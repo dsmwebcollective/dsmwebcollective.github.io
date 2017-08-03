@@ -6,20 +6,6 @@
 #   time: "5:00pm - 6:00pm"
 
  - title: "Parallel Programming in Python"
-   group: "Pyowa"
-   location: "The Forge"
-   details_url: "https://www.eventbrite.com/e/pyowa-august-2017-tickets-36485304528"
-   date: "August 1"
-   time: "6:00pm - 8:00pm"
-   
- - title: "Test Driving Your Infrastructure"
-   group: "AWS Des Moines"
-   location: "Dice"
-   details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/238963468/"
-   date: "August 2"
-   time: "5:30pm - 7:00pm"
-   
- - title: "Parallel Programming in Python"
    group: "IADNUG"
    location: "Source Allies"
    details_url: "https://www.meetup.com/iadnug/events/237136670/"
