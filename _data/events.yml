@@ -19,6 +19,13 @@
   date: "August 15"
   time: "12:00pm - 1:00pm"
 
+- title: "Redux - A Case Study in Performance Tuning"
+  group: "dsmJS"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://dsmjs.com/"
+  date: "August 15"
+  time: "6:15pm - 7:00pm"
+
 - title: "CSS Grid on SBNation.com: A Highlight Reel"
   group: "Des Moines Web Geeks"
   location: "Blue Compass"
