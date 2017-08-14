@@ -46,3 +46,10 @@
   details_url: "https://www.eventbrite.com/e/lean-coffee-august-2017-tickets-32575571411"
   date: "August 17"
   time: "7:00am - 8:30am"
+
+- title: "Introduction to Shodan"
+  group: "SecDSM"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.secdsm.org/"
+  date: "August 17"
+  time: "6:00pm - 8:00pm"
