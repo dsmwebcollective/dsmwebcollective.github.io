@@ -47,6 +47,13 @@
   date: "September 13"
   time: "4:00pm - 5:00pm"
 
+- title: "Spring Boot / Spring Cloud"
+  group: "CIJUG"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/242222945/"
+  date: "September 14"
+  time: "6:00pm - 8:00pm"
+
 - title: "Log Aggregation with Graylog"
   group: "Iowa Ruby Brigade"
   location: "Gravitate Valley Junction"
