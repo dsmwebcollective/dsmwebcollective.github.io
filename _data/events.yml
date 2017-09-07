@@ -60,3 +60,10 @@
   details_url: "http://www.iowaruby.org/meetings/2017/09/"
   date: "September 19"
   time: "12:00pm - 1:00pm"
+
+- title: "Capture the Flag event"
+  group: "SecDSM"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.secdsm.org/"
+  date: "September 21"
+  time: "6:00pm - 8:00pm"
