@@ -40,6 +40,13 @@
   date: "September 11"
   time: "6:30pm - 8:30pm"
 
+- title: "QA and DevOps: Running in Tandem"
+  group: "Des Moines Area Quality Assurance Association"
+  location: "CCOP Training Center"
+  details_url: "https://www.eventbrite.com/e/daqaa-qa-and-devops-running-in-tandem-tickets-36837308381"
+  date: "September 13"
+  time: "4:00pm - 5:00pm"
+
 - title: "Log Aggregation with Graylog"
   group: "Iowa Ruby Brigade"
   location: "Gravitate Valley Junction"
