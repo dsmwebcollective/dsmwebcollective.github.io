@@ -19,6 +19,13 @@
   date: "September 11"
   time: "6:30pm - 8:30pm"
 
+- title: "Async/Await - A solution to callback hell we've been awaiting for."
+  group: "dsmJS"
+  location: "Gravitate Downtown"
+  details_url: "https://dsmjs.com/"
+  date: "September 12"
+  time: "6:00pm - 7:00pm"
+
 - title: "QA and DevOps: Running in Tandem"
   group: "Des Moines Area Quality Assurance Association"
   location: "CCOP Training Center"
