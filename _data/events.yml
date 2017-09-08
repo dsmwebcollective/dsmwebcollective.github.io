@@ -4,27 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Jun 23"
 #  time: "5:00pm - 6:00pm"
-
-- title: "What is Machine Learning?"
-  group: "Pyowa"
-  location: "The Forge: Pillar Technology"
-  details_url: "https://www.eventbrite.com/e/pyowa-september-2017-tickets-37062499935"
-  date: "September 5"
-  time: "6:00pm - 8:00pm"
-  
-- title: "Data Visualization 101 - Create Reports to Impress Your Boss"
-  group: "IADNUG"
-  location: "Gravitate Downtown"
-  details_url: "https://www.meetup.com/iadnug/events/237136685/"
-  date: "September 7"
-  time: "11:45am - 1:00pm"
-
-- title: "Tableau Jumpstart"
-  group: "DSM TUG"
-  location: "Nationwide"
-  details_url: "https://www.eventbrite.com/e/des-moines-tableau-user-group-meeting-registration-36554925767"
-  date: "September 7"
-  time: "1:30pm - 3:30pm"
   
 - title: "Software Craftsmanship Saturday"
   group: "Pillar Technology"
