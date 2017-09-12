@@ -14,7 +14,7 @@
 
 - title: "Async/Await - A solution to callback hell we've been awaiting for."
   group: "dsmJS"
-  location: "Gravitate Downtown"
+  location: "Gravitate: Downtown"
   details_url: "https://dsmjs.com/"
   date: "September 12"
   time: "6:00pm - 7:00pm"
@@ -49,7 +49,7 @@
 
 - title: "Log Aggregation with Graylog"
   group: "Iowa Ruby Brigade"
-  location: "Gravitate Valley Junction"
+  location: "Gravitate: Valley Junction"
   details_url: "http://www.iowaruby.org/meetings/2017/09/"
   date: "September 19"
   time: "12:00pm - 1:00pm"
@@ -74,6 +74,13 @@
   details_url: "http://info.pillartechnology.com/ihrtechyeahsept"
   date: "September 22"
   time: "11:30am - 1:30pm"
+  
+- title: "Project: DonateDSM.info Workshop"
+  group: "ladyDev"
+  location: "Area515"
+  details_url: "http://meetu.ps/c/3t0p2/l0bl8/f"
+  date: "September 24"
+  time: "10:00am"
 
 - title: "Pillar PluggedIn"
   group: "Pillar Technology"
@@ -88,3 +95,9 @@
   details_url: "https://www.meetup.com/experiencing-UX-DSM/events/240579116/"
   date: "September 27"
   time: "6:00pm - 8:00pm"
+  
+- title: "PLIBMTTBHGATY"
+  location: "Graviate: Valley Junction"
+  details_url: "https://www.tikly.co/events/2209"
+  date: "October 7th"
+  time: "12:00pm – 4:00pm"
