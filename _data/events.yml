@@ -5,27 +5,6 @@
 #  date: "Jun 23"
 #  time: "5:00pm - 6:00pm"
 
-- title: "Async/Await - A solution to callback hell we've been awaiting for."
-  group: "dsmJS"
-  location: "Gravitate: Downtown"
-  details_url: "https://dsmjs.com/"
-  date: "September 12"
-  time: "6:00pm - 7:00pm"
-
-- title: "QA and DevOps: Running in Tandem"
-  group: "Des Moines Area Quality Assurance Association"
-  location: "CCOP Training Center"
-  details_url: "https://www.eventbrite.com/e/daqaa-qa-and-devops-running-in-tandem-tickets-36837308381"
-  date: "September 13"
-  time: "4:00pm - 5:00pm"
-
-- title: "Spring Boot / Spring Cloud"
-  group: "CIJUG"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/242222945/"
-  date: "September 14"
-  time: "6:00pm - 8:00pm"
-
 - title: "Demystifying Cloud Data Warehousing"
   group: "DAMA Iowa"
   location: "Nationwide"
@@ -44,13 +23,6 @@
   group: "Iowa Ruby Brigade"
   location: "Gravitate: Valley Junction"
   details_url: "http://www.iowaruby.org/meetings/2017/09/"
-  date: "September 19"
-  time: "12:00pm - 1:00pm"
-
-- title: "UX Research Strategies for Data-Driven Teams"
-  group: "Des Moines Web Geeks"
-  location: "Happy Medium"
-  details_url: "https://www.eventbrite.com/e/ux-research-strategies-for-data-driven-teams-tickets-37817597452"
   date: "September 19"
   time: "12:00pm - 1:00pm"
 
