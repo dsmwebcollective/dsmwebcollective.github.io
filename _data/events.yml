@@ -82,6 +82,13 @@
   date: "October 5"
   time: "5:00pm - 8:00pm"
   
+- title: "Secure Iowa Conference"
+  group: "ISSA Des Moines Chapter"
+  location: "DMACC FFA Enrichment Center"
+  details_url: "https://secureiowaconference.com/"
+  date: "October 2-3"
+  time: "8:00am - 4:00pm"
+  
 - title: "The Old and New .NET"
   group: "IADNUG"
   location: "Gravitate: Valley Junction"
