@@ -26,19 +26,19 @@
   date: "September 28"
   time: "11:00am - 12:30pm"
   
+- title: "Secure Iowa Conference"
+  group: "ISSA Des Moines Chapter"
+  location: "DMACC FFA Enrichment Center"
+  details_url: "https://secureiowaconference.com/"
+  date: "October 2-3"
+  time: "8:00am - 4:00pm"  
+  
 - title: "Agile Iowa Social"
   group: "Agile Iowa"
   location: "Bar Louie"
   details_url: "https://www.eventbrite.com/e/agile-iowa-social-october-2017-tickets-37830298441"
   date: "October 5"
   time: "5:00pm - 8:00pm"
-  
-- title: "Secure Iowa Conference"
-  group: "ISSA Des Moines Chapter"
-  location: "DMACC FFA Enrichment Center"
-  details_url: "https://secureiowaconference.com/"
-  date: "October 2-3"
-  time: "8:00am - 4:00pm"
   
 - title: "The Old and New .NET"
   group: "IADNUG"
