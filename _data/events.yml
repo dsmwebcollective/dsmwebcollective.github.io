@@ -12,6 +12,13 @@
   date: "September 26"
   time: "5:30pm - 7:30pm"
 
+- title: "Open Spaces"
+  group: "DevOpsDSM"
+  location: "Gravitate Downtown"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/242825143/"
+  date: "September 27"
+  time: "6:00pm - 7:00pm"
+  
 - title: "Building Your UX Portfolio"
   group: "experiencing UX"
   location: "The Forge: Pillar Technology"
