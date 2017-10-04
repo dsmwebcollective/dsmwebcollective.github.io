@@ -59,6 +59,13 @@
   details_url: "http://dsmagile.agileiowa.org/"
   date: "October 13"
   time: "8:30am - 4:30pm"
+
+- title: "Refactoring Controllers using Filterer Objects"
+  group: "Iowa Ruby Brigade"
+  location: "Gravitate Valley Junction"
+  details_url: "http://www.iowaruby.org/meetings/2017/10/"
+  date: "October 17"
+  time: "12:00 - 1:00pm"
   
 - title: "Full Stack Marketing - Analytics for Developers"
   group: "Des Moines Web Geeks"
