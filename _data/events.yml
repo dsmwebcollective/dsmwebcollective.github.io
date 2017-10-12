@@ -74,3 +74,10 @@
   details_url: "https://secdsm.org/"
   date: "October 19"
   time: "6:00 - 7:00pm"
+  
+- title: "Diving into Angular 4"
+  group: "Pillar Technology"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://info.pillartechnology.com/diving-into-angular"
+  date: "October 24"
+  time: "5:30 - 7:30pm"
