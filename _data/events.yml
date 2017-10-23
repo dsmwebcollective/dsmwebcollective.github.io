@@ -19,6 +19,13 @@
   date: "October 25"
   time: "6:00 - 7:00pm"
   
+- title: "IADNUG Social with QCI"
+  group: "IADNUG"
+  location: "Range Grill + Golf"
+  details_url: "https://www.meetup.com/iadnug/events/244226159/"
+  date: "October 26"
+  time: "5:00 - 8:00pm"
+  
 - title: "Build a Serverless Web Application on AWS Lambda"
   group: "AWS Des Moines"
   location: "Dice"
