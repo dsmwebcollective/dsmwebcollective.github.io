@@ -12,6 +12,13 @@
   date: "October 24"
   time: "5:30 - 7:30pm"
   
+- title: "So, who's gonna tell 'em?"
+  group: "DevOpsDSM"
+  location: "Gravitate: Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/243391717/"
+  date: "October 25"
+  time: "6:00 - 7:00pm"
+  
 - title: "Build a Serverless Web Application on AWS Lambda"
   group: "AWS Des Moines"
   location: "Dice"
