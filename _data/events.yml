@@ -33,6 +33,13 @@
   date: "October 26"
   time: "5:00 - 8:00pm"
   
+- title: "Iowa Code Camp"
+  group: "IADNUG"
+  location: "DMACC Ankeny: FFA Enrichment Center"
+  details_url: "http://www.iowacodecamp.com"
+  date: "November 4"
+  time: "8:00am - 5:30pm"
+  
 - title: "Build a Serverless Web Application on AWS Lambda"
   group: "AWS Des Moines"
   location: "Dice"
