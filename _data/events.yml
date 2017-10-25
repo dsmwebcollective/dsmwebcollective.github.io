@@ -40,6 +40,13 @@
   date: "November 1"
   time: "5:30 - 7:00pm"
   
+- title: "So, who's gonna tell 'em?"
+  group: "IADNUG + CIJUG"
+  location: "Gravitate: Valley Junction"
+  details_url: "https://www.meetup.com/iadnug/events/237136711/"
+  date: "November 2"
+  time: "5:45 - 7:00pm" 
+  
 - title: "Iowa Code Camp"
   group: "IADNUG"
   location: "DMACC Ankeny: FFA Enrichment Center"
