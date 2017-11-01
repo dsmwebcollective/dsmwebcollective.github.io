@@ -33,6 +33,13 @@
   date: "November 4"
   time: "8:00am - 5:30pm"
   
+- title: "Agile Numbers: The Signpost of Your Agile Journey"
+  group: "DAQAA"
+  location: "CCOP Training Center"
+  details_url: "https://www.eventbrite.com/e/daqaa-agile-numbers-the-signposts-on-your-agile-journey-tickets-39419105606"
+  date: "November 8"
+  time: "4:00 - 5:00pm"
+
 - title: "Build a Serverless Web Application on AWS Lambda"
   group: "AWS Des Moines"
   location: "Dice"
