@@ -46,6 +46,13 @@
   details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/244346334"
   date: "November 8"
   time: "5:30 - 7:30pm"
+  
+- title: "All About Usability Testing"
+  group: "experiencing UX"
+  location: "Workiva"
+  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/242022829/"
+  date: "November 8"
+  time: "6:00 - 7:00pm"
 
 - title: "React - Why did you render?"
   group: "dsmJS"
