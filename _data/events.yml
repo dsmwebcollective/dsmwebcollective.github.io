@@ -82,6 +82,13 @@
   date: "November 16"
   time: "5:00 - 7:45pm"
 
+- title: "Global Day of Coderetreat"
+  group: "Pillar Technology"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://info.pillartechnology.com/gdcr_pillar_2017_rsvp_ihr"
+  date: "November 18"
+  time: "9:00am - 3:30pm"
+
 - title: "Monoliths & Hydras: Strategies for Goldilock Sized Service"
   group: "Iowa Ruby Brigade"
   location: "Gravitate: Valley Junction"
