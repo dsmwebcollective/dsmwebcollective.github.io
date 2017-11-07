@@ -74,6 +74,13 @@
   details_url: "http://www.centraliowaiiba.org/meetings/iibacic2017_011"
   date: "November 16"
   time: "10:45am - 12:30pm"
+
+- title: "Building Micro-Frontends with Vue.js"
+  group: "DSM Web Geeks"
+  location: "Blue Compass"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/building-micro-frontends-with-vue-js/"
+  date: "November 16"
+  time: "12:00pm - 1:00pm"
   
 - title: "‘Military/Project Management Alliance – Yesterday, Today & Tomorrow’ with Jay Hicks"
   group: "PMI Central Iowa Chapter"
