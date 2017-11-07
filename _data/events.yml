@@ -3,7 +3,7 @@
 #  location: "Name of the location"
 #  details_url: "URL to additional details"
 #  date: "Jun 23"
-#  time: "5:00pm - 6:00pm"
+#  time: "5:00 - 6:00pm"
 
 - title: "Open Q & A"
   group: "Pyowa"
@@ -80,7 +80,7 @@
   location: "Blue Compass"
   details_url: "http://www.dsmwebgeeks.com/wg_events/building-micro-frontends-with-vue-js/"
   date: "November 16"
-  time: "12:00pm - 1:00pm"
+  time: "12:00 - 1:00pm"
   
 - title: "‘Military/Project Management Alliance – Yesterday, Today & Tomorrow’ with Jay Hicks"
   group: "PMI Central Iowa Chapter"
