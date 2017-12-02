@@ -25,6 +25,13 @@
   details_url: "http://www.dsmwebgeeks.com/wg_events/second-annual-ugly-sweater-show-and-share/"
   date: "Dec 11"
   time: "6:30 - 8:00pm"
+  
+- title: "SQL Server: Now It’s Everywhere You Want to Be (SQL Server on Linux)"
+  group: "IASSUG"
+  location: "Hy-Vee Helpful Smiles Technology Center"
+  details_url: "https://www.meetup.com/dsmsql/events/245536499/"
+  date: "Dec 13"
+  time: "6:00 - 9:00pm"
 
 - title: "Code Off Challenge [Connect 4 Edition]"
   group: "CIJUG"
