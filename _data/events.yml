@@ -5,6 +5,13 @@
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
 
+- title: "Open Q & A"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "Dec 5"
+  time: "6:00 - 8:00pm"
+
 - title: "Wellmark lessons learned from Re:Invent 2017"
   group: "AWS Des Moines"
   location: "Wellmark"
