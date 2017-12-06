@@ -54,6 +54,13 @@
   date: "Dec 14"
   time: "6:00 - 9:00pm"
 
+- title: "Panel: How Do You Teach Coding?"
+  group: "DSM Web Geeks"
+  location: "Happy Medium"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/panel-how-do-you-teach-coding/"
+  date: "Dec 20"
+  time: "12:00 - 1:00pm"
+
 - title: "SIGBAP Holiday Party"
   group: "Central Iowa Linux Users Group"
   location: "Felix and Oscar's"
