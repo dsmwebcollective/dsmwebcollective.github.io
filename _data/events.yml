@@ -5,27 +5,6 @@
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
 
-- title: "Open Q & A"
-  group: "Pyowa"
-  location: "The Forge: Pillar Technology"
-  details_url: "http://www.pyowa.org/"
-  date: "Dec 5"
-  time: "6:00 - 8:00pm"
-
-- title: "Wellmark lessons learned from Re:Invent 2017"
-  group: "AWS Des Moines"
-  location: "Wellmark"
-  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmywqbjb/"
-  date: "Dec 6"
-  time: "5:30 - 7:00pm"
-
-- title: "Annual Bash"
-  group: "IADNUG"
-  location: "Beerhouse"
-  details_url: "https://www.meetup.com/iadnug/events/237136731/"
-  date: "Dec 7"
-  time: "5:45 - 8:00pm"
-  
 - title: "Second Annual Ugly Sweater Show & Share"
   group: "DSM Web Geeks"
   location: "The Forge: Pillar Technology"
