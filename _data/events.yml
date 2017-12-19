@@ -11,6 +11,13 @@
   details_url: "http://www.dsmwebgeeks.com/wg_events/panel-how-do-you-teach-coding/"
   date: "Dec 20"
   time: "12:00 - 1:00pm"
+  
+- title: "Summit recap and Intro to Slide"
+  group: "Des Moines Atlassian User Group"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://aug.atlassian.com/events/details/atlassian-des-moines-presents-des-moines-aug-year-end"
+  date: "Dec 20"
+  time: "5:30 - 7:30pm"
 
 - title: "SIGBAP Holiday Party"
   group: "Central Iowa Linux Users Group"
