@@ -5,6 +5,13 @@
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
 
+- title: "Intermediate debugging"
+  group: "dsmJS"
+  location: "Source Allies"
+  details_url: "https://dsmjs.com/"
+  date: "Jan 9"
+  time: "6:00 - 7:00pm"
+
 - title: "Shall we play a game?"
   group: "DAQAA"
   location: "CCOP Training Center"
