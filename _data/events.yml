@@ -11,6 +11,13 @@
   details_url: "https://dsmjs.com/"
   date: "Jan 9"
   time: "6:00 - 7:00pm"
+  
+- title: "Open Python Q & A"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "Jan 9"
+  time: "6:00 - 8:00pm"
 
 - title: "Shall we play a game?"
   group: "DAQAA"
