@@ -46,3 +46,10 @@
   details_url: "https://www.meetup.com/iadnug/events/246096982/"
   date: "Jan 18"
   time: "5:00 - 8:00pm"
+  
+- title: "Interactive Docker Workshop"
+  group: "AWS Des Moines"
+  location: "Wellmark"
+  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmyxdbkb/"
+  date: "Feb 7"
+  time: "5:30 - 7:00pm"
