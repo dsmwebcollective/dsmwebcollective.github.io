@@ -19,12 +19,19 @@
   date: "Jan 17"
   time: "6:00 - 7:00pm"
   
-  - title: "What the File?"
+- title: "What the File?"
   group: "Central Iowa Linux User's Group"
   location: "DMACC Ankeny Campus Building 3W, Room 50 "
   details_url: "https://www.cialug.org/?page_id=7"
   date: "Jan 17"
   time: "7:00 - 8:30pm"
+  
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.eventbrite.com/e/lean-coffee-january-2018-tickets-42183050640"
+  date: "Jan 18"
+  time: "7:00 - 8:30am"
 
 - title: "Angular and Observables (Reactive Extensions) & Annual Planning"
   group: "IADNUG"
