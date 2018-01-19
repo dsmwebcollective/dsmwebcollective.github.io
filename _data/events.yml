@@ -45,7 +45,14 @@
   location: "The Forge: Pillar Technology"
   details_url: "https://www.secdsm.org/"
   date: "Jan 18"
-  tiem: "6:00 - 7:00pm"
+  time: "6:00 - 7:00pm"
+  
+- title: "IT Security Investment"
+  group: "ISSA Des Moines Chapter"
+  location: "Farm Bureau"
+  details_url: "http://desmoines.issa.org/meetings/item/84-monthly-meeting-january-22-2018"
+  date: "Jan 22"
+  time: "11:30am - 1:00pm"
   
 - title: "Annual General Meeting - Panel Discussion, Board Member Q & A"
   group: "IIBA Central Iowa Chapter"
