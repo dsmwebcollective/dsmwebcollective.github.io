@@ -19,6 +19,13 @@
   date: "Jan 25"
   time: "11:00am - 12:30pm"
   
+- title: "TECH yeah!"
+  group: "Pillar Technology"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://info.pillartechnology.com/ty.ihr.feb2018.RSVP"
+  date: "Feb 2"
+  time: "11:30am - 1:30pm"
+  
 - title: "Interactive Docker Workshop"
   group: "AWS Des Moines"
   location: "Wellmark"
