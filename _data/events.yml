@@ -25,6 +25,13 @@
   details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmyxdbkb/"
   date: "Feb 7"
   time: "5:30 - 7:00pm"
+  
+- title: "Modern Messaging Applications with Ruby"
+  group: "Iowa Ruby Brigade"
+  location: "Gravitate Valley Junction"
+  details_url: "http://www.iowaruby.org/meetings/2018/02/index.html"
+  date: "Feb 20"
+  time: "12:00 - 1:00pm"
 
 - title: "World IA Day"
   group: "experiencing UX"
