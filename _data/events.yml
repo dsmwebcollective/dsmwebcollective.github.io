@@ -4,20 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
-
-- title: "IT Security Investment"
-  group: "ISSA Des Moines Chapter"
-  location: "Farm Bureau"
-  details_url: "http://desmoines.issa.org/meetings/item/84-monthly-meeting-january-22-2018"
-  date: "Jan 22"
-  time: "11:30am - 1:00pm"
-  
-- title: "Annual General Meeting - Panel Discussion, Board Member Q & A"
-  group: "IIBA Central Iowa Chapter"
-  location: "EMC Insurance"
-  details_url: "https://events.r20.constantcontact.com/register/eventReg?oeidk=a07eezvoav45553a2f6&oseq=&c=&ch="
-  date: "Jan 25"
-  time: "11:00am - 12:30pm"
   
 - title: "Test Driving Your Infrastructure"
   group: "DevOpsDSM"
