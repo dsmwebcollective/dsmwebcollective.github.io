@@ -19,6 +19,13 @@
   date: "Feb 2"
   time: "11:30am - 1:30pm"
   
+- title: "Agile Iowa Social"
+  group: "Agile Iowa"
+  location: "Hello, Marjorie"
+  details_url: "https://www.eventbrite.com/e/agile-iowa-social-february-2018-tickets-42723705754"
+  date: "Feb 2"
+  time: "5:00 - 8:00pm"
+  
 - title: "Interactive Docker Workshop"
   group: "AWS Des Moines"
   location: "Wellmark"
