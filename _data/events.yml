@@ -40,6 +40,13 @@
   date: "Feb 7"
   time: "5:30 - 7:00pm"
   
+- title: "Spock Testing & Mocking Framework"
+  group: "CIJUG"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/246687406/"
+  date: "Feb 8"
+  time: "6:00 - 8:00pm"
+  
 - title: "Modern Messaging Applications with Ruby"
   group: "Iowa Ruby Brigade"
   location: "Gravitate Valley Junction"
