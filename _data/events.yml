@@ -26,6 +26,13 @@
   date: "Feb 2"
   time: "5:00 - 8:00pm"
   
+- title: "TDD Demonstration & Workshop"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "Feb 6"
+  time: "6:00 - 8:00pm"
+  
 - title: "Interactive Docker Workshop"
   group: "AWS Des Moines"
   location: "Wellmark"
