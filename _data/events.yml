@@ -47,6 +47,13 @@
   date: "Feb 8"
   time: "6:00 - 8:00pm"
   
+- title: "Let’s Build an Alexa Voice Skill Together"
+  group: "Des Moines Web Geeks"
+  location: "The Forge"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/lets-build-an-alexa-voice-skill-together/"
+  date: "Feb 12"
+  time: "6:30 - 8:00pm"
+  
 - title: "Modern Messaging Applications with Ruby"
   group: "Iowa Ruby Brigade"
   location: "Gravitate Valley Junction"
