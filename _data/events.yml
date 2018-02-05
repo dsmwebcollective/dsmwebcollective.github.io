@@ -5,27 +5,6 @@
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
   
-- title: "Test Driving Your Infrastructure"
-  group: "DevOpsDSM"
-  location: "Gravitate Valley Junction"
-  details_url: "https://www.meetup.com/DevOpsDSM/events/lcwbrnyxcbpc/"
-  date: "Jan 31"
-  time: "6:00 - 7:00pm"
-  
-- title: "TECH yeah!"
-  group: "Pillar Technology"
-  location: "The Forge: Pillar Technology"
-  details_url: "http://info.pillartechnology.com/ty.ihr.feb2018.RSVP"
-  date: "Feb 2"
-  time: "11:30am - 1:30pm"
-  
-- title: "Agile Iowa Social"
-  group: "Agile Iowa"
-  location: "Hello, Marjorie"
-  details_url: "https://www.eventbrite.com/e/agile-iowa-social-february-2018-tickets-42723705754"
-  date: "Feb 2"
-  time: "5:00 - 8:00pm"
-  
 - title: "TDD Demonstration & Workshop"
   group: "Pyowa"
   location: "The Forge: Pillar Technology"
