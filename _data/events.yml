@@ -12,6 +12,13 @@
   date: "Feb 12"
   time: "6:30 - 8:00pm"
   
+- title: "Code Review and other tips"
+  group: "dsmJS"
+  location: "Dwolla"
+  details_url: "https://dsmjs.com/"
+  date: "Feb 13"
+  time: "6:00 - 7:00pm"
+  
 - title: "Git Refresh"
   group: "IADNUG"
   location: "Gravitate Downtown"
