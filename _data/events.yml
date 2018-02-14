@@ -7,7 +7,7 @@
   
 - title: "Let’s Build an Alexa Voice Skill Together"
   group: "Des Moines Web Geeks"
-  location: "The Forge"
+  location: "The Forge: Pillar Technology"
   details_url: "http://www.dsmwebgeeks.com/wg_events/lets-build-an-alexa-voice-skill-together/"
   date: "Feb 12"
   time: "6:30 - 8:00pm"
@@ -37,6 +37,13 @@
   group: "IASSUG"
   location: "Hy-Vee Helpful Smiles Technology Center"
   details_url: "https://www.eventbrite.com/e/iassug-february-meeting-tickets-42687887621?aff=erelexpmlt"
+  date: "Feb 15"
+  time: "6:00 - 8:00pm"
+  
+- title: "Continuous Security: Monitoring & Active Defense in the Cloud"
+  group: "SecDSM"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.secdsm.org/"
   date: "Feb 15"
   time: "6:00 - 8:00pm"
   
