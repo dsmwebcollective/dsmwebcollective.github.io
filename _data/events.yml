@@ -61,6 +61,13 @@
   date: "Feb 21"
   time: "12:00 - 1:00pm"
   
+- title: "BAs and Brews"
+  group: "IIBA-CIC"
+  location: "515 Brewing Company"
+  details_url: "http://www.centraliowaiiba.org/news/bas-and-brews"
+  date: "Feb 21"
+  time: "5:00 - 7:00pm"
+  
 - title: "UX Trivia & Social"
   group: "experiencing UX"
   location: "Blue Compass Interactive"
