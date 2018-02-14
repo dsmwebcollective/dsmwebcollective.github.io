@@ -54,6 +54,13 @@
   date: "Feb 20"
   time: "12:00 - 1:00pm"
   
+- title: "DevOps 101: Get Started with Continuous Integration and Deployment"
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/devops-101-get-started-with-continuous-integration-and-deployment/"
+  date: "Feb 21"
+  time: "12:00 - 1:00pm"
+  
 - title: "UX Trivia & Social"
   group: "experiencing UX"
   location: "Blue Compass Interactive"
