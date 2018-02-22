@@ -47,6 +47,13 @@
   details_url: "https://2018.worldiaday.org/location/des-moines-iowa-united-states"
   date: "Feb 24"
   time: "8:30am - 3:30pm"
+  
+- title: "Purple Team something something..."
+  group: "ISSA Des Moines Chapter"
+  location: "Farm Bureau"
+  detail_url: "http://desmoines.issa.org/meetings/item/85-monthly-meeting-february-26-2018"
+  date: "Feb 26"
+  time: "11:30am - 1:00pm"
 
 - title: "Innovation Delivered"
   group: "ProductTank Des Moines/Ames"
