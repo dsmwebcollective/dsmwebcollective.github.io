@@ -61,3 +61,10 @@
   details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/247749219/"
   date: "Feb 27"
   time: "5:30 - 7:00pm"
+
+- title: "DevOpsDays Des Moines"
+  group: "DevOpsDays"
+  location: "Iowa Events Center"
+  details_url: "https://www.devopsdays.org/events/2018-des-moines/welcome/"
+  date: "Apr 12-13"
+  time: "8:00am - 4:30pm"
