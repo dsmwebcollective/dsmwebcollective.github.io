@@ -60,6 +60,13 @@
   details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/247749219/"
   date: "Feb 27"
   time: "5:30 - 7:00pm"
+  
+- title: "Kotlin"
+  group: "CIJUG"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/248022366/"
+  date: "Mar 8"
+  time: "6:00 - 8:00pm"
 
 - title: "DevOpsDays Des Moines"
   group: "DevOpsDays"
