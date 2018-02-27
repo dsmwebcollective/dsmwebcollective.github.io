@@ -61,6 +61,13 @@
   date: "Feb 27"
   time: "5:30 - 7:00pm"
   
+- title: "DevOps 101: Get Started with CI/CD"
+  group: "DevOpsDSM"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/247122733/"
+  date: "Feb 28"
+  time: "6:00 - 8:00pm"  
+  
 - title: "Kotlin"
   group: "CIJUG"
   location: "Source Allies"
