@@ -24,7 +24,14 @@
   location: "Gravitate Valley Junction"
   details_url: "https://www.meetup.com/DevOpsDSM/events/247122733/"
   date: "Feb 28"
-  time: "6:00 - 8:00pm"  
+  time: "6:00 - 8:00pm"
+  
+- title: "The simplicity of PEP 503"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "Mar 6"
+  time: "6:00 - 8:00pm"
   
 - title: "Kotlin"
   group: "CIJUG"
