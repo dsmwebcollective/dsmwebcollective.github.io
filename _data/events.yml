@@ -4,28 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
-   
-- title: "Purple Team something something..."
-  group: "ISSA Des Moines Chapter"
-  location: "Farm Bureau"
-  detail_url: "http://desmoines.issa.org/meetings/item/85-monthly-meeting-february-26-2018"
-  date: "Feb 26"
-  time: "11:30am - 1:00pm"
-
-- title: "Innovation Delivered"
-  group: "ProductTank Des Moines/Ames"
-  location: "DuPont Pioneer"
-  details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/247749219/"
-  date: "Feb 27"
-  time: "5:30 - 7:00pm"
-  
-- title: "DevOps 101: Get Started with CI/CD"
-  group: "DevOpsDSM"
-  location: "Gravitate Valley Junction"
-  details_url: "https://www.meetup.com/DevOpsDSM/events/247122733/"
-  date: "Feb 28"
-  time: "6:00 - 8:00pm"
-  
+ 
 - title: "The simplicity of PEP 503"
   group: "Pyowa"
   location: "The Forge: Pillar Technology"
