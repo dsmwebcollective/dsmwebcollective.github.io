@@ -33,6 +33,13 @@
   date: "Mar 14"
   time: "12:00 - 1:00pm"
   
+- title: "Web Application Layer Overview"
+  group: "DAQAA"
+  location: "CCOP Training Center"
+  details_url: "https://www.eventbrite.com/e/daqaa-web-application-layer-overview-tickets-43822039901"
+  date: "Mar 14"
+  time: "4:00 - 5:00pm"
+  
 - title: "Microservices vs Monoliths"
   group: "IADNUG"
   location: "Gravitate Downtown"
