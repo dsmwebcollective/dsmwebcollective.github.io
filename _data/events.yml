@@ -46,6 +46,13 @@
   details_url: "https://www.meetup.com/iadnug/events/248432603/"
   date: "Mar 15"
   time: "11:45am- 1:00pm"
+  
+- title: "Continuous Security: Monitoring & Active Defense in the Cloud"
+  group: "ISSA Des Moines Chapter"
+  location: "Farm Bureau"
+  details_url: "http://desmoines.issa.org/meetings/item/86-monthly-meeting-march-26-2018"
+  date: "Mar 26"
+  time: "11:30am - 1:00pm"
 
 - title: "DevOpsDays Des Moines"
   group: "DevOpsDays"
