@@ -47,6 +47,13 @@
   date: "Mar 15"
   time: "11:45am - 1:00pm"
   
+- title: "System Automation and Orchestration"
+  group: "Iowa Ruby Brigade"
+  location: "Gravitate Valley Junction"
+  details_url: "http://www.iowaruby.org/meetings/2018/03/"
+  date: "Mar 20"
+  time: "12:00 - 1:00pm"
+  
 - title: "Continuous Security: Monitoring & Active Defense in the Cloud"
   group: "ISSA Des Moines Chapter"
   location: "Farm Bureau"
