@@ -68,6 +68,13 @@
   date: "Mar 20"
   time: "12:00 - 1:00pm"
   
+- title: "Docker's 5th Birthday Event"
+  group: "Docker Des Moines"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/Docker-Des-Moines/events/247530556/"
+  date: "Mar 21"
+  time: "6:00 - 7:30pm"
+  
 - title: "Continuous Security: Monitoring & Active Defense in the Cloud"
   group: "ISSA Des Moines Chapter"
   location: "Farm Bureau"
