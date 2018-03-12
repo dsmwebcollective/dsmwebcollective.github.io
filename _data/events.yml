@@ -19,6 +19,13 @@
   date: "Mar 13"
   time: "5:30 - 7:30pm"
   
+- title: "An Introduction to Transducers"
+  group: "dsmJS"
+  location: "Gravitate Downtown"
+  details_url: "https://dsmjs.com/"
+  date: "Mar 13"
+  time: "6:00 - 7:00pm"
+  
 - title: "Introduction to React Native"
   group: "Des Moines Web Geeks"
   location: "Blue Compass"
