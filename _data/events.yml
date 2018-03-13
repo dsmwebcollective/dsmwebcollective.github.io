@@ -61,6 +61,13 @@
   date: "Mar 20"
   time: "12:00 - 1:00pm"
   
+- title: "Rapid Sharing"
+  group: "experiencing UX"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/248229856/"
+  date: "Mar 21"
+  time: "6:00 - 7:00pm"
+  
 - title: "Docker's 5th Birthday Event"
   group: "Docker Des Moines"
   location: "The Forge: Pillar Technology"
