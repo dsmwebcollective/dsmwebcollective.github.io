@@ -54,6 +54,13 @@
   date: "Mar 15"
   time: "11:45am - 1:00pm"
   
+- title: "Windows PKI / Investigating Insider Threats"
+  group: "SecDSM"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.secdsm.org/"
+  date: "Mar 15"
+  time: "6:00 - 8:00pm"
+  
 - title: "System Automation and Orchestration"
   group: "Iowa Ruby Brigade"
   location: "Gravitate Valley Junction"
