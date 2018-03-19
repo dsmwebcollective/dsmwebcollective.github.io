@@ -32,6 +32,13 @@
   details_url: "http://desmoines.issa.org/meetings/item/86-monthly-meeting-march-26-2018"
   date: "Mar 26"
   time: "11:30am - 1:00pm"
+  
+- title: "Contributing to GitHub is for You"
+  group: "DAQAA"
+  location: "CCOP Training Center"
+  details_url: "https://www.eventbrite.com/e/contributing-to-github-is-for-you-tickets-43628488985"
+  date: "Apr 11"
+  time: "4:00 - 7:00pm"
 
 - title: "DevOpsDays Des Moines"
   group: "DevOpsDays"
