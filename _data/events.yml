@@ -4,35 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
-
-- title: "System Automation and Orchestration"
-  group: "Iowa Ruby Brigade"
-  location: "Gravitate Valley Junction"
-  details_url: "http://www.iowaruby.org/meetings/2018/03/"
-  date: "Mar 20"
-  time: "12:00 - 1:00pm"
-  
-- title: "Rapid Sharing"
-  group: "experiencing UX"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/248229856/"
-  date: "Mar 21"
-  time: "6:00 - 7:00pm"
-  
-- title: "Docker's 5th Birthday Event"
-  group: "Docker Des Moines"
-  location: "The Forge: Pillar Technology"
-  details_url: "https://www.meetup.com/Docker-Des-Moines/events/247530556/"
-  date: "Mar 21"
-  time: "6:00 - 7:30pm"
-  
-- title: "Lean Lessons in Exceeding the Status Quo"
-  group: "IIBA-CIC"
-  location: "Des Moines Public Library - Central"
-  details_url: "https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ef678eawb6551a48&oseq=&c=&ch="
-  date: "Mar 22"
-  time: "11:00am - 12:30pm"
-  
+ 
 - title: "Continuous Security: Monitoring & Active Defense in the Cloud"
   group: "ISSA Des Moines Chapter"
   location: "Farm Bureau"
