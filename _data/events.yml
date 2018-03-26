@@ -19,6 +19,13 @@
   date: "Apr 3"
   time: "6:00 - 8:00pm"
   
+- title: "AWS Code Deploy + An Introduction to Amazon ECS"
+  group: "AWS Des Moines"
+  location: "DHI Group, Inc."
+  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmyxgbgb/"
+  date: "Apr 4"
+  time: "5:30 - 7:00pm"
+  
 - title: "Contributing to GitHub is for You"
   group: "DAQAA"
   location: "CCOP Training Center"
