@@ -12,6 +12,13 @@
   date: "Mar 26"
   time: "11:30am - 1:00pm"
   
+- title: "DevOps Open Spaces"
+  group: "DevOpsDSM"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/247646492/"
+  date: "Mar 28"
+  time: "6:00 - 9:00pm"
+  
 - title: "Optimizing SQL performance, deployment environments and data protection with Pure Storage and Rubrik"
   group: "IASSUG"
   location: "Hy-Vee Helpful Smiles Technology Center"
