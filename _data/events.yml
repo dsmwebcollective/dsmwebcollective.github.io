@@ -82,6 +82,13 @@
   date: "Apr 19"
   time: "5:30 - 7:00pm"
   
+- title: "BAs and Brews"
+  group: "IIBA-CIC"
+  location: "Exile Brewing Company"
+  details_url: "http://www.centraliowaiiba.org/news/bas-and-brews-1"
+  date: "Apr 19"
+  time: "5:30 - 7:30pm"
+  
 - title: "Building Secure Software"
   group: "CIJUG"
   location: "Principal Financial Group"
