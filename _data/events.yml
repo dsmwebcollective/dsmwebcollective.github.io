@@ -61,6 +61,13 @@
   date: "Apr 18"
   time: "6:00 - 7:00pm"
   
+- title: "It's a Mystery!"
+  group: "IASSUG"
+  location: "Hy-Vee Helpful Smiles Technology Center"
+  details_url: "https://www.meetup.com/dsmsql/events/249439756/"
+  date: "Apr 18"
+  time: "6:00 - 8:00pm"
+  
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
