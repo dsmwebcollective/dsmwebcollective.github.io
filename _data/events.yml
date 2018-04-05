@@ -53,6 +53,13 @@
   details_url: "https://www.meetup.com/iadnug/events/249349186/"
   date: "Apr 19"
   time: "5:30 - 7:00pm"
+  
+- title: "Building Secure Software"
+  group: "CIJUG"
+  location: "Principal Financial Group"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/249360803/"
+  date: "Apr 19"
+  time: "6:00 - 8:00pm"  
 
 - title: "IBADD 2018"
   group: "IIBA-CIC"
