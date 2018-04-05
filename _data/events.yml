@@ -46,6 +46,13 @@
   details_url: "https://bsidesiowa.com/"
   date: "Apr 14"
   time: "8:30am - 6:00pm"
+  
+- title: "Kubernetes"
+  group: "IADNUG"
+  location: "Gravitate Downtown"
+  details_url: "https://www.meetup.com/iadnug/events/249349186/"
+  date: "Apr 19"
+  time: "5:30 - 7:00pm"
 
 - title: "IBADD 2018"
   group: "IIBA-CIC"
