@@ -38,7 +38,14 @@
   location: "The Forge Downtown"
   details_url: "https://www.eventbrite.com/e/plibmttbhgaty-tickets-44805863544"
   date: "Apr 14"
-  time: "1:00pm - 5:00pm" 
+  time: "1:00pm - 5:00pm"
+  
+- title: "Trivia Night Fundraiser"
+  group: "Reboot Iowa"
+  location: "Confluence Brewing Company"
+  details_url: "https://www.eventbrite.com/e/reboot-iowa-trivia-night-fundraiser-tickets-44639239166"
+  date: "Apr 16"
+  time: "6:30 - 8:30pm"
   
 - title: "Design Ethics"
   group: "experiencing UX"
