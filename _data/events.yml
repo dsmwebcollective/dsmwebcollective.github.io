@@ -46,7 +46,14 @@
   details_url: "https://www.eventbrite.com/e/reboot-iowa-trivia-night-fundraiser-tickets-44639239166"
   date: "Apr 16"
   time: "6:30 - 8:30pm"
-  
+
+- title: "Panel: How did you get into tech?"
+  group: "Des Moines Web Geeks"
+  location: "Happy Medium"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/panel-how-did-you-get-into-tech/"
+  date: "Apr 18"
+  time: "12:00 - 1:00pm"
+
 - title: "Design Ethics"
   group: "experiencing UX"
   location: "The Forge: Pillar Technology"
