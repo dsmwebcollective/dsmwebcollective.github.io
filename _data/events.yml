@@ -18,6 +18,13 @@
   details_url: "http://www.ibadd.org/ibadd/index.htm"
   date: "May 10-11"
   time: "7:30am - 4:30pm"
+  
+- title: "IoT Challenge"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/iot-challenge/"
+  date: "May 14"
+  time: "6:30 - 8:30pm"  
 
 - title: "Digital Forensics 1-Day Class"
   group: "SecDSM"
