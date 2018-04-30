@@ -4,7 +4,14 @@
 #  details_url: "URL to additional details"
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
-  
+
+- title: "Batteries Included"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "May 1"
+  time: "6:00 - 8:00pm"
+
 - title: "IBADD 2018"
   group: "IIBA-CIC"
   location: "Meadows Events & Conference Center"
