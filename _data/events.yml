@@ -45,7 +45,14 @@
   location: "The Forge: Pillar Technology"
   details_url: "http://www.dsmwebgeeks.com/wg_events/iot-challenge/"
   date: "May 14"
-  time: "6:30 - 8:30pm"  
+  time: "6:30 - 8:30pm"
+  
+- title: "Leveraging AI for Precision Data Extraction"
+  group: "DAMA Iowa"
+  location: "Wells Fargo"
+  details_url: "http://events.r20.constantcontact.com/register/event?llr=ebgbvycab&oeidk=a07efc6n848a0773c97"
+  date: "May 15"
+  time: "8:30 - 11:30am"
 
 - title: "Digital Forensics 1-Day Class"
   group: "SecDSM"
