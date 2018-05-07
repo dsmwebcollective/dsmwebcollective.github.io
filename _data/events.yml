@@ -26,6 +26,13 @@
   date: "May 10-11"
   time: "7:30am - 4:30pm"
   
+- title: "Lean Coffee"
+  group: "Women in Agile - Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.eventbrite.com/e/lean-coffee-with-wia-founder-natalie-warnert-tickets-45453564836"
+  date: "May 11"
+  time: "7:30 - 9:00am"
+  
 - title: "IoT Challenge"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
