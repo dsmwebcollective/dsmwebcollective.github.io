@@ -81,6 +81,13 @@
   details_url: "http://www.iowaruby.org/meetings/2018/05/"
   date: "May 15"
   time: "12:00 - 1:00pm"
+  
+- title: "Get Familiar with Serverless Concepts"
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/get-familiar-with-serverless-concepts/"
+  date: "May 16"
+  time: "12:00 - 1:00pm"
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
