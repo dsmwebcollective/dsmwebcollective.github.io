@@ -88,6 +88,13 @@
   details_url: "http://www.dsmwebgeeks.com/wg_events/get-familiar-with-serverless-concepts/"
   date: "May 16"
   time: "12:00 - 1:00pm"
+  
+- title: "Pathways in UX"
+  group: "experiencing UX"
+  location: "Workiva"
+  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/249551498/"
+  date: "May 16"
+  time: "6:00 - 8:00pm"
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
@@ -95,5 +102,4 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2018/05/17/lean-coffee-May/"
   date: "May 17"
   time: "7:00 - 8:30am"
-  
   
