@@ -54,3 +54,9 @@
   date: "May 17"
   time: "7:00 - 8:30am"
   
+- title: "Dockerfile Deep Dive"
+  group: "Docker Des Moines"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/Docker-Des-Moines/events/250753774/"
+  date: "May 23"
+  time: "5:30 - 7:30pm"
