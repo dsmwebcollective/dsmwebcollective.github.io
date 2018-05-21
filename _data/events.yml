@@ -25,3 +25,10 @@
   details_url: "https://www.meetup.com/iadnug/events/250814640/"
   date: "June 7"
   time: "11:45am - 1:00pm"
+
+- title: "Serverless through AWS SAM"
+  group: "dsmJS"
+  location: "Source Allies"
+  details_url: "https://dsmjs.com/"
+  date: "June 12"
+  time: "6:00 - 7:00pm"
