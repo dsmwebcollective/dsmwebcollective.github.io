@@ -33,6 +33,7 @@ __Notes__
 - Events should be organized by date and then time.
 - Use the event's location name for the `location`. Don't include address, city, state, etc...
 - Only include the month (short textual representation) and day(s) for the `date`.
+    - If the day is a single digit, include a leading `0`.
 - Exclude the `time` value if it is a multiple day event.
 - You only need to include the `group` if they have a user group.
 
