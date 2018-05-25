@@ -19,6 +19,13 @@
   date: "May 30"
   time: "6:00 - 8:00pm"
 
+- title: "Conda"
+  group: "Pyowa"
+  location: "The Forge"
+  details_url: "http://pyowa.org"
+  date: "June 05"
+  time: "6:00 - 8:00pm"
+
 - title: "AWS 101"
   group: "AWS Des Moines"
   location: "DHI Group, Inc."
