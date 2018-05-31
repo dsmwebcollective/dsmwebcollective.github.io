@@ -46,6 +46,13 @@
   details_url: "https://dsmjs.com/"
   date: "June 12"
   time: "6:00 - 7:00pm"
+  
+- title: "VDD: Value Driven Development with Michael Carducci"
+  group: "CIJUG"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/251212183/"
+  date: "June 13"
+  time: "5:30 - 9:00pm"
 
 - title: "Thor CLI"
   group: "Iowa Ruby Brigade"
