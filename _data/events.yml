@@ -4,7 +4,14 @@
 #  details_url: "URL to additional details"
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
-  
+
+- title: "Customer Success Stories and Updates on Azure and Data and AI"
+  group: "Des Moines Azure User Group"
+  location: "Microsoft"
+  details_url: "https://www.meetup.com/Des-Moines-Azure-User-Group/events/250654898/"
+  date: "June 04"
+  time: "3:00 - 5:00pm"
+
 - title: "Conda"
   group: "Pyowa"
   location: "The Forge"
