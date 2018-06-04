@@ -5,13 +5,6 @@
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
   
-- title: "Serverless through AWS SAM"
-  group: "DevOpsDSM"
-  location: "Gravitate Valley Junction"
-  details_url: "https://www.meetup.com/DevOpsDSM/events/lwpbnpyxhbfc/"
-  date: "May 30"
-  time: "6:00 - 8:00pm"
-
 - title: "Conda"
   group: "Pyowa"
   location: "The Forge"
