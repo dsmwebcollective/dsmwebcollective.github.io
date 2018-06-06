@@ -47,6 +47,13 @@
   date: "June 12"
   time: "6:00 - 7:00pm"
   
+- title: "Summer Social"
+  group: "DAQAA"
+  location: "Granite City Food & Brewery"
+  details_url: "https://www.eventbrite.com/e/daqaa-summer-social-tickets-46701053107?aff=dsmwebc"
+  date: "June 13"
+  time: "4:00 - 6:00pm"
+  
 - title: "VDD: Value Driven Development with Michael Carducci"
   group: "CIJUG"
   location: "Source Allies"
