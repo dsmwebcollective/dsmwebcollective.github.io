@@ -39,13 +39,6 @@
   details_url: "https://www.meetup.com/iadnug/events/250814640/"
   date: "June 07"
   time: "11:45am - 1:00pm"
-
-- title: "Serverless through AWS SAM"
-  group: "dsmJS"
-  location: "Source Allies"
-  details_url: "https://dsmjs.com/"
-  date: "June 12"
-  time: "6:00 - 7:00pm"
   
 - title: "Summer Social"
   group: "DAQAA"
@@ -67,6 +60,13 @@
   details_url: "http://www.iowaruby.org/meetings/2018/06/index.html"
   date: "June 19"
   time: "12:00 - 1:00pm"
+  
+- title: "Serverless through AWS SAM"
+  group: "dsmJS"
+  location: "Source Allies"
+  details_url: "https://dsmjs.com/"
+  date: "June 19"
+  time: "6:00 - 7:00pm"  
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
