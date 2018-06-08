@@ -40,6 +40,13 @@
   date: "June 07"
   time: "11:45am - 1:00pm"
   
+- title: "Statically Typed React: Creating React Apps with Flow and Reason"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/statically-typed-react-creating-react-apps-with-flow-and-reason/"
+  date: "June 11"
+  time: "6:30 - 8:00pm"
+  
 - title: "DMACC Makerspace Grand Opening"
   group: "DMACC"
   location: "DMACC West Des Moines Campus"
