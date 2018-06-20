@@ -46,6 +46,13 @@
   details_url: "http://desmoines.issa.org/meetings/item/88-monthly-meeting-june-25-2018"
   date: "June 25"
   time: "11:30am - 1:00pm"
+  
+- title: "AWS CodeSuite"
+  group: "DevOpsDSM"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/lwpbnpyxjbkc/"
+  date: "June 27"
+  time: "6:00 - 9:00pm"
 
 - title: "Strategic Thinking for Today's Business Analyst"
   group: "IIBA-CIC"
