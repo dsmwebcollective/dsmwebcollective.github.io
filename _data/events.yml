@@ -25,3 +25,10 @@
   details_url: "http://www.centraliowaiiba.org/news/monthly-chapter-meeting-2"
   date: "June 28"
   time: "11:00am - 12:30pm"
+
+- title: "Serverless through AWS SAM"
+  group: "AWS Des Moines"
+  location: "CCOP Training Center"
+  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/251267621/"
+  date: "July 11"
+  time: "6:00 - 7:30pm" 
