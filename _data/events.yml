@@ -5,6 +5,13 @@
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
 
+- title: "10th Anniversary"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/10th-anniversary/"
+  date: "July 9"
+  time: "6:30 - 8:30pm"
+
 - title: "Serverless through AWS SAM"
   group: "AWS Des Moines"
   location: "CCOP Training Center"
