@@ -17,7 +17,14 @@
   location: "CCOP Training Center"
   details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/251267621/"
   date: "July 11"
-  time: "6:00 - 7:30pm" 
+  time: "6:00 - 7:30pm"
+  
+- title: "Visualizing Open Data Using Neo4J with Scott Sosna"
+  group: "CIJUG"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/252235322/"
+  date: "July 12"
+  time: "6:00 - 8:00pm"
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
