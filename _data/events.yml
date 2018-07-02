@@ -5,27 +5,6 @@
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
 
-- title: "Leveraging Internal Audit as a Security Tool"
-  group: "ISSA Des Moines"
-  location: "Farm Bureau"
-  details_url: "http://desmoines.issa.org/meetings/item/88-monthly-meeting-june-25-2018"
-  date: "June 25"
-  time: "11:30am - 1:00pm"
-  
-- title: "AWS CodeSuite"
-  group: "DevOpsDSM"
-  location: "Gravitate Valley Junction"
-  details_url: "https://www.meetup.com/DevOpsDSM/events/lwpbnpyxjbkc/"
-  date: "June 27"
-  time: "6:00 - 9:00pm"
-
-- title: "Strategic Thinking for Today's Business Analyst"
-  group: "IIBA-CIC"
-  location: "Wellmark"
-  details_url: "http://www.centraliowaiiba.org/news/monthly-chapter-meeting-2"
-  date: "June 28"
-  time: "11:00am - 12:30pm"
-
 - title: "Serverless through AWS SAM"
   group: "AWS Des Moines"
   location: "CCOP Training Center"
