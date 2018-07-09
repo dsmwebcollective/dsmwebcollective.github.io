@@ -33,6 +33,13 @@
   date: "July 12"
   time: "11:00am - 12:30pm"
   
+- title: "Data & Analytics Career Panel"
+  group: "Des Moines Data & Analytics"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/251988703/"
+  date: "July 12"
+  time: "4:30 - 6:00pm"
+  
 - title: "Visualizing Open Data Using Neo4J with Scott Sosna"
   group: "CIJUG"
   location: "Gravitate Valley Junction"
