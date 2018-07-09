@@ -11,6 +11,13 @@
   details_url: "http://www.dsmwebgeeks.com/wg_events/10th-anniversary/"
   date: "July 9"
   time: "6:30 - 8:30pm"
+  
+- title: "Testing the Waters: Manual vs Automated"
+  group: "DAQAA"
+  location: "CCOP Training Center"
+  details_url: "https://www.eventbrite.com/e/daqaa-testing-the-waters-manual-vs-automated-tickets-47836757028"
+  date: "July 11"
+  time: "4:00 - 5:00pm"
 
 - title: "Serverless through AWS SAM"
   group: "AWS Des Moines"
