@@ -74,6 +74,13 @@
   details_url: "https://www.meetup.com/iadnug/events/252371168/"
   date: "July 19"
   time: "5:30 - 7:30pm"
+  
+- title: "Talk Tech with Deere"
+  group: "John Deere"
+  location: "Iowa Tap Room"
+  details_url: "http://johndeere.cvent.com/events/talk-tech-with-deere/event-summary-5ac6ce45d0c043a0a3cabd4faeddb554.aspx"
+  date: "July 25"
+  time: "3:00 - 9:00pm"
 
 - title: "Design Patterns in the Light of Lambda Expressions"
   group: "Pillar PluggedIn"
