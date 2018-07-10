@@ -12,6 +12,13 @@
   date: "July 9"
   time: "6:30 - 8:30pm"
   
+- title: "This is How I Code! (React / Redux)"
+  group: "dsmJS"
+  location: "Trility Consulting"
+  details_url: "https://dsmjs.com/"
+  date: "July 10"
+  time: "6:00 - 7:00pm"
+  
 - title: "Testing the Waters: Manual vs Automated"
   group: "DAQAA"
   location: "CCOP Training Center"
