@@ -81,6 +81,13 @@
   details_url: "http://johndeere.cvent.com/events/talk-tech-with-deere/event-summary-5ac6ce45d0c043a0a3cabd4faeddb554.aspx"
   date: "July 25"
   time: "3:00 - 9:00pm"
+  
+- title: "ladyDev Summer Cookout"
+  group: "ladyDev"
+  location: "Mally's Weh-Weh-Neh-Kee Park"
+  details_url: "https://www.facebook.com/events/918537674985490/"
+  date: "July 28"
+  time: "4:30 - 7:30pm"
 
 - title: "Design Patterns in the Light of Lambda Expressions"
   group: "Pillar PluggedIn"
