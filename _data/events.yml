@@ -25,6 +25,13 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2018/07/19/lean-coffee-July/"
   date: "July 19"
   time: "7:00 - 8:30am"
+  
+- title: "BAs and Brews"
+  group: "IIBA-CIC"
+  location: "Firetrucker Brewery"
+  details_url: "http://www.centraliowaiiba.org/news/bas-and-brews-2"
+  date: "July 19"
+  time: "5:00 - 7:00pm"
 
 - title: "Mobile Apps Development with Xamarin"
   group: "IADNUG"
