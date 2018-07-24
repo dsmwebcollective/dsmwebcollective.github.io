@@ -12,6 +12,13 @@
   date: "July 23"
   time: "11:30am - 1:00pm"
   
+- title: "WordPress DSM Meet & Greet"
+  group: "WordPress DSM"
+  location: "Twisted Bean Coffee Company"
+  details_url: "https://www.meetup.com/wordpressdsm/events/252880834/"
+  date: "July 24"
+  time: "5:00 - 7:00pm"
+  
 - title: "Dual Axis Charts and Beyond / Tableau Formatting"
   group: "Des Moines Tableau User Group"
   location: "Nationwide"
