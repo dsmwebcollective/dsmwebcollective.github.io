@@ -54,7 +54,7 @@
   date: "July 28"
   time: "4:30 - 7:30pm"
   
-- title: "Agile Number: The Signposts on Your Agile Journey"
+- title: "Agile Numbers: The Signposts on Your Agile Journey"
   group: "IADNUG"
   location: "EMC Insurance"
   details_url: "https://www.meetup.com/iadnug/events/253149438/"
@@ -67,3 +67,10 @@
   details_url: "http://info.pillartechnology.com/ihr.pi.venkat.aug2018"
   date: "August 2"
   time: "5:30 - 7:30pm"
+
+- title: "Collaboration as a Method to Success"
+  group: "Des Moines Data & Analytics"
+  location: "EMC Insurance"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/252940408/"
+  date: "August 15"
+  time: "4:30 - 6:00pm"
