@@ -53,6 +53,13 @@
   details_url: "https://www.facebook.com/events/918537674985490/"
   date: "July 28"
   time: "4:30 - 7:30pm"
+  
+- title: "Agile Number: The Signposts on Your Agile Journey"
+  group: "IADNUG"
+  location: "EMC Insurance"
+  details_url: "https://www.meetup.com/iadnug/events/253149438/"
+  date: "August 2"
+  time: "12:00 - 1:00pm"
 
 - title: "Design Patterns in the Light of Lambda Expressions"
   group: "Pillar PluggedIn"
