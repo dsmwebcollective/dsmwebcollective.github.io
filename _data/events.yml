@@ -4,7 +4,14 @@
 #  details_url: "URL to additional details"
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
-  
+
+- title: "Docker Compose & DockerCon2018 Recap"
+  group: "Docker Des Moines:
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/Docker-Des-Moines/events/253070751/"
+  date: "August 1"
+  time: "6:00 - 7:30pm"
+
 - title: "Agile Numbers: The Signposts on Your Agile Journey"
   group: "IADNUG"
   location: "EMC Insurance"
@@ -21,7 +28,7 @@
   
 - title: "Over mocking, under delivering"
   group: "dsmJS"
-  location: "Pillar Technology"
+  location: "The Forge: Pillar Technology"
   details_url: "https://dsmjs.com/"
   date: "August 14"
   time: "6:00 - 7:00pm"
