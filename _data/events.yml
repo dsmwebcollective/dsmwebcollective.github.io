@@ -18,6 +18,13 @@
   details_url: "http://info.pillartechnology.com/ihr.pi.venkat.aug2018"
   date: "August 2"
   time: "5:30 - 7:30pm"
+  
+- title: "Over mocking, under delivering"
+  group: "dsmJS"
+  location: "Pillar Technology"
+  details_url: "https://dsmjs.com/"
+  date: "August 14"
+  time: "6:00 - 7:00pm"
 
 - title: "Collaboration as a Method to Success"
   group: "Des Moines Data & Analytics"
