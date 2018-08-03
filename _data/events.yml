@@ -33,6 +33,13 @@
   date: "August 2"
   time: "5:30 - 7:30pm"
   
+- title: "Open Q&A"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "August 7"
+  time: "6:00 - 8:00pm"
+  
 - title: "This is how I code! (React/Redux)"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
