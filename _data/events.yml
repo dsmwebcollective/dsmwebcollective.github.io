@@ -46,6 +46,13 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2018/08/16/lean-coffee-August/"
   date: "August 16"
   time: "7:00 - 8:30am"
+  
+- title: "Back to Basics: Validation in Rails"
+  group: "Iowa Ruby Brigade"
+  location: "Gravitate Valley Junction"
+  details_url: "http://www.iowaruby.org/meetings/2018/08/"
+  date: "August 21"
+  time: "12:00 - 1:00pm"
 
 - title: "dsmAgile 2018"
   group: "Agile Iowa"
