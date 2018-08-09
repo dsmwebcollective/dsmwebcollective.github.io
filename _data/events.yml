@@ -60,6 +60,13 @@
   details_url: "http://www.iowaruby.org/meetings/2018/08/"
   date: "August 21"
   time: "12:00 - 1:00pm"
+  
+- title: "SOC for Cybersecurity and Evolving SOC 2 Reporting"
+  group: "ISSA Des Moines"
+  location: "Holmes Murphy & Associates"
+  details_url: "http://desmoines.issa.org/meetings/itemlist/date/2018/8"
+  date: "August 27"
+  time: "11:30am - 1:00pm"
 
 - title: "dsmAgile 2018"
   group: "Agile Iowa"
