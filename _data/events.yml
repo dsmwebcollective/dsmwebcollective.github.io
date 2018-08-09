@@ -4,7 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Jun 23"
 #  time: "5:00 - 6:00pm"
-  
+
 - title: "This is how I code! (React/Redux)"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
@@ -19,6 +19,13 @@
   date: "August 14"
   time: "6:00 - 7:00pm"
 
+- title: "Get Going with Gatsby, a Static Site Generator for React"
+  group: "Des Moines Web Geeks"
+  location: "Blue Compass"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/get-going-with-gatsby-a-static-site-generator-for-react/"
+  date: "August 15"
+  time: "12:00 - 1:00pm"
+  
 - title: "Collaboration as a Method to Success"
   group: "Des Moines Data & Analytics"
   location: "EMC Insurance"
