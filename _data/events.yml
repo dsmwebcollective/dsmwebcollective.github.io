@@ -81,6 +81,13 @@
   details_url: "http://desmoines.issa.org/meetings/itemlist/date/2018/8"
   date: "August 27"
   time: "11:30am - 1:00pm"
+  
+- title: "Lessons Learned in Product Management II"
+  group: "ProductTank Des Moines / Ames"
+  location: "BirdDogHR"
+  details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/253766534/"
+  date: "August 28"
+  time: "5:30 - 7:00pm"
 
 - title: "dsmAgile 2018"
   group: "Agile Iowa"
