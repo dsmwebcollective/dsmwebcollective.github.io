@@ -26,6 +26,13 @@
   date: "Sept 06"
   time: "5:45 - 8:00pm"
   
+- title: "Dive into GraphQL"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/dive-into-graphql/"
+  date: "Sept 10"
+  time: "6:30 - 8:30pm"
+  
 - title: "Mind Mapping"
   group: "DAQAA & IIBA-CIC"
   location: "Farm Bureau"
