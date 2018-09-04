@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
  
+- title: "HiringDSM: The Open Source Job Board Project for Des Moines"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "Sept 04"
+  time: "6:00 - 8:00pm"
+
 - title: "Working with Bootstrap 4"
   group: "IADNUG"
   location: "Source Allies"
