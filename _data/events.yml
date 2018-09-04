@@ -4,21 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-
-- title: "SOC for Cybersecurity and Evolving SOC 2 Reporting"
-  group: "ISSA Des Moines"
-  location: "Holmes Murphy & Associates"
-  details_url: "http://desmoines.issa.org/meetings/itemlist/date/2018/8"
-  date: "Aug 27"
-  time: "11:30am - 1:00pm"
-  
-- title: "Lessons Learned in Product Management II"
-  group: "ProductTank Des Moines / Ames"
-  location: "BirdDogHR"
-  details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/253766534/"
-  date: "Aug 28"
-  time: "5:30 - 7:00pm"
-  
+ 
 - title: "Working with Bootstrap 4"
   group: "IADNUG"
   location: "Source Allies"
