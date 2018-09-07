@@ -47,6 +47,13 @@
   date: "Sept 13"
   time: "6:00 - 8:00pm"
   
+- title: "Blockchain"
+  group: "Des Moines Web Geeks"
+  location: "National Pork Board"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/blockchain-with-dave-wakeman-an-ibm-blockchain-tech/"
+  date: "Sept 19"
+  time: "12:00 - 1:00pm"
+  
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
