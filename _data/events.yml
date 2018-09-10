@@ -40,6 +40,13 @@
   date: "Sept 18"
   time: "7:00 - 8:30am"
   
+- title: "Exploring ActionCable in Rails"
+  group: "Iowa Ruby Brigade"
+  location: "Gravitate Valley Junction"
+  details_url: "http://www.iowaruby.org/meetings/2018/09/index.html"
+  date: "Sept 18"
+  time: "12:00 - 1:00pm"
+  
 - title: "Blockchain"
   group: "Des Moines Web Geeks"
   location: "National Pork Board"
