@@ -60,6 +60,13 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2018/09/20/lean-coffee-September/"
   date: "Sept 20"
   time: "7:00 - 8:30am"
+  
+- title: "Gutenberg, say whaaaa?"
+  group: "WordPress DSM"
+  location: "The Glass Box"
+  details_url: "https://www.meetup.com/wordpressdsm/events/xfxjbqyxmbhc/"
+  date: "Sept 25"
+  time: "6:00 - 7:30pm"
 
 - title: "dsmAgile 2018"
   group: "Agile Iowa"
