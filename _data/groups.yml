@@ -26,7 +26,7 @@
   meeting: "Third Tuesday of the month"
 
 - title: "Des Moines Atlassian User Group"
-  url: "http://aug.atlassian.com/cities/desmoinesia/"
+  url: "https://aug.atlassian.com/des-moines/"
   meeting: "Quarterly"
 
 - title: "Des Moines Area Quality Assurance Association"
@@ -63,10 +63,6 @@
 - title: "Iowa CocoaHeads"
   url: "http://cocoaheads.org/us/DesMoinesIowa/index.html"
   
-- title: "Iowa |> Elixir"
-  url: "https://www.meetup.com/Iowa-Elixir/"
-  meeting: "Second Wednesday of the month"
-
 - title: "Iowa Ruby Brigade"
   url: "http://www.iowaruby.org/"
   meeting: "Third Tuesday of the month"
@@ -81,10 +77,11 @@
   
 - title: "ladyDev"
   url: "http://ladydev.org/events/"
-  meeting: "First Saturday of the month"
+  meeting: "Last Thursday of the month"
 
 - title: "Pyowa"
   url: "http://www.pyowa.org/"
+  meeting: "First Tuesday of the month"
 
 - title: "SecDSM"
   url: "https://secdsm.org/"
@@ -94,5 +91,5 @@
   url: "http://www.meetup.com/Women-Who-Code-Des-Moines/"
 
 - title: "WordPress Des Moines"
-  url: "http://wpdsm.org/"
-  meeting: "Last Monday of the month"
+  url: "https://www.meetup.com/wordpressdsm/"
+  meeting: "Last Tuesday of the month"
