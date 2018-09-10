@@ -123,3 +123,10 @@
   details_url: "http://www.ibadd.org/ibadd/index.htm"
   date: "May 10-11"
   time: "7:30am - 4:30pm"
+
+- title: "ladyDev Career Workshop"
+  group: "ladyDev"
+  location: "The Forge by Pillar"
+  details_url: "http://ladydev.org/"
+  date: "Sep 22"
+  time: "1:00 - 5:00pm"
