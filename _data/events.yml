@@ -60,6 +60,13 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2018/09/20/lean-coffee-September/"
   date: "Sept 20"
   time: "7:00 - 8:30am"
+
+- title: "ladyDev Career Workshop"
+  group: "ladyDev"
+  location: "The Forge by Pillar"
+  details_url: "http://ladydev.org/"
+  date: "Sept 22"
+  time: "1:00 - 5:00pm"
   
 - title: "Gutenberg, say whaaaa?"
   group: "WordPress DSM"
@@ -88,3 +95,4 @@
   details_url: "https://www.eventbrite.com/e/professional-development-day-2018-registration-45952032767"
   date: "Oct 12"
   time: "7:00am - 4:30pm"
+
