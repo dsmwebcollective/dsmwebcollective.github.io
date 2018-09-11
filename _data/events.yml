@@ -12,6 +12,13 @@
   date: "Sept 10"
   time: "6:30 - 8:30pm"
   
+- title: "Exploring Evolutionary Computing in JavaScript"
+  group: "dsmJS"
+  location: "Bunchball"
+  details_url: "https://dsmjs.com/"
+  date: "Sept 11"
+  time: "6:00 - 7:00pm"
+  
 - title: "Mind Mapping"
   group: "DAQAA & IIBA-CIC"
   location: "Farm Bureau"
