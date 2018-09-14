@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "OrgCamp Iowa"
+  group: "OrgCamp Iowa"
+  location: "Drake University: Olmsted Center"
+  details_url: "https://www.meetup.com/OrgCampIowa/events/247074352/"
+  date: "Sept 15"
+  time: "8:00am - 4:45pm"
+
 - title: "Introduction to 3D Design (CAD)"
   group: "Des Moines 3D Printing Meetup"
   location: "Area515"
