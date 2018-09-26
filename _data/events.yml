@@ -54,6 +54,13 @@
   date: "Oct 02"
   time: "8:00am - 3:35pm"
   
+- title: "SMT"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "Oct 02"
+  time: "6:00 - 8:00pm"
+  
 - title: "Secure Iowa Conference 2018"
   group: "ISSA Des Moines"
   location: "FFA Enrichment Center"
