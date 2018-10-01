@@ -40,6 +40,13 @@
   date: "Oct 12"
   time: "7:00am - 4:30pm"
 
+- title: "Yield Results with John Deere's Public APIs" 
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details_url: "http://www.dsmwebgeeks.com/wg_events/yield-results-with-john-deeres-public-apis/"
+  date: "Oct 17"
+  time: "12:00 - 1:00pm"
+
 - title: "October Meeting: KVM" 
   group: "Central Iowa Linux Users Group (CIALUG)"
   location: "DMACC Ankeny Campus Building 3W, Room 50"
