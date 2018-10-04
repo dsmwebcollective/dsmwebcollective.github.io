@@ -39,6 +39,13 @@
   details_url: "https://www.eventbrite.com/e/professional-development-day-2018-registration-45952032767"
   date: "Oct 12"
   time: "7:00am - 4:30pm"
+  
+- title: "Annual Social & Board Elections"
+  group: "DAQAA"
+  location: "Tavern Pizza & Pasta Grill"
+  details_url: "https://www.eventbrite.com/e/daqaa-annual-meetingelectionsocial-tickets-50672676339"
+  date: "Oct 10"
+  time: "4:00 - 6:00pm"
 
 - title: "Yield Results with John Deere's Public APIs" 
   group: "Des Moines Web Geeks"
