@@ -81,6 +81,13 @@
   details_url: "https://www.cialug.org/?page_id=7&event_id=1085"
   date: "Oct 17"
   time: "7:00 - 8:30pm"
+  
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "http://www.agileiowa.org/events/leancoffee/2018/10/18/lean-coffee-October/"
+  date: "Oct 18"
+  time: "7:00 - 8:30am"
 
 - title: "Agile Open Iowa"
   group: "Braintrust Consulting Group"
