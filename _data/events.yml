@@ -32,13 +32,13 @@
   details_url: "https://www.eventbrite.com/e/secure-iowa-conference-2018-tickets-44860660443"
   date: "Oct 09"
   time: "8:00am - 4:00pm"
-
-- title: "Professional Development Day 2018"
-  group: "PMI-CIC"
-  location: "The Meadows Event and Conference Center"
-  details_url: "https://www.eventbrite.com/e/professional-development-day-2018-registration-45952032767"
-  date: "Oct 12"
-  time: "7:00am - 4:30pm"
+  
+- title: "Gatsby - Static Site Generation with React"
+  group: "dsmJS"
+  location: "Gravitate Downtown"
+  details_url: "https://dsmjs.com/"
+  date: "Oct 09"
+  time: "6:00 - 7:00pm"
   
 - title: "Annual Social & Board Elections"
   group: "DAQAA"
@@ -46,6 +46,13 @@
   details_url: "https://www.eventbrite.com/e/daqaa-annual-meetingelectionsocial-tickets-50672676339"
   date: "Oct 10"
   time: "4:00 - 6:00pm"
+
+- title: "Professional Development Day 2018"
+  group: "PMI-CIC"
+  location: "The Meadows Event and Conference Center"
+  details_url: "https://www.eventbrite.com/e/professional-development-day-2018-registration-45952032767"
+  date: "Oct 12"
+  time: "7:00am - 4:30pm"
 
 - title: "Yield Results with John Deere's Public APIs" 
   group: "Des Moines Web Geeks"
