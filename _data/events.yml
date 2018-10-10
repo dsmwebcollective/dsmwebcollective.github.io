@@ -4,28 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
-- title: "Build Rapid Prototypes and Websites with Sketch, InVision, and Webflow!"
-  group: "Des Moines Web Geeks"
-  location: "The Forge: Pillar Technology"
-  details_url: "http://www.dsmwebgeeks.com/wg_events/build-rapid-prototypes-and-websites-with-sketch-invision-and-webflow/"
-  date: "Oct 08"
-  time: "6:30 - 8:30pm"
-  
-- title: "Secure Iowa Conference 2018"
-  group: "ISSA Des Moines"
-  location: "FFA Enrichment Center"
-  details_url: "https://www.eventbrite.com/e/secure-iowa-conference-2018-tickets-44860660443"
-  date: "Oct 09"
-  time: "8:00am - 4:00pm"
-  
-- title: "Gatsby - Static Site Generation with React"
-  group: "dsmJS"
-  location: "Gravitate Downtown"
-  details_url: "https://dsmjs.com/"
-  date: "Oct 09"
-  time: "6:00 - 7:00pm"
-  
+
 - title: "Annual Social & Board Elections"
   group: "DAQAA"
   location: "Tavern Pizza & Pasta Grill"
@@ -39,7 +18,7 @@
   details_url: "https://www.eventbrite.com/e/professional-development-day-2018-registration-45952032767"
   date: "Oct 12"
   time: "7:00am - 4:30pm"
-  
+
 - title: "The Adventures of a Creating a Data & Analytics Platform"
   group: "Des Moines Data & Analytics"
   location: "INTL FCStone"
@@ -47,26 +26,33 @@
   date: "Oct 15"
   time: "4:30 - 6:00pm"
 
-- title: "Yield Results with John Deere's Public APIs" 
+- title: "Yield Results with John Deere's Public APIs"
   group: "Des Moines Web Geeks"
   location: "Source Allies"
   details_url: "http://www.dsmwebgeeks.com/wg_events/yield-results-with-john-deeres-public-apis/"
   date: "Oct 17"
   time: "12:00 - 1:00pm"
 
-- title: "October Meeting: KVM" 
+- title: "October Meeting: KVM"
   group: "Central Iowa Linux Users Group (CIALUG)"
   location: "DMACC Ankeny Campus Building 3W, Room 50"
   details_url: "https://www.cialug.org/?page_id=7&event_id=1085"
   date: "Oct 17"
   time: "7:00 - 8:30pm"
-  
+
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
   details_url: "http://www.agileiowa.org/events/leancoffee/2018/10/18/lean-coffee-October/"
   date: "Oct 18"
   time: "7:00 - 8:30am"
+
+- title: "Customize Me! WP Theme-Off"
+  group: "WordPress DSM"
+  location: "220 SE 6th St, Des Moines, IA 50309"
+  details_url: "https://www.meetup.com/wordpressdsm/events/xfxjbqyxnbfc/"
+  date: "Oct 23"
+  time: "6:00 - 8:00pm"
 
 - title: "Agile Open Iowa"
   group: "Braintrust Consulting Group"
