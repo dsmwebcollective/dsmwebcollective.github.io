@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/wordpressdsm/events/xfxjbqyxnbfc/"
   date: "Oct 23"
   time: "6:00 - 8:00pm"
+  
+- title: "Kubernetes"
+  group: "DevOpsDSM"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/lwpbnpyxnbgc/"
+  date: "Oct 24"
+  time: "6:00 - 7:00pm"
 
 - title: "Agile Open Iowa"
   group: "Braintrust Consulting Group"
