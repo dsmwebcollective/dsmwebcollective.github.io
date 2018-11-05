@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Lightning Talks"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "Nov 06"
+  time: "6:00 - 8:00pm"
+
 - title: "Agile in Analytics"
   group: "Des Moines Data & Analytics"
   location: "John Deere ISG"
