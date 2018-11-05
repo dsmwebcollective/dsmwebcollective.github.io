@@ -74,6 +74,13 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2018/11/15/lean-coffee-November/"
   date: "Nov 15"
   time: "7:00 - 8:30am"
+  
+- title: "Play-with-Docker Hands-on Labs: Modernizing Windows Applications!"
+  group: "Docker Des Moines"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/Docker-Des-Moines/events/255999711/"
+  date: "Nov 19"
+  time: "5:30 - 7:30pm"
 
 - title: "Iowa Ruby Hacknight"
   group: "Iowa Ruby Brigade"
