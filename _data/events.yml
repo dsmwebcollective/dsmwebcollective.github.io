@@ -5,20 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Aligning UX with a CX Strategy"
-  group: "experiencing UX"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/251964581/"
-  date: "Oct 31"
-  time: "6:00 - 8:00pm"
-  
-- title: "Automating TypeScript Scaffolding with Swagger Codegen"
-  group: "IADNUG"
-  location: "Gravitate Valley Junction"
-  details_url: "https://www.meetup.com/iadnug/events/255778168/"
-  date: "Nov 01"
-  time: "5:45 - 7:00pm"
-
 - title: "Agile in Analytics"
   group: "Des Moines Data & Analytics"
   location: "John Deere ISG"
