@@ -5,55 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Lightning Talks"
-  group: "Pyowa"
-  location: "The Forge: Pillar Technology"
-  details_url: "http://www.pyowa.org/"
-  date: "Nov 06"
-  time: "6:00 - 8:00pm"
-
-- title: "Agile in Analytics"
-  group: "Des Moines Data & Analytics"
-  location: "John Deere ISG"
-  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/255777564/"
-  date: "Nov 07"
-  time: "5:30 - 7:00pm"
-  
-- title: "What is Kanban?"
-  group: "IIBA-CIC"
-  location: "West Des Moines Community Center"
-  details_url: "http://www.centraliowaiiba.org/news/agile-working-group-10"
-  date: "Nov 08"
-  time: "11:00am - 12:30pm"
-  
-- title: "BAs and Brews"
-  group: "IIBA-CIC"
-  location: "Confluence Brewing Company"
-  details_url: "http://www.centraliowaiiba.org/news/bas-and-brews-3"
-  date: "Nov 08"
-  time: "5:00 - 7:00pm"
-  
-- title: "Agile Iowa Social"
-  group: "Agile Iowa"
-  location: "The Walnut"
-  details_url: "http://www.agileiowa.org/events/social/2018/11/08/agile-iowa-social/"
-  date: "Nov 08"
-  time: "5:00 - 8:00pm"
-  
-- title: "Robots! with Waukee FTC Robotics Team"
-  group: "CIJUG"
-  location: "John Deere ISG"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/mqdflqyxpblb/"
-  date: "Nov 08"
-  time: "5:30 - 7:30pm"
-
-- title: "How You Think: Unpacking your most valuable talent"
-  group: "Pillar PluggedIn"
-  location: "The Forge: Pillar Technology"
-  details_url: "https://info.pillartechnology.com/pluggedinihrnov2018.rsvp"
-  date: "Nov 08"
-  time: "5:30 - 7:30pm"
-  
 - title: "Mobile AR with React Native"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
@@ -67,14 +18,14 @@
   details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/255799611/"
   date: "Nov 13"
   time: "5:30 - 7:00pm"
-  
+
 - title: "Exploratory Testing: I will find you!!"
   group: "DAQAA"
   location: "CCOP Training Center"
   details_url: "https://www.eventbrite.com/e/daqaa-exploratory-testing-i-will-find-you-tickets-51890075613"
   date: "Nov 14"
   time: "4:00 - 5:00pm"
-  
+
 - title: "User Motivation and Gamification"
   group: "experiencing UX"
   location: "Workiva"
@@ -88,7 +39,7 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2018/11/15/lean-coffee-November/"
   date: "Nov 15"
   time: "7:00 - 8:30am"
-  
+
 - title: "Play-with-Docker Hands-on Labs: Modernizing Windows Applications!"
   group: "Docker Des Moines"
   location: "The Forge: Pillar Technology"
@@ -102,3 +53,10 @@
   details_url: "http://www.iowaruby.org/meetings/2018/11/"
   date: "Nov 20"
   time: "6:00 - 8:00pm"
+
+- title: "WP DSM Workshop: From Local Development to Migrating Live"
+  group: "WordPress DSM"
+  location: "220 SE 6th St, Des Moines, IA 50309"
+  details_url: "https://www.meetup.com/wordpressdsm/events/xfxjbqyxpbkc/"
+  date: "Nov 27"
+  time: "6:00 - 7:30pm"
