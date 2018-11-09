@@ -18,6 +18,13 @@
   details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/255799611/"
   date: "Nov 13"
   time: "5:30 - 7:00pm"
+  
+- title: "Building a Web App in JS without client-side JS"
+  group: "dsmJS"
+  location: "Gain Compliance"
+  details_url: "https://dsmjs.com/"
+  date: "November 13"
+  time: "6:00 - 7:00pm"
 
 - title: "Exploratory Testing: I will find you!!"
   group: "DAQAA"
