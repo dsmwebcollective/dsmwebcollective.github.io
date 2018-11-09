@@ -32,6 +32,13 @@
   details_url: "https://dsmjs.com/"
   date: "November 13"
   time: "6:00 - 7:00pm"
+  
+- title: "Lunch Group: What are you working on?"
+  group: "Des Moines Web Geeks"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/lunch-group-what-are-you-working-on/"
+  date: "Nov 14"
+  time: "12:00 - 1:00pm"
 
 - title: "Exploratory Testing: I will find you!!"
   group: "DAQAA"
