@@ -46,6 +46,13 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2018/11/15/lean-coffee-November/"
   date: "Nov 15"
   time: "7:00 - 8:30am"
+  
+- title: "Global Day of Coderetreat"
+  group: "Pillar Technology"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://docs.google.com/forms/d/e/1FAIpQLSfWG614z_bnbDMGopACrhz_lttt8ohADxJcgkKd1J35xVTp3g/viewform"
+  date: "Nov 17"
+  time: "9:00am - 3:30pm"
 
 - title: "Play-with-Docker Hands-on Labs: Modernizing Windows Applications!"
   group: "Docker Des Moines"
