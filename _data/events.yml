@@ -81,3 +81,10 @@
   details_url: "https://www.cialug.org/?page_id=7&event_id=1087" 
   date: "Dec 19"
   time: "7:00 - 8:30pm"
+
+- title: "Iowa Code Camp"
+  group: "IADNUG"
+  location: "FFA Enrichment Center"
+  details_url: "http://www.iowacodecamp.com/"
+  date: "Dec 08"
+  time: "8:00am - 5:30pm"
