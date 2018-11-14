@@ -74,6 +74,13 @@
   details_url: "https://www.cialug.org/?page_id=7&event_id=1086"
   date: "Nov 28"
   time: "7:00 - 8:30pm"
+  
+- title: "Iowa Code Camp"
+  group: "IADNUG"
+  location: "FFA Enrichment Center"
+  details_url: "http://www.iowacodecamp.com/"
+  date: "Dec 08"
+  time: "8:00am - 5:30pm"  
 
 - title: "CIALUG meeting and tour of new Area 515 Maker's space"
   group: "Central Iowa Linux Users Group"
@@ -81,10 +88,3 @@
   details_url: "https://www.cialug.org/?page_id=7&event_id=1087" 
   date: "Dec 19"
   time: "7:00 - 8:30pm"
-
-- title: "Iowa Code Camp"
-  group: "IADNUG"
-  location: "FFA Enrichment Center"
-  details_url: "http://www.iowacodecamp.com/"
-  date: "Dec 08"
-  time: "8:00am - 5:30pm"
