@@ -5,20 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Play-with-Docker Hands-on Labs: Modernizing Windows Applications!"
-  group: "Docker Des Moines"
-  location: "The Forge: Pillar Technology"
-  details_url: "https://www.meetup.com/Docker-Des-Moines/events/255999711/"
-  date: "Nov 19"
-  time: "5:30 - 7:30pm"
-
-- title: "Iowa Ruby Hacknight"
-  group: "Iowa Ruby Brigade"
-  location: "Gravitate Valley Junction"
-  details_url: "http://www.iowaruby.org/meetings/2018/11/"
-  date: "Nov 20"
-  time: "6:00 - 8:00pm"
-
 - title: "WP DSM Workshop: From Local Development to Migrating Live"
   group: "WordPress DSM"
   location: "220 SE 6th St, Des Moines, IA 50309"
