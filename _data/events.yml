@@ -40,6 +40,13 @@
   date: "Dec 08"
   time: "8:00am - 5:30pm"
   
+- title: "2018 Ugly Sweater Show and Share"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/2018-ugly-sweater-show-and-share/"
+  date: "Dec 10"
+  time: "6:30 - 8:00pm"
+  
 - title: "Spring Initializr, Spring Boot, IntelliJ, and Microservices"
   group: "CIJUG"
   location: "Source Allies"
