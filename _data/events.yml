@@ -31,7 +31,14 @@
   location: "FFA Enrichment Center"
   details_url: "http://www.iowacodecamp.com/"
   date: "Dec 08"
-  time: "8:00am - 5:30pm"  
+  time: "8:00am - 5:30pm"
+  
+- title: "Annual Bash"
+  group: "IADNUG"
+  location: "The Beerhouse"
+  details_url: "https://www.meetup.com/iadnug/events/256383899/"
+  date: "Dec 13"
+  time: "6:00 - 9:00pm"
 
 - title: "CIALUG meeting and tour of new Area 515 Maker's space"
   group: "Central Iowa Linux Users Group"
