@@ -40,6 +40,13 @@
   date: "Dec 08"
   time: "8:00am - 5:30pm"
   
+- title: "Spring Initializr, Spring Boot, IntelliJ, and Microservices"
+  group: "CIJUG"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/256743634/"
+  date: "Dec 13"
+  time: "6:00 - 8:00pm"
+  
 - title: "Annual Bash"
   group: "IADNUG"
   location: "The Beerhouse"
