@@ -26,6 +26,13 @@
   date: "Nov 28"
   time: "7:00 - 8:30pm"
   
+- title: "Pex"
+  group: "Pyowa"
+  location: "The Forge: Pillar Technology"
+  details_url: "http://www.pyowa.org/"
+  date: "Dec 04"
+  time: "6:00 - 8:00pm"
+  
 - title: "Sharing Best Practices in Data & Analytics"
   group: "Des Moines Data & Analytics"
   location: "The Forge: Pillar Technology"
