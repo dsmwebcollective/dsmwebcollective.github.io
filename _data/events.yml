@@ -26,12 +26,19 @@
   date: "Dec 08"
   time: "8:00am - 5:30pm"
   
+- title: "Jesus Code December Meetup"
+  group: "Jesus Code"
+  location: "Panera Bread (6740 University Avenue, West Des Moines, IA)"
+  details_url: "https://www.facebook.com/events/370442387037527/"
+  date: "Dec 10"
+  time: "7:00 - 8:00am"
+  
 - title: "2018 Ugly Sweater Show and Share"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
   details_url: "https://www.dsmwebgeeks.com/wg_events/2018-ugly-sweater-show-and-share/"
   date: "Dec 10"
-  time: "6:30 - 8:00pm"
+  time: "6:30 - 8:00pm"  
   
 - title: "Spring Initializr, Spring Boot, IntelliJ, and Microservices"
   group: "CIJUG"
