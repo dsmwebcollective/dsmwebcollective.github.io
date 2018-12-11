@@ -17,7 +17,14 @@
   location: "The Forge: Pillar Technology"
   details_url: "https://www.dsmwebgeeks.com/wg_events/2018-ugly-sweater-show-and-share/"
   date: "Dec 10"
-  time: "6:30 - 8:00pm"  
+  time: "6:30 - 8:00pm"
+  
+- title: "Learning React in Isolation"
+  group: "Des Moines Web Geeks"
+  location: "We Write Code"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/learning-react-in-isolation/"
+  date: "Dec 12"
+  time: "12:00 - 1:00pm"
   
 - title: "Spring Initializr, Spring Boot, IntelliJ, and Microservices"
   group: "CIJUG"
