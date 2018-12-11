@@ -26,6 +26,13 @@
   date: "Dec 12"
   time: "12:00 - 1:00pm"
   
+- title: "DSM AUG Year End 2018"
+  group: "Des Moines Atlassian User Group"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://aug.atlassian.com/events/details/atlassian-des-moines-presents-dsm-aug-year-end-2018/"
+  date: "Dec 13"
+  time: "4:00 - 6:00pm"
+  
 - title: "Spring Initializr, Spring Boot, IntelliJ, and Microservices"
   group: "CIJUG"
   location: "Source Allies"
