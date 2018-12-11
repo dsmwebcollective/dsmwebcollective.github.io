@@ -4,27 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-
-- title: "Pex"
-  group: "Pyowa"
-  location: "The Forge: Pillar Technology"
-  details_url: "http://www.pyowa.org/"
-  date: "Dec 04"
-  time: "6:00 - 8:00pm"
-  
-- title: "Sharing Best Practices in Data & Analytics"
-  group: "Des Moines Data & Analytics"
-  location: "The Forge: Pillar Technology"
-  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/256579501/"
-  date: "Dec 06"
-  time: "4:30 - 6:00pm"
-  
-- title: "Iowa Code Camp"
-  group: "IADNUG"
-  location: "FFA Enrichment Center"
-  details_url: "http://www.iowacodecamp.com/"
-  date: "Dec 08"
-  time: "8:00am - 5:30pm"
   
 - title: "Jesus Code December Meetup"
   group: "Jesus Code"
