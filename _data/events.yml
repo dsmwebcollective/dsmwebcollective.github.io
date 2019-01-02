@@ -11,6 +11,13 @@
   details_url: "https://www.eventbrite.com/e/get-your-head-in-the-cloud-tickets-53843773175"
   date: "Jan 10"
   time: "4:00 - 6:00pm"
+  
+- title: "DevOps on the Microsoft Platform"
+  group: "IADNUG"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/iadnug/events/254359599/"
+  date: "Jan 10"
+  time: "5:45 - 7:00pm"
 
 - title: "Special Guests: Jeff Patton & Archie Miller"
   group: "experiencing UX & ProductTank Des Moines/Ames"
