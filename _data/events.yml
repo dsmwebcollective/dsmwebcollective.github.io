@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Advent of Code"
+  group: "Pyowa"
+  location: "LenderClose"
+  details_url: "http://www.pyowa.org/"
+  date: "Jan 08"
+  time: "6:00 - 8:00pm"
+
 - title: "Reading Pull Requests: Features, Fixes & Other Divinations"
   group: "DAQAA"
   location: "Source Allies"
