@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Programming Lego Boost with JavaScript"
+  group: "dsmJS"
+  location: "Source Allies"
+  details_url: "https://dsmjs.com"
+  date: "Jan 08"
+  time: "6:00 - 7:00pm"
+
 - title: "Advent of Code"
   group: "Pyowa"
   location: "LenderClose"
