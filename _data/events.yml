@@ -39,6 +39,13 @@
   details_url: "https://www.meetup.com/iadnug/events/254359599/"
   date: "Jan 10"
   time: "5:45 - 7:00pm"
+  
+- title: "DSM Teach 'N Learn"
+  group: "DSM Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/become-a-stronger-developer-in-2019/"
+  date: "Jan 14"
+  time: "6:30 - 8:30pm"
 
 - title: "Special Guests: Jeff Patton & Archie Miller"
   group: "experiencing UX & ProductTank Des Moines/Ames"
