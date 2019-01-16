@@ -37,7 +37,7 @@
   group: "IIBA-CIC"
   location: "EMC Insurance"
   details_url: "http://www.centraliowaiiba.org/news/monthly-chapter-meeting-jan19"
-  data: "Jan 24"
+  date: "Jan 24"
   time: "11:00am - 12:30pm"
 
 - title: "Explainable AI: Is it Actually Important? Model Transparency & User Adoption"
