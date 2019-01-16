@@ -32,7 +32,14 @@
   details_url: "https://www.meetup.com/wordpressdsm/events/xfxjbqyzcbdc/"
   date: "Jan 22"
   time: "6:00 - 7:30pm"
-  
+
+- title: "Serverless Saves Kittens: A Purrfect Solution"
+  group: "Des Moines Web Geeks"
+  location: "Blue Compass"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/serverless-saves-kittens-a-purrfect-solution/"
+  date: "Jan 23"
+  time: "12:00 - 1:00pm"
+
 - title: "IIBA Central Iowa Chapter Annual General Meeting"
   group: "IIBA-CIC"
   location: "EMC Insurance"
