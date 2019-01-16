@@ -25,6 +25,13 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2019/01/17/lean-coffee-jan/"
   date: "Jan 17"
   time: "7:00 - 8:30am"
+  
+- title: "IIBA Central Iowa Chapter Annual General Meeting - Panel Discussion: Board Member Q&A"
+  group: "IIBA-CIC"
+  location: "EMC Insurance"
+  details_url: "http://www.centraliowaiiba.org/news/monthly-chapter-meeting-jan19"
+  data: "Jan 24"
+  time: "11:00am - 12:30pm"
 
 - title: "Explainable AI: Is it Actually Important? Model Transparency & User Adoption"
   group: "Des Moines Data & Analytics"
