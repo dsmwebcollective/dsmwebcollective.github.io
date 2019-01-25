@@ -12,6 +12,13 @@
   date: "Jan 30"
   time: "5:30 - 7:00pm"
 
+- title: "A Nightmare on Elm Street"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/a-nightmare-on-elm-street/"
+  date: "Feb 11"
+  time: "6:30 - 8:30pm"
+
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
