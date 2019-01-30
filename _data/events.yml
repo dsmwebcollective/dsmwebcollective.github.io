@@ -5,19 +5,19 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "How Granular Enables Developer Autonomy"
-  group: "AWS Des Moines & DevOps DSM"
-  location: "Granular"
-  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmyzdbjb/"
-  date: "Jan 30"
-  time: "5:30 - 7:00pm"
-  
 - title: "Wearable Tech - Presented by ladyDev"
   group: "ladyDev"
   location: "Area515"
   details_url: "https://www.eventbrite.com/e/wearable-tech-presented-by-ladydev-tickets-54018840807?aff=ebdssbdestsearch"
   date: "Feb 2"
   time: "1:00 - 5:00pm"
+  
+- title: "How Granular Enables Developer Autonomy"
+  group: "AWS Des Moines & DevOps DSM"
+  location: "Granular"
+  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmyzdbjb/"
+  date: "Feb 06"
+  time: "5:30 - 7:00pm"  
 
 - title: "A Nightmare on Elm Street"
   group: "Des Moines Web Geeks"
