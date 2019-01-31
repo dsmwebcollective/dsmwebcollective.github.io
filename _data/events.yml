@@ -12,6 +12,13 @@
   date: "Feb 02"
   time: "1:00 - 5:00pm"
   
+- title: "API Driven Development with Django Rest Framework"
+  group: "Pyowa"
+  location: "LenderClose"
+  details_url: "http://www.pyowa.org/"
+  date: "Feb 05"
+  time: "6:00 - 8:00pm"
+  
 - title: "How Granular Enables Developer Autonomy"
   group: "AWS Des Moines & DevOps DSM"
   location: "Granular"
