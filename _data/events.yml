@@ -61,6 +61,13 @@
   date: "Feb 23"
   time: "9:00am - 3:00pm"
   
+- title: "Confessions of a Analytics Consultant"
+  group: "IIBA-CIC"
+  location: "Farm Bureau"
+  details_url: "http://www.centraliowaiiba.org/news/monthly-chapter-meeting-feb19"
+  date: "Feb 28"
+  time: "11:00am - 12:30pm"
+  
 - title: "Bitbucket Pipelines"
   group: "Des Moines Atlassian User Group"
   location: "The Forge: Pillar Technology"
