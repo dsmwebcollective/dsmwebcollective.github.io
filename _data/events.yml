@@ -60,6 +60,13 @@
   details_url: "https://www.eventbrite.com/e/world-ia-day-2019-des-moines-tickets-54510152333"
   date: "Feb 23"
   time: "9:00am - 3:00pm"
+  
+- title: "Bitbucket Pipelines"
+  group: "Des Moines Atlassian User Group"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://aug.atlassian.com/events/details/atlassian-des-moines-presents-february-aug-meeting/#/"
+  date: "Feb 28"
+  time: "4:00 - 6:00pm"
 
 - title: "DevOpsDays Des Moines 2019"
   group: "DevOpsDays"
