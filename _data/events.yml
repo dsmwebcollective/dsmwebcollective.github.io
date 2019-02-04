@@ -40,6 +40,13 @@
   date: "Feb 11"
   time: "6:30 - 8:30pm"
   
+- title: "Intro to Elm Programming Language"
+  group: "dsmJS"
+  location: "Hy-Vee Helpful Smiles Technology Center"
+  details_url: "https://dsmjs.com/"
+  date: "Feb 12"
+  time: "6:00 - 7:00pm"
+  
 - title: "Agile Working Group: Agile Frameworks"
   group: "IIBA-CIC"
   location: "Aureon"
