@@ -39,6 +39,13 @@
   details_url: "https://www.meetup.com/central-iowa-java-users-group/events/258557837/"
   date: "Feb 14"
   time: "6:00 - 8:00pm"
+  
+- title: "Data Science: Digging for Gold"
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/data-science-digging-for-gold/"
+  date: "Feb 20"
+  time: "12:00 - 1:00pm"
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
