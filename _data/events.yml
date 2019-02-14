@@ -46,6 +46,13 @@
   details_url: "https://www.dsmwebgeeks.com/wg_events/data-science-digging-for-gold/"
   date: "Feb 20"
   time: "12:00 - 1:00pm"
+  
+- title: "Des Moines Meet & Greet"
+  group: "Women Who Test Des Moines"
+  location: "CCOP Training Center"
+  details_url: "http://womenwhotest.com/chapters/des-moines/"
+  date: "Feb 20"
+  time: "3:30 - 5:00pm"
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
