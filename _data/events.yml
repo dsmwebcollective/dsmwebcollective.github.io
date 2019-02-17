@@ -53,6 +53,13 @@
   details_url: "http://womenwhotest.com/chapters/des-moines/"
   date: "Feb 20"
   time: "3:30 - 5:00pm"
+  
+- title: "Practical UI Animation"
+  group: "experiencing UX"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/256746100/"
+  date: "Feb 20"
+  time: "6:00 - 7:00pm"
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
