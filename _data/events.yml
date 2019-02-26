@@ -39,6 +39,13 @@
   details_url: "https://www.eventbrite.com/e/march-2019-meeting-tickets-57364419523"
   date: "Mar 05"
   time: "6:00 - 8:00pm"
+  
+- title: "Graphical Excellence: Information Communication"
+  group: "Des Moines Data & Analytics"
+  location: "Nationwide Insurance"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/259166493/"
+  date: "Mar 11"
+  time: "3:30 - 5:00pm"
 
 - title: "DevOpsDays Des Moines 2019"
   group: "DevOpsDays"
