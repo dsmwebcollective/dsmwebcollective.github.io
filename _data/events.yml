@@ -18,6 +18,13 @@
   details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/259166493/"
   date: "Mar 11"
   time: "3:30 - 5:00pm"
+  
+- title: "Docker's 6th Birthday Event"
+  group: "Docker Des Moines"
+  location: "Lean TECHniques"
+  details_url: "https://events.docker.com/events/details/docker-des-moines-presents-docker-bday-6-how-do-you-docker/"
+  date: "Mar 27"
+  time: "6:00 - 8:00pm"
 
 - title: "DevOpsDays Des Moines 2019"
   group: "DevOpsDays"
