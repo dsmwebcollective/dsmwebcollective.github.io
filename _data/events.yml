@@ -19,6 +19,13 @@
   date: "Mar 11"
   time: "3:30 - 5:00pm"
   
+- title: "An Intro to Elm"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/a-nightmare-on-elm-street/"
+  date: "Mar 11"
+  time: "6:30 - 8:30pm"
+  
 - title: "Docker's 6th Birthday Event"
   group: "Docker Des Moines"
   location: "Lean TECHniques"
