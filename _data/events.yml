@@ -33,6 +33,13 @@
   date: "Mar 11"
   time: "6:30 - 8:30pm"
   
+- title: "Intro to Elm Programming Language"
+  group: "dsmJS"
+  location: "Hy-Vee"
+  details_url: "https://dsmjs.com/"
+  date: "Mar 12"
+  time: "6:00 - 7:00pm"
+  
 - title: "Docker's 6th Birthday Event"
   group: "Docker Des Moines"
   location: "Lean TECHniques"
