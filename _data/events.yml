@@ -33,6 +33,13 @@
   date: "Mar 11"
   time: "6:30 - 8:30pm"
   
+- title: "Lean Coffee - Downtown"
+  group: "Agile Iowa"
+  location: "Main Street Cafe & Bakery"
+  details_url: "https://www.eventbrite.com/e/agile-iowa-downtown-lean-coffee-tickets-54417525283"
+  date: "Mar 12"
+  time: "7:00 - 8:00am"
+  
 - title: "Intro to Elm Programming Language"
   group: "dsmJS"
   location: "Hy-Vee"
