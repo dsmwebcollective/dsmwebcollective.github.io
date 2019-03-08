@@ -47,6 +47,13 @@
   date: "Mar 12"
   time: "6:00 - 7:00pm"
   
+- title: "Professional (Web) Development: Keeping your skillset up to date"
+  group: "Des Moines Web Geeks"
+  location: "We Write Code"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/professional-web-development-keeping-your-skillset-up-to-date/"
+  date: "Mar 20"
+  time: "12:00 - 1:00pm"
+  
 - title: "Docker's 6th Birthday Event"
   group: "Docker Des Moines"
   location: "Lean TECHniques"
