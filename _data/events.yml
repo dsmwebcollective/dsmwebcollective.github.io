@@ -46,7 +46,14 @@
   details_url: "https://dsmjs.com/"
   date: "Mar 12"
   time: "6:00 - 7:00pm"
-  
+
+- title: "Rule Engines: What, Why, How"
+  group: "CIJUG"
+  location: "Principal Financial Group"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/259520827/"
+  date: "Mar 14"
+  time: "6:00 - 7:00pm"
+
 - title: "Professional (Web) Development: Keeping your skillset up to date"
   group: "Des Moines Web Geeks"
   location: "We Write Code"
