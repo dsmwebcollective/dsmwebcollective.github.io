@@ -60,6 +60,13 @@
   details_url: "https://events.docker.com/events/details/docker-des-moines-presents-docker-bday-6-how-do-you-docker/"
   date: "Mar 27"
   time: "6:00 - 8:00pm"
+  
+- title: "Dealing with Devious Political Tactics While Preserving Your Integrity"
+  group: "IIBA-CIC"
+  location: "John Deere Financial"
+  details_url: "http://www.centraliowaiiba.org/news/monthly-chapter-meeting-mar19"
+  date: "Mar 28"
+  time: "11:00am - 12:30pm"
 
 - title: "DevOpsDays Des Moines 2019"
   group: "DevOpsDays"
