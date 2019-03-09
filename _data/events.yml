@@ -47,6 +47,20 @@
   date: "Mar 20"
   time: "12:00 - 1:00pm"
   
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "http://www.agileiowa.org/events/leancoffee/2019/03/21/lean-coffee-mar/"
+  date: "Mar 21"
+  time: "7:00 - 8:30am"
+  
+- title: "AppDynamics APM"
+  group: "DevOps DSM"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/lwpbnpyzfbkc/"
+  date: "Mar 27"
+  time: "6:00 - 7:00pm"
+  
 - title: "Docker's 6th Birthday Event"
   group: "Docker Des Moines"
   location: "Lean TECHniques"
