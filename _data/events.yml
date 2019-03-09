@@ -46,7 +46,14 @@
   details_url: "https://www.dsmwebgeeks.com/wg_events/professional-web-development-keeping-your-skillset-up-to-date/"
   date: "Mar 20"
   time: "12:00 - 1:00pm"
-  
+
+- title: "Granular Design System"
+  group: "experiencing UX"
+  location: "Granular"
+  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/257204321/"
+  date: "Mar 20"
+  time: "6:00 - 8:00pm"
+
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
