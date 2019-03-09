@@ -32,6 +32,13 @@
   details_url: "https://dsmjs.com/"
   date: "Mar 12"
   time: "6:00 - 7:00pm"
+  
+- title: "Plan in Multiple Dimensions with Story Maps"
+  group: "IIBA-CIC"
+  location: "Aureon"
+  details_url: "http://www.centraliowaiiba.org/news/agile-working-group-march-2019"
+  date: "Mar 14"
+  time: "11:00am - 12:30pm"
 
 - title: "Rule Engines: What, Why, How"
   group: "CIJUG"
