@@ -95,6 +95,13 @@
   details_url: "http://www.centraliowaiiba.org/news/monthly-chapter-meeting-mar19"
   date: "Mar 28"
   time: "11:00am - 12:30pm"
+  
+- title: "Dude, Where’s My Law?"
+  group: "Agile Iowa"
+  location: "John Deere Financial"
+  details_url: "http://www.agileiowa.org/events/2019/03/22/dudes-law/"
+  date: "Apr 04"
+  time: "6:00 - 7:30pm"
 
 - title: "DevOpsDays Des Moines 2019"
   group: "DevOpsDays"
