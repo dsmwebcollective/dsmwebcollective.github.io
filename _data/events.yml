@@ -39,6 +39,13 @@
   details_url: "http://www.centraliowaiiba.org/news/agile-working-group-march-2019"
   date: "Mar 14"
   time: "11:00am - 12:30pm"
+  
+- title: "Meet & Greet"
+  group: "Women Who Test Des Moines"
+  location: "CCOP Training Center"
+  details_url: "http://womenwhotest.com/chapters/des-moines/"
+  date: "Mar 14"
+  time: "3:30 - 5:00pm"
 
 - title: "Rule Engines: What, Why, How"
   group: "CIJUG"
