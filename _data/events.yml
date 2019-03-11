@@ -82,6 +82,13 @@
   date: "Mar 21"
   time: "5:30 - 7:00pm"
   
+- title: "Bypassing wired 802.1x and ways to prevent it"
+  group: "SecDSM"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://secdsm.org/"
+  date: "Mar 21"
+  time: "6:00 - 7:00pm"
+  
 - title: "AppDynamics APM"
   group: "DevOps DSM"
   location: "Gravitate Valley Junction"
