@@ -89,6 +89,13 @@
   date: "Mar 21"
   time: "6:00 - 7:00pm"
   
+- title: "Securing the Edge and the Core: Hacking Network Infrastructure"
+  group: "ISSA Des Moines"
+  location: "John Deere Financial"
+  details_url: "http://desmoines.issa.org/meetings/item/93-monthly-meeting-march-2019"
+  date: "Mar 25"
+  time: "11:00am - 12:30pm"
+  
 - title: "AppDynamics APM"
   group: "DevOps DSM"
   location: "Gravitate Valley Junction"
