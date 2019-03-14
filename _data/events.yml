@@ -81,6 +81,13 @@
   details_url: "https://www.meetup.com/experiencing-UX-DSM/events/257204321/"
   date: "Mar 20"
   time: "6:00 - 8:00pm"
+  
+- title: "SSH Physical Keys"
+  group: "Central Iowa Linux Users Group"
+  location: "RightStuf"
+  details_url: "https://www.cialug.org/?page_id=7&event_id=1090"
+  date: "Mar 20"
+  time: "7:00 - 8:30pm"  
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
