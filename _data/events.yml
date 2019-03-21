@@ -102,6 +102,13 @@
   details_url: "http://www.agileiowa.org/events/2019/03/22/dudes-law/"
   date: "Apr 04"
   time: "6:00 - 7:30pm"
+  
+- title: "The Definition of "Done" with Brenda Peshak"
+  group: "ProductTank Des Moines / Ames"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/259932025/"
+  date: "Apr 17"
+  time: "12:00 - 1:00pm"
 
 - title: "DevOpsDays Des Moines 2019"
   group: "DevOpsDays"
