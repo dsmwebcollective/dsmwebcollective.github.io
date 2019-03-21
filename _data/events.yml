@@ -110,6 +110,13 @@
   date: "Apr 04"
   time: "6:00 - 7:30pm"
   
+- title: "2019 Annual Spring Social"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/Des-Moines-Web-Geeks/events/259771665/"  
+  date: "Apr 08"
+  time: "6:30 - 8:30pm"
+  
 - title: "Docker for Developers"
   group: "CIJUG"
   location: "The Forge: Pillar Technology"
