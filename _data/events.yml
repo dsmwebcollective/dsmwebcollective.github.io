@@ -103,6 +103,13 @@
   date: "Apr 04"
   time: "6:00 - 7:30pm"
   
+- title: "Docker for Developers"
+  group: "CIJUG"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/259721270/"
+  date: "Apr 11"
+  time: "6:00 - 8:00pm"
+  
 - title: "The Definition of "Done" with Brenda Peshak"
   group: "ProductTank Des Moines / Ames"
   location: "Source Allies"
