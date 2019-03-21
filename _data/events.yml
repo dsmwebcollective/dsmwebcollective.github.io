@@ -68,6 +68,13 @@
   date: "Mar 25"
   time: "11:00am - 12:30pm"
   
+- title: "Multisite WordPress Development"
+  group: "WordPress DSM"
+  location: "The Glass Box"
+  details_url: "https://www.meetup.com/wordpressdsm/events/xfxjbqyzfbjc/"
+  date: "Mar 26"
+  time: "6:00 - 7:30pm"
+  
 - title: "AppDynamics APM"
   group: "DevOps DSM"
   location: "Gravitate Valley Junction"
