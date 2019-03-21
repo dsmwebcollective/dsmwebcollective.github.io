@@ -117,6 +117,13 @@
   date: "Apr 08"
   time: "6:30 - 8:30pm"
   
+- title: "Doing Good with Data"
+  group: "Des Moines Data & Analytics"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/259929493/"
+  date: "Apr 09"
+  time: "4:30 - 6:00pm"
+  
 - title: "Docker for Developers"
   group: "CIJUG"
   location: "The Forge: Pillar Technology"
