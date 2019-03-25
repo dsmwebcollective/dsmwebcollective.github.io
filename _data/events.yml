@@ -61,6 +61,13 @@
   date: "Apr 09"
   time: "4:30 - 6:00pm"
   
+- title: "Keep Your Cukes Fresh"
+  group: "DAQAA"
+  location: "CCOP Training Center"
+  details_url: "https://www.eventbrite.com/e/daqaa-keep-your-cukes-fresh-tickets-59294246688"
+  date: "Apr 10"
+  time: "4:00 - 5:00pm"
+  
 - title: "Docker for Developers"
   group: "CIJUG"
   location: "The Forge: Pillar Technology"
