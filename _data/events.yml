@@ -40,6 +40,13 @@
   date: "Mar 28"
   time: "5:30 - 7:30pm"
   
+- title: "Jupyter Notebooks"
+  group: "Pyowa"
+  location: "LenderClose"
+  details_url: "http://www.pyowa.org/"
+  date: "Apr 02"
+  time: "6:00 - 8:00pm"
+  
 - title: "Dude, Where’s My Law?"
   group: "Agile Iowa"
   location: "John Deere Financial"
