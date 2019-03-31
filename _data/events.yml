@@ -53,13 +53,20 @@
   details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/259932025/"
   date: "Apr 17"
   time: "12:00 - 1:00pm"
-  
+   
 - title: "Docker's 6th Birthday Event"
   group: "Docker Des Moines"
   location: "Lean TECHniques"
   details_url: "https://events.docker.com/events/details/docker-des-moines-presents-docker-bday-6-how-do-you-docker/"
   date: "Apr 17"
   time: "6:00 - 8:00pm"
+  
+- title: "Practical UI Animation"
+  group: "experiencing UX"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/259380427/"
+  date: "Apr 17"
+  time: "6:00 - 8:00pm"  
   
 - title: "Lean Coffee"
   group: "Agile Iowa"
