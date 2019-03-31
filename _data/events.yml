@@ -25,7 +25,14 @@
   details_url: "https://www.meetup.com/Des-Moines-Web-Geeks/events/259771665/"  
   date: "Apr 08"
   time: "6:30 - 8:30pm"
-  
+
+- title: "Lean Coffee Downtown"
+  group: "Agile Iowa"
+  location: "Main Street Cafe & Bakery"
+  details_url: "https://www.eventbrite.com/e/agile-iowa-downtown-lean-coffee-tickets-54417527289"
+  date: "Apr 09"
+  time: "7:00 - 8:30am"
+
 - title: "Power BI 101 with tips and tricks"
   group: "Des Moines Power BI User Group"
   location: "Microsoft"
