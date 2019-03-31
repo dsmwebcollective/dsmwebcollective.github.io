@@ -59,7 +59,14 @@
   location: "Lean TECHniques"
   details_url: "https://events.docker.com/events/details/docker-des-moines-presents-docker-bday-6-how-do-you-docker/"
   date: "Apr 17"
-  time: "6:00 - 8:00pm"  
+  time: "6:00 - 8:00pm"
+  
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "http://www.agileiowa.org/events/leancoffee/2019/04/18/lean-coffee-apr/"
+  date: "Apr 18"
+  time: "7:00 - 8:30am"
 
 - title: "DevOpsDays Des Moines 2019"
   group: "DevOpsDays"
