@@ -54,6 +54,13 @@
   date: "Apr 09"
   time: "4:30 - 6:00pm"
   
+- title: "Serverless Webhooks"
+  group: "dsmJS"
+  location: "Dwolla"
+  details_url: "https://dsmjs.com/"
+  date: "Apr 09"
+  time: "6:00 - 7:00pm"
+  
 - title: "Keep Your Cukes Fresh"
   group: "DAQAA"
   location: "CCOP Training Center"
