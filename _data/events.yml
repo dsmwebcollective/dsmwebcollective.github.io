@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
-- title: "Jupyter Notebooks"
-  group: "Pyowa"
-  location: "LenderClose"
-  details_url: "http://www.pyowa.org/"
-  date: "Apr 02"
-  time: "6:00 - 8:00pm"
-  
-- title: "AWS Des Moines User Group"
-  group: "AWS Des Moines"
-  location: "We Write Code"
-  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmyzgbfb/"
-  date: "Apr 03"
-  time: "5:30 - 7:00pm"
-  
-- title: "Dude, Where’s My Law?"
-  group: "Agile Iowa"
-  location: "John Deere Financial"
-  details_url: "http://www.agileiowa.org/events/2019/03/22/dudes-law/"
-  date: "Apr 04"
-  time: "6:00 - 7:30pm"
-  
 - title: "2019 Annual Spring Social"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
