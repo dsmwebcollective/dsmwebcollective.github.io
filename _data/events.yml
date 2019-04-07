@@ -102,6 +102,13 @@
   details_url: "http://www.centraliowaiiba.org/news/monthly-chapter-meeting-apr19"
   date: "Apr 25"
   time: "11:00am - 12:30pm"
+  
+- title: "DSM Tech Crawl"
+  group: "Clay & Milk"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmtechcrawl.com/"
+  date: "Apr 25"
+  time: "5:00 - 8:30pm"
 
 - title: "DevOpsDays Des Moines 2019"
   group: "DevOpsDays"
