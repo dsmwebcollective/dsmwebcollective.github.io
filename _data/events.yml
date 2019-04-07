@@ -68,6 +68,13 @@
   date: "Apr 10"
   time: "4:00 - 5:00pm"
   
+- title: "Visual Studio 2019 Launch Event"
+  group: "IADNUG"
+  location: "Gravitate Downtown"
+  details_url: "https://www.meetup.com/iadnug/events/260288950/"
+  date: "Apr 11"
+  time: "11:45am - 1:00pm"
+  
 - title: "Docker for Developers"
   group: "CIJUG"
   location: "The Forge: Pillar Technology"
