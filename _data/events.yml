@@ -54,6 +54,13 @@
   date: "Apr 25"
   time: "5:00 - 8:30pm"
 
+- title: "DSM Agile Social"
+  group: "Agile Iowa"
+  location: "The Keg Stand"
+  details_url: "https://www.eventbrite.com/e/dsm-agile-social-tickets-60486738463"
+  date: "Apr 29"
+  time: "6:00 - 8:00pm"
+
 - title: "DevOpsDays Des Moines 2019"
   group: "DevOpsDays"
   location: "Iowa Events Center"
