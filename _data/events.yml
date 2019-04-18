@@ -74,6 +74,13 @@
   details_url: "https://www.dsmtechcrawl.com/"
   date: "Apr 25"
   time: "5:00 - 8:30pm"
+  
+- title: "Moar Mob Programming"
+  group: "DSM Teach n' Learn"
+  location: "LenderClose"
+  details_url: "https://www.meetup.com/DSM-Teach-n-Learn/events/260704087/"
+  date: "Apr 25"
+  time: "6:00 - 7:30pm"
 
 - title: "DSM Agile Social"
   group: "Agile Iowa"
