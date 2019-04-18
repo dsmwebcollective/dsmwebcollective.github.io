@@ -54,6 +54,13 @@
   date: "Apr 23"
   time: "9:00 - 11:00am"
   
+- title: "Using Terraform, Vault, Consul, and Nomad to Accelerate Application Delivery"
+  group: "DevOpsDSM"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/jhgwtqyzgbgc/"
+  date: "Apr 24"
+  time: "6:00 - 8:00pm"
+  
 - title: "Building Powerful Confidence & Public Speaking Skills"
   group: "IIBA-CIC"
   location: "Ruan"
