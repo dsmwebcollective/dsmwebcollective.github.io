@@ -40,6 +40,13 @@
   date: "Apr 20"
   time: "8:00am - 5:30pm"
   
+- title: "Identity Intelligence"
+  group: "ISSA Des Moines"
+  location: "Holmes Murphy & Associates"
+  details_url: "http://desmoines.issa.org/meetings/item/94-monthly-meeting-april-2019"
+  date: "Apr 22"
+  time: "11:30am - 1:00pm"
+  
 - title: "Enabling Agility with Data Virtualization"
   group: "DAMA Iowa"
   location: "Principal Financial Group"
