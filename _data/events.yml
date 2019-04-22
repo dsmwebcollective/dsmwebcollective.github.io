@@ -4,42 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
-- title: "The Definition of Done"
-  group: "ProductTank Des Moines / Ames"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/259932025/"
-  date: "Apr 17"
-  time: "12:00 - 1:00pm"
-   
-- title: "Docker's 6th Birthday Event"
-  group: "Docker Des Moines"
-  location: "Lean TECHniques"
-  details_url: "https://events.docker.com/events/details/docker-des-moines-presents-docker-bday-6-how-do-you-docker/"
-  date: "Apr 17"
-  time: "6:00 - 8:00pm"
-  
-- title: "Practical UI Animation"
-  group: "experiencing UX"
-  location: "The Forge: Pillar Technology"
-  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/259380427/"
-  date: "Apr 17"
-  time: "6:00 - 8:00pm"  
-  
-- title: "Lean Coffee"
-  group: "Agile Iowa"
-  location: "Machine Shed Restaurant"
-  details_url: "http://www.agileiowa.org/events/leancoffee/2019/04/18/lean-coffee-apr/"
-  date: "Apr 18"
-  time: "7:00 - 8:30am"
-  
-- title: "BSidesIowa 2019"
-  group: "BSidesIowa"
-  location: "Grandview University"
-  details_url: "https://www.eventbrite.com/e/bsidesiowa-2019-security-conference-tickets-54405315764"
-  date: "Apr 20"
-  time: "8:00am - 5:30pm"
-  
+
 - title: "Identity Intelligence"
   group: "ISSA Des Moines"
   location: "Holmes Murphy & Associates"
