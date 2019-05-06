@@ -26,9 +26,16 @@
   date: "May 08"
   time: "4:00 - 5:00pm"
   
+- title: "Summit Recap"
+  group: "Des Moines Atlassian User Group"
+  location: "Lean TECHniques"
+  details_url: "https://aug.atlassian.com/events/details/atlassian-des-moines-presents-summit-recap-may-2019/"
+  date: "May 09"
+  time: "5:00 - 7:00pm"
+  
 - title: "What's new with the latest Java release?"
   group: "CIJUG"
-  location: "Gravitate Downtown (500 Locust St)"
+  location: "Gravitate Downtown"
   details_url: "https://www.meetup.com/central-iowa-java-users-group/events/261098130/"
   date: "May 09"
   time: "6:00 - 8:00pm"
@@ -54,7 +61,7 @@
   time: "7:00 - 8:30am"
 
 - title: "Tableau User Group Social Event"
-  group: "DSM TUG"
+  group: "Des Moines Tableau User Group"
   location: "Up-Down DSM"
   details_url: "https://www.meetup.com/Des-Moines-Tableau-User-Group-DSM-TUG/events/261025581/"
   date: "May 14"
