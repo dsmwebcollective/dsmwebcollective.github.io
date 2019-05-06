@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Dataclasses"
+  group: "Pyowa"
+  location: "LenderClose"
+  details_url: "http://www.pyowa.org/"
+  date: "May 07"
+  time: "6:00 - 8:00pm"
+
 - title: "IBADD"
   group: "IIBA-CIC"
   location: "The Meadows Events & Conference Center"
