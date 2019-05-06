@@ -38,3 +38,10 @@
   location: "The Meadows Events & Conference Center"
   details_url: "http://www.ibadd.org/ibadd/index.htm"
   date: "May 09-10"
+  
+- title: "IoT Challenge"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/2019-iot-challenge/"
+  date: "May 13"
+  time: "6:30 - 8:30pm"
