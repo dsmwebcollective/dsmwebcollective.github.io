@@ -77,7 +77,7 @@
 - title: "Test Estimation"
   group: "Women Who Test - Des Moines"
   location: "CCOP Training Center"
-  details_url: 'http://womenwhotest.com/chapters/des-moines/"
+  details_url: "http://womenwhotest.com/chapters/des-moines/"
   date: "May 15"
   time: "4:00 - 5:00pm"
 
@@ -86,7 +86,7 @@
   location: "Machine Shed Restaurant"
   details_url: "https://www.eventbrite.com/e/agileiowa-lean-coffee-may-2019-tickets-54275887641?aff=erelexpmlt"
   date: "May 16"
-  time: 7:00 - 8:30am"
+  time: "7:00 - 8:30am"
 
 - title: "Facilitating Ideation"
   group: "experiencing UX"
