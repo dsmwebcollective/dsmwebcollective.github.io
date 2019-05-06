@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Containerized Data and Analytics"
+  group: "DSM Data & Analytics"
+  location: "West Des Moines Public Library"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/260857758/"
+  date: "May 07"
+  time: "4:30 - 6:00pm"
+
 - title: "Dataclasses"
   group: "Pyowa"
   location: "LenderClose"
