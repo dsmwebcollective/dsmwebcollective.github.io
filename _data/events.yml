@@ -19,6 +19,13 @@
   date: "May 07"
   time: "6:00 - 8:00pm"
   
+- title: "Full Stack Web Development with Ember.js and Django in Python"
+  group: "Des Moines Web Geeks"
+  location: "We Write Code"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/full-stack-web-development-with-ember-js-and-django-in-python/"
+  date: "May 08"
+  time: "12:00 - 1:00pm"
+  
 - title: "Repeatable and Predictable, I repeat, Repeatable and Predictable!"
   group: "DAQAA"
   location: "CCOP Training Center"
