@@ -66,3 +66,10 @@
   details_url: "https://www.meetup.com/Des-Moines-Tableau-User-Group-DSM-TUG/events/261025581/"
   date: "May 14"
   time: "5:00 - 7:00pm"
+
+- title: "REST to GraphQL"
+  group: "dsmJS"
+  location: "Denim"
+  details_url: "https://dsmjs.com/"
+  date: "May 14"
+  time: "6:00 - 7:00pm"
