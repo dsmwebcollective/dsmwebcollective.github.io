@@ -5,6 +5,9 @@
 - title: "Agile Iowa"
   url: "http://www.agileiowa.org/"
   meeting: "Second Thursday of the month"
+  
+- title: "Area515 - The Des Moines Makerspace"
+  url: "https://www.meetup.com/Area515/"
 
 - title: "AWS Des Moines"
   url: "http://www.meetup.com/AWS-User-Group-Des-Moines/"
@@ -24,6 +27,10 @@
 - title: "DAMA Iowa"
   url: "http://damaiowa.org/"
   meeting: "Third Tuesday of the month"
+  
+- title: "Des Moines 3D Printing Meetup"
+  url: "https://www.meetup.com/Des-Moines-3D-Printing-Meetup/"
+  meeting: "Third Monday of the month"
 
 - title: "Des Moines Atlassian User Group"
   url: "https://aug.atlassian.com/des-moines/"
@@ -33,6 +40,10 @@
   url: "http://www.daqaa.com/"
   meeting: "Second Wednesday of the month"
   
+- title: "Des Moines Bitcoin & Blockchain Group"
+  url: "https://www.meetup.com/Des-Moines-Bitcoin-Blockchain-Group/"
+  meeting: "Monthly"
+  
 - title: "Des Moines Data & Analytics"
   url: "https://www.meetup.com/Des-Moines-Data-Analytics/"
   meeting: "Monthly"
@@ -40,6 +51,9 @@
 - title: "Des Moines Front-End"
   url: "http://dsmfrontend.github.io/"
   meeting: "First Monday of the month"
+  
+- title: "Des Moines Power BI User Group"
+  url: "https://www.meetup.com/IowaPowerBI/"
 
 - title: "Des Moines Tableau User Group"
   url: "https://www.meetup.com/Des-Moines-Tableau-User-Group-DSM-TUG/"
@@ -111,6 +125,9 @@
 
 - title: "Women Who Code"
   url: "http://www.meetup.com/Women-Who-Code-Des-Moines/"
+  
+- title: "Women Who Test Des Moines"
+  url: "http://womenwhotest.com/chapters/des-moines/"
 
 - title: "WordPress Des Moines"
   url: "https://www.meetup.com/wordpressdsm/"
