@@ -94,6 +94,13 @@
   details_url: "https://www.eventbrite.com/e/agileiowa-lean-coffee-may-2019-tickets-54275887641?aff=erelexpmlt"
   date: "May 16"
   time: "7:00 - 8:30am"
+  
+- title: "PLIBMTTBHGATY"
+  group: "ladyDev"
+  location: "The Forge by Pillar Technology"
+  details_url: "https://www.facebook.com/events/439227209979703/"
+  date: "May 19"
+  time: "12:00 - 4:00pm"
 
 - title: "Facilitating Ideation"
   group: "experiencing UX"
