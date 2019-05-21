@@ -54,6 +54,13 @@
   date: "Jun 18"
   time: "12:00 - 4:00pm"
 
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "http://www.agileiowa.org/events/leancoffee/2019/06/20/lean-coffee-jun/"
+  date: "Jun 20"
+  time: "7:00 - 8:30am"
+
 - title: "PHPDSM First Meetup"
   group: "PHPDSM"
   location: "DHI Group, Inc."
