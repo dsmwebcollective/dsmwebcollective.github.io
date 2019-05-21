@@ -74,6 +74,13 @@
   details_url: "https://www.meetup.com/Des-Moines-PHP/events/261514162/"
   date: "Jun 20"
   time: "6:20 - 8:00pm"
+  
+- title: "Build great software, products, and teams"
+  group: "Agile Iowa"
+  location: "Hy-Vee HST"
+  details_url: "https://www.eventbrite.com/e/build-great-software-products-and-teams-with-tim-gifford-tickets-61873958676"
+  date: "Jun 26"
+  time: "5:00 - 7:00pm"
 
 - title: "The SkyPaws Story"
   group: "ProductTank Ames/Des Moines"
