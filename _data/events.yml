@@ -82,6 +82,13 @@
   date: "Jun 20"
   time: "7:00 - 8:30am"
 
+- title: "Programming and Your Other Hobbies"
+  group: "PluggedIn"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://info.pillartechnology.com/pluggedin-at-lunch"
+  date: "Jun 20"
+  time: "11:30am - 1:00pm"
+
 - title: "PHPDSM First Meetup"
   group: "PHPDSM"
   location: "DHI Group, Inc."
