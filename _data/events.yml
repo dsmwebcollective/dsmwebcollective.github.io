@@ -26,6 +26,13 @@
   date: "Jun 04"
   time: "5:30 - 7:00pm"
   
+- title: "Docker"
+  group: "Pyowa"
+  location: "IMT Insurance"
+  details_url: "http://www.pyowa.org/"
+  date: "Jun 04"
+  time: "6:00 - 8:00pm"
+  
 - title: "Building Real-time Apps with Azure Functions and SignalR"
   group: "IADNUG"
   location: "The Forge: Pillar Technology"
