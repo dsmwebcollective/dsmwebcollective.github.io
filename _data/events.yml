@@ -26,6 +26,13 @@
   date: "Jun 06"
   time: "11:45am - 1:00pm"
   
+- title: "Build your first React-Native app"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/build-your-first-react-native-app/"
+  date: "Jun 10"
+  time: "6:30 - 8:30pm"
+  
 - title: "Lean Coffee - Downtown"
   group: "Agile Iowa"
   location: "Main Street Cafe"
