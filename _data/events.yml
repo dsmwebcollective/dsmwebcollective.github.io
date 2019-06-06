@@ -75,6 +75,13 @@
   date: "Jun 18"
   time: "12:00 - 4:00pm"
   
+- title: "What a time to be a developer!"
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details_url: "https://www.eventbrite.com/e/what-a-time-to-be-a-developer-tickets-62678269391"
+  date: "Jun 19"
+  time: "12:00 - 1:00pm"
+  
 - title: "IoT Challenge Awards Ceremony"
   group: "Des Moines Web Geeks"
   location: "We Write Code"
