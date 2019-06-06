@@ -46,20 +46,20 @@
   details_url: "https://www.meetup.com/Des-Moines-Tableau-User-Group-DSM-TUG/events/261458728/"
   date: "Jun 11"
   time: "1:30 - 3:30pm"
-  
-- title: "Angular Fundamentals"
-  group: "dsmJS"
-  location: "We Write Code"
-  details_url: "https://dsmjs.com/"
-  date: "Jun 11"
-  time: "6:00 - 7:00pm"
-  
+   
 - title: "DAQAA Summer Social"
   group: "DAQAA"
   location: "Grumpy Goat Tavern"
   details_url: "https://www.eventbrite.com/e/daqaa-summer-social-tickets-62023214103"
   date: "Jun 12"
   time: "4:00 - 6:00pm"
+  
+- title: "Angular Fundamentals"
+  group: "dsmJS"
+  location: "We Write Code"
+  details_url: "https://dsmjs.com/"
+  date: "Jun 13"
+  time: "6:00 - 7:00pm"  
 
 - title: "Micronaut Framework Intro"
   group: "CIJUG"
