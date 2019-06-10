@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "How to sell an 'all in' cloud project to your leadership"
-  group: "AWS Des Moines"
-  location: "DHI Group, Inc."
-  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmyzjbhb/"
-  date: "Jun 04"
-  time: "5:30 - 7:00pm"
-  
-- title: "Docker"
-  group: "Pyowa"
-  location: "IMT Insurance"
-  details_url: "http://www.pyowa.org/"
-  date: "Jun 04"
-  time: "6:00 - 8:00pm"
-  
-- title: "Building Real-time Apps with Azure Functions and SignalR"
-  group: "IADNUG"
-  location: "The Forge: Pillar Technology"
-  details_url: "https://www.meetup.com/iadnug/events/261670194/"
-  date: "Jun 06"
-  time: "11:45am - 1:00pm"
-  
 - title: "Build your first React-Native app"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
