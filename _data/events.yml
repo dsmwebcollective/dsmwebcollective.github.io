@@ -138,6 +138,13 @@
   date: "Jun 27"
   time: "5:30 - 7:00pm"
   
+- title: "Confluence Demo"
+  group: "Atlassian User Group"
+  location: "DHI Group, Inc."
+  details_url: "https://aug.atlassian.com/events/details/atlassian-des-moines-presents-confluence-demo-discussion/"
+  date: "Jul 18"
+  time: "4:30 - 6:30pm"
+  
 - title: "Growth Hacks"
   group: "DSM Teach n' Learn"
   location: "Source Allies"
