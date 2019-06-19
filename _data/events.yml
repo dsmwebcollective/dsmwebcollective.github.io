@@ -82,6 +82,13 @@
   date: "Jun 26"
   time: "5:00 - 7:00pm"
   
+- title: "Docker for Developers"
+  group: "DevOpsDSM"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/jhgwtqyzjbjc/"
+  date: "Jun 26"
+  time: "6:00 - 7:00pm"
+  
 - title: "The Resilience Recipe"
   group: "IIBA-CIC"
   location: "Wellmark"
