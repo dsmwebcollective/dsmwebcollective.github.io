@@ -40,6 +40,13 @@
   date: "Jul 10"
   time: "4:00 - 5:00pm"
   
+- title: "Your .NET App Won't Scale"
+  group: "IADNUG"
+  location: "We Write Code"
+  details_url: "https://www.meetup.com/iadnug/events/262707976/"
+  date: "Jul 10"
+  time: "5:45 - 7:15pm"
+  
 - title: "Confluence Demo"
   group: "Atlassian User Group"
   location: "DHI Group, Inc."
