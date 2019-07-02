@@ -4,6 +4,13 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
+
+- title: "Baby Got Backend: To Server, Serverless or Headless CMS?"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/baby-got-backend-to-server-serverless-or-headless-cms/"
+  date: "Jul 08"
+  time: "6:30 - 8:30pm"
   
 - title: "2020 Vision: Testing Transitions into the Next Decade"
   group: "DAQAA"
