@@ -33,6 +33,13 @@
   date: "Jul 11"
   time: "6:00 - 8:00pm"
   
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.eventbrite.com/e/agileiowa-lean-coffee-july-2019-tickets-54276075202"
+  date: "Jul 18"
+  time: "7:00 - 8:30am"
+  
 - title: "Confluence Demo"
   group: "Atlassian User Group"
   location: "DHI Group, Inc."
