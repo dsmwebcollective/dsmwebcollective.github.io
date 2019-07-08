@@ -19,6 +19,13 @@
   date: "Jul 09"
   time: "7:00 - 8:30am"
   
+- title: "Django Workshop"
+  group: "Pyowa"
+  location: "LenderClose"
+  details_url: "http://www.pyowa.org/"
+  date: "Jul 09"
+  time: "6:00 - 8:00pm"
+  
 - title: "2020 Vision: Testing Transitions into the Next Decade"
   group: "DAQAA"
   location: "Farm Bureau Financial Services"
