@@ -4,7 +4,14 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
+
+- title: "Jupyter Fun"
+  group: "Central Iowa Linux Users Group"
+  location: "DMACC Ankeny Campus Building 3W, Room 36"
+  details_url: "https://www.cialug.org/?page_id=7&event_id=1097"
+  date: "Jul 17"
+  time: "7:00 - 8:30am"
+
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
