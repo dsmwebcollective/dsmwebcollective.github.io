@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "Binder"
+  group: "Pyowa"
+  location: "LenderClose"
+  details_url: "http://www.pyowa.org/"
+  date: "Aug 06"
+  time: "6:00 - 8:00pm"
+
 - title: "Optimizing Microsoft Access with SQL Server"
   group: "IASSUG"
   location: "Hy-Vee HST"
