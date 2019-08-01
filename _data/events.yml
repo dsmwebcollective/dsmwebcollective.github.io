@@ -18,7 +18,14 @@
   details_url: "https://www.meetup.com/dsmsql/events/263598123/"
   date: "Aug 12"
   time: "6:00 - 8:00pm"
-  
+
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "http://www.agileiowa.org/events/leancoffee/2019/08/15/lean-coffee-aug/"
+  date: "Aug 15"
+  time: "7:00 - 8:30am"
+
 - title: "VetsInTech Des Moines Chapter Soft Launch"
   group: "VetsInTech Des Moines"
   location: "INTL FCStone"
