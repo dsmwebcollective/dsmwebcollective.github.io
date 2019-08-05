@@ -53,6 +53,13 @@
   details_url: "https://www.meetup.com/VetsinTech-Des-Moines/events/263099902/"
   date: "Aug 22"
   time: "4:30 - 6:30pm"
+  
+- title: "Laracon 2019: A summary and retrospect"
+  group: "Des Moines PHP"
+  location: "DHI Group, Inc."
+  details_url: "https://www.meetup.com/Des-Moines-PHP/events/262611824/"
+  date: "Aug 22"
+  time: "6:20 - 7:50pm"
 
 - title: "Building A WordPress Website - Part 2"
   group: "WPDSM"
