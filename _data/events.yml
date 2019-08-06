@@ -32,6 +32,13 @@
   details_url: "https://www.eventbrite.com/e/agile-iowa-downtown-lean-coffee-tickets-54417531301"
   date: "Aug 13"
   time: "7:00 - 8:30am"
+  
+- title: "Headless Chrome"
+  group: "dsmJS"
+  location: "Gravitate Downtown"
+  details_url: "https://dsmjs.com/"
+  date: "Aug 13"
+  time: "6:00 - 7:00pm"
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
