@@ -54,6 +54,13 @@
   date: "Aug 20"
   time: "6:00 - 8:00pm"
   
+- title: "Debian Buster"
+  group: "Central Iowa Linux Users Group"
+  location: "DMACC Ankeny Campus Building 3W, Room 36"
+  details_url: "https://www.cialug.org/?page_id=7&event_id=1098"
+  date: "Aug 21"
+  time: "7:00 - 8:30pm"
+  
 - title: "The Role of the BA in Cybersecurity"
   group: "IIBA-CIC"
   location: "EMC Insurance"
