@@ -19,6 +19,13 @@
   date: "Aug 20"
   time: "6:00 - 8:00pm"
   
+- title: "GitHub Pages: An Often Overlooked Web Platform"
+  group: "Des Moines Web Geeks"
+  location: "We Write Code"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/github-pages-an-often-overlooked-web-platform/"
+  date: "Aug 21"
+  time: "12:00 - 1:00pm"
+  
 - title: "Debian Buster"
   group: "Central Iowa Linux Users Group"
   location: "DMACC Ankeny Campus Building 3W, Room 36"
