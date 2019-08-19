@@ -75,6 +75,13 @@
   date: "Aug 22"
   time: "4:30 - 6:30pm"
   
+- title: ".NET Social"
+  group: "IADNUG"
+  location: "Gilroy's"
+  details_url: " https://www.meetup.com/iadnug/events/263720365/"
+  date: "Aug 22"
+  time: "5:45 - 7:45pm"
+  
 - title: "Laracon 2019: A summary and retrospect"
   group: "Des Moines PHP"
   location: "DHI Group, Inc."
