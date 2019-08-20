@@ -73,6 +73,11 @@
   location: "Gravitate Valley Junction"
   date: "Aug 28"
   time: "7:00 - 8:00pm"
+  
+- title: "Prairie.Code()"
+  location: "Holiday Inn Conference Center"
+  details_url: "https://prairiecode.amegala.com/"
+  date: "Sept 11-13"
 
 - title: "Don't Do What Led To My Largest Product Failures"
   group: "ProductTank Des Moines / Ames"
