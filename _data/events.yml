@@ -32,6 +32,13 @@
   date: "Sept 04"
   time: "5:30 - 7:00pm"
   
+- title: "Building a Headless CMS with Django Workshop"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/building-a-headless-cms-with-django-workshop/"
+  date: "Sept 09"
+  time: "6:30 - 8:30pm"
+  
 - title: "Building Component Libraries with a Monorepo"
   group: "dsmJS"
   location: "Hy-Vee HST"
