@@ -18,6 +18,13 @@
   date: "Aug 28"
   time: "7:00 - 8:00pm"
   
+- title: "Working with PDFs in Python"
+  group: "Pyowa"
+  location: "IMT Insurance"
+  details_url: "http://www.pyowa.org/"
+  date: "Sept 03"
+  time: "6:00 - 8:00pm"
+  
 - title: "A Look at AWS Inside Principal"
   group: "AWS Des Moines"
   location: "Principal Financial Group"
