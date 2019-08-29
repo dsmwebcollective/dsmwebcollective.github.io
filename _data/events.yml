@@ -4,19 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-
-- title: "Building A WordPress Website - Part 2"
-  group: "WPDSM"
-  location: "The Glass Box"
-  details_url: "https://www.meetup.com/wordpressdsm/events/263465720/"
-  date: "Aug 27"
-  time: "6:00 - 7:30pm"
-
-- title: "Key Factors for creating and running successful DevOps teams"
-  group: "DevOpsDSM"
-  location: "Gravitate Valley Junction"
-  date: "Aug 28"
-  time: "7:00 - 8:00pm"
   
 - title: "Working with PDFs in Python"
   group: "Pyowa"
