@@ -26,6 +26,13 @@
   date: "Sept 09"
   time: "6:30 - 8:30pm"
   
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Main Street Cafe & Bakery"
+  details_url: "https://www.eventbrite.com/e/agile-iowa-downtown-lean-coffee-tickets-54417525283"
+  date: "Sept 10"
+  time: "7:00 - 8:30am"
+  
 - title: "Building Component Libraries with a Monorepo"
   group: "dsmJS"
   location: "Hy-Vee HST"
