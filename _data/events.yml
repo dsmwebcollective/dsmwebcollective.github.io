@@ -40,6 +40,13 @@
   date: "Sept 10"
   time: "6:00 - 7:00pm"
   
+- title: "Hot Topics in Des Moines QA"
+  group: "DAQAA"
+  location: "CCOP Training Center"
+  details_url: "https://www.eventbrite.com/e/hot-topics-in-des-moines-quality-assurance-tickets-71325236703"
+  date: "Sept 11"
+  time: "4:00 - 5:00pm"
+  
 - title: "Prairie.Code()"
   location: "Holiday Inn Conference Center"
   details_url: "https://prairiecode.amegala.com/"
