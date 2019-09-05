@@ -5,20 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
-- title: "Working with PDFs in Python"
-  group: "Pyowa"
-  location: "IMT Insurance"
-  details_url: "http://www.pyowa.org/"
-  date: "Sept 03"
-  time: "6:00 - 8:00pm"
-  
-- title: "A Look at AWS Inside Principal"
-  group: "AWS Des Moines"
-  location: "Principal Financial Group"
-  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmyzlbkb/"
-  date: "Sept 04"
-  time: "5:30 - 7:00pm"
-  
 - title: "Building a Headless CMS with Django Workshop"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
