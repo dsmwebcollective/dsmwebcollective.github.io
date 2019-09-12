@@ -107,6 +107,13 @@
   details_url: "https://pmi-centraliowa.org/events/professional-development-day"
   date: "Sept 27"
   time: "7:00am - 5:00pm"
+  
+- title: "Using Python and Open Source with Geospatial Data"
+  group: "Pyowa"
+  location: "Corteva Agriscience"
+  details_url: "http://www.pyowa.org/"
+  date: "Oct 01"
+  time: "6:00 - 8:00pm"
 
 - title: "dsmAgile 2019"
   group: "Agile Iowa"
