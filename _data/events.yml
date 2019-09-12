@@ -4,35 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
-- title: "Building a Headless CMS with Django Workshop"
-  group: "Des Moines Web Geeks"
-  location: "The Forge: Pillar Technology"
-  details_url: "https://www.dsmwebgeeks.com/wg_events/building-a-headless-cms-with-django-workshop/"
-  date: "Sept 09"
-  time: "6:30 - 8:30pm"
-  
-- title: "Lean Coffee"
-  group: "Agile Iowa"
-  location: "Main Street Cafe & Bakery"
-  details_url: "https://www.eventbrite.com/e/agile-iowa-downtown-lean-coffee-tickets-54417525283"
-  date: "Sept 10"
-  time: "7:00 - 8:30am"
-  
-- title: "Building Component Libraries with a Monorepo"
-  group: "dsmJS"
-  location: "Hy-Vee HST"
-  details_url: "https://dsmjs.com/"
-  date: "Sept 10"
-  time: "6:00 - 7:00pm"
-  
-- title: "Hot Topics in Des Moines QA"
-  group: "DAQAA"
-  location: "CCOP Training Center"
-  details_url: "https://www.eventbrite.com/e/hot-topics-in-des-moines-quality-assurance-tickets-71325236703"
-  date: "Sept 11"
-  time: "4:00 - 5:00pm"
-  
+   
 - title: "Prairie.Code()"
   location: "Holiday Inn Conference Center"
   details_url: "https://prairiecode.amegala.com/"
