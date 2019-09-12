@@ -79,6 +79,13 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2019/09/19/lean-coffee-sep/"
   date: "Sept 19"
   time: "7:00 - 8:30am"
+  
+- title: "Building data lakes with AWS Lake Formation"
+  group: "DAMA Iowa"
+  location: "Gravitate Downtown"
+  details_url: "https://www.meetup.com/DAMA-Iowa/events/264708298/"
+  date: "Sept 24"
+  time: "8:30 - 10:30am"
 
 - title: "dsmAgile 2019"
   group: "Agile Iowa"
