@@ -59,6 +59,13 @@
   date: "Sept 17"
   time: "5:30 - 7:00pm"
   
+- title: "Building Component Libraries with a Monorepo"
+  group: "Des Moines Web Geeks"
+  location: "We Write Code"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/building-component-libraries-with-a-monorepo/"
+  date: "Sept 18"
+  time: "12:00 - 1:00pm"
+  
 - title: "What's it like to be an Entrepreneur?"
   group: "CIJUG & IADNUG"
   location: "Walker Johnston Park - Giovannetti Shelter"
