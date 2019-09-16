@@ -4,25 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-   
-- title: "Prairie.Code()"
-  location: "Holiday Inn Conference Center"
-  details_url: "https://prairiecode.amegala.com/"
-  date: "Sept 11-13"
-  
-- title: "Is my Server Suffering from Memory Pressure?"
-  group: "IASSUG"
-  location: "Hy-Vee HST"
-  details_url: "https://www.eventbrite.com/e/iassug-september-meeting-tickets-71520909967"
-  date: "Sept 12"
-  time: "6:00 - 8:00pm"
-  
-- title: "Connecting the Dots: A case study on becoming a little more like Leonardo"
-  group: "Des Moines Data & Analytics"
-  location: "EMC Insurance"
-  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/264315985/"
-  date: "Sept 13"
-  time: "8:30 - 10:00am"
   
 - title: "Don't Do What Led To My Largest Product Failures"
   group: "ProductTank Des Moines / Ames"
