@@ -46,6 +46,13 @@
   details_url: "http://www.pyowa.org/"
   date: "Oct 01"
   time: "6:00 - 8:00pm"
+  
+- title: "Hacktoberfest"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology
+  details_url: "https://www.meetup.com/Des-Moines-Web-Geeks/events/qbkqwqyznbsb"
+  date: "Oct 14"
+  time: "6:30 - 8:30pm"
 
 - title: "dsmAgile 2019"
   group: "Agile Iowa"
