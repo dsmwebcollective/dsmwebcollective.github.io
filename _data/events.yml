@@ -60,6 +60,13 @@
   details_url: "https://www.meetup.com/Des-Moines-Web-Geeks/events/qbkqwqyznbsb"
   date: "Oct 14"
   time: "6:30 - 8:30pm"
+  
+- title: "Power Platform: Process Automation with PowerApps and Microsoft Flow"
+  group: "Des Moines Power BI User Group"
+  location: "Microsoft"
+  details_url: "https://www.meetup.com/IowaPowerBI/events/265127189"
+  date: "Oct 17"
+  time: "2:00 - 4:00pm"
 
 - title: "dsmAgile 2019"
   group: "Agile Iowa"
