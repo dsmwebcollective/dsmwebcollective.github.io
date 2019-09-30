@@ -19,6 +19,13 @@
   date: "Oct 02"
   time: "3:30 - 5:00pm"
   
+- title: "Small Groups"
+  group: "DSM Teach n' Learn"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/DSM-Teach-n-Learn/events/265193621"
+  date: "Oct 03"
+  time: "6:00 - 8:00pm"
+  
 - title: "ASP.NET Core Workshop"
   group: "IADNUG"
   location: "Gravitate Valley Junction"
