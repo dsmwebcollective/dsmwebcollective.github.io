@@ -33,6 +33,13 @@
   date: "Oct 03"
   time: "6:00 - 8:00pm"
   
+- title: "Coaches Corner: Ask an Agile Coach"
+  group: "IIBA-CIC"
+  location: "Aureon"
+  details_url: "http://www.centraliowaiiba.org/news/agile-working-group-october-2019"
+  date: "Oct 10"
+  time: "11:00am - 12:30pm"
+  
 - title: "Hacktoberfest"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
