@@ -39,7 +39,14 @@
   details_url: "https://www.meetup.com/Des-Moines-Web-Geeks/events/qbkqwqyznbsb"
   date: "Oct 14"
   time: "6:30 - 8:30pm"
-  
+
+- title: "Object-Oriented User Experience"
+  group: "experiencing UX"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/265128309"
+  date: "Oct 16"
+  time: "6:00 - 7:00pm"
+
 - title: "Power Platform: Process Automation with PowerApps and Microsoft Flow"
   group: "Des Moines Power BI User Group"
   location: "Microsoft"
