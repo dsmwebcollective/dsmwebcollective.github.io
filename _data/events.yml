@@ -60,3 +60,10 @@
   details_url: "https://www.eventbrite.com/e/dsmagile-fall-2019-tickets-63301460372"
   date: "Oct 18"
   time: "8:00am - 5:00pm"
+
+- title: "Iowa Code Camp"
+  group: "IADNUG"
+  location: "FFA Enrichment Center - Ankeny DMACC Campus"
+  details_url: "http://www.iowacodecamp.com/"
+  date: "Oct 19"
+  time: "8:00am - 5:30pm"
