@@ -53,6 +53,13 @@
   details_url: "https://www.meetup.com/Des-Moines-Web-Geeks/events/qbkqwqyznbsb"
   date: "Oct 14"
   time: "6:30 - 8:30pm"
+  
+- title: "Kinesis Data Analytics for Java"
+  group: "AWS Des Moines"
+  location: "DHI Group, Inc."
+  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/mktsrmyznbdb/"
+  date: "Oct 16"
+  time: "5:30 - 7:00pm"
 
 - title: "Object-Oriented User Experience"
   group: "experiencing UX"
