@@ -47,6 +47,13 @@
   date: "Oct 14"
   time: "6:30 - 8:30pm"
   
+- title: "DevOps: A Journey instead of a Destination"
+  group: "Des Moines Web Geeks"
+  location: "We Write Code"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/devops-a-journey-instead-of-a-destination/"
+  date: "Oct 16"
+  time: "12:00 - 1:00pm"
+  
 - title: "Kinesis Data Analytics for Java"
   group: "AWS Des Moines"
   location: "DHI Group, Inc."
