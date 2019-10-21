@@ -12,6 +12,13 @@
   date: "Oct 22"
   time: "9:00 - 11:00am"
   
+- title: "WordPress Security Keys"
+  group: "WordPress DSM"
+  location: "The Glass Box"
+  details_url: "https://www.meetup.com/wordpressdsm/events/sqnwhryznbdc/:
+  date: "Oct 22"
+  time: "6:00 - 8:00pm"
+  
 - title: "Intro to AWS and Terraform"
   group: "DevOpsDSM"
   location: "Gravitate Valley Junction"
