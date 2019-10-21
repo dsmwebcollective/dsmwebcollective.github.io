@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/DAMA-Iowa/events/265473095"
   date: "Oct 22"
   time: "9:00 - 11:00am"
+  
+- title: "Intro to AWS and Terraform"
+  group: "DevOpsDSM"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/265170246/"
+  date: "Oct 23"
+  time: "6:00 - 7:30pm"
 
 - title: "Panel Discussion: IT Market Trends of Today and Tomorrow"
   group: "IIBA-CIC"
