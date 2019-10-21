@@ -39,6 +39,13 @@
   details_url: "https://www.meetup.com/RPADesMoines/events/265742785/"
   date: "Nov 06"
   time: "5:30 - 7:00pm"
+  
+- title: "Going Deep...Sometimes"
+  group: "Des Moines Data & Analytics"
+  location: "John Deere Financial"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/265695178/"
+  date: "Nov 07"
+  time: "4:00 - 5:30pm"
 
 - title: "My House Runs .NET - Home Automation with .NET Core & Azure"
   group: "IADNUG"
