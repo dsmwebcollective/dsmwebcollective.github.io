@@ -24,7 +24,14 @@
   location: "Gravitate Valley Junction"
   details_url: "https://www.meetup.com/iadnug/events/265751996/"
   date: "Nov 07"
-  time: "6:00 - 8:00pm" 
+  time: "6:00 - 8:00pm"
+  
+- title: "Jira Align presented by Atlassian"
+  group: "Des Moines AUG"
+  location: "DHI Group, Inc."
+  details_url: "https://aug.atlassian.com/events/details/atlassian-des-moines-presents-jira-align-presented-by-atlassian/#/"
+  date: "Nov 14"
+  time: "4:30 - 6:00pm"
 
 - title: "Uniting as UX Researchers"
   group: "experiencing UX"
