@@ -18,6 +18,13 @@
   details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/265695178/"
   date: "Nov 07"
   time: "4:00 - 5:30pm"
+  
+- title: "Moar Projects"
+  group: "DSM Teach n' Learn"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/DSM-Teach-n-Learn/events/265974285/"
+  date: "Nov 07"
+  time: "6:00 - 8:00pm"
 
 - title: "My House Runs .NET - Home Automation with .NET Core & Azure"
   group: "IADNUG"
