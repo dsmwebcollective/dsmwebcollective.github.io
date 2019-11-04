@@ -40,6 +40,13 @@
   date: "Nov 07"
   time: "6:00 - 8:00pm"
   
+- title: "Build a Game Engine with Elixir"
+  group: "Des Moines Web Geeks"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/build-a-game-engine-with-elixir/"
+  date: "Nov 11"
+  time: "6:30 - 8:30pm"
+  
 - title: "Modernizing Data, Applications & APIs to the Cloud - Azure Training Day"
   group: "Iowa Microsoft Azure User Group"
   location: "Microsoft"
