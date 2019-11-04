@@ -53,3 +53,10 @@
   details_url: "http://www.agileiowa.org/events/leancoffee/2019/11/21/lean-coffee-nov/"
   date: "Nov 21"
   time: "7:00 - 8:30am"
+
+- title: "Building Effective Data Lakes in Azure"
+  group: "DAMA Iowa"
+  location: "Microsoft"
+  details_url: "https://www.meetup.com/DAMA-Iowa/events/266085294/"
+  date: "Nov 26"
+  time: "9:00 - 11:00am"
