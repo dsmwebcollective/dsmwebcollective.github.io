@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "November 2019 Meeting"
+  group: "Pyowa"
+  location: "LenderClose"
+  details_url: "http://www.pyowa.org/"
+  date: "Nov 05"
+  time: "6:00 - 8:00pm"
+
 - title: "UiPath Forward III Retrospective"
   group: "RPA Des Moines"
   location: "Conga"
