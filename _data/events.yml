@@ -88,6 +88,13 @@
   details_url: "https://aug.atlassian.com/events/details/atlassian-des-moines-presents-jira-align-presented-by-atlassian/#/"
   date: "Nov 14"
   time: "4:30 - 6:00pm"
+  
+- title: "OpenShift and Kubernetes with Red Hat"
+  group: "CIJUG"
+  location: "Lean TECHniques"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/266268924/"
+  date: "Nov 14"
+  time: "6:00 - 8:00pm"
 
 - title: "Uniting as UX Researchers"
   group: "experiencing UX"
