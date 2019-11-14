@@ -4,48 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-
-- title: "November 2019 Meeting"
-  group: "Pyowa"
-  location: "LenderClose"
-  details_url: "http://www.pyowa.org/"
-  date: "Nov 05"
-  time: "6:00 - 8:00pm"
-
-- title: "UiPath Forward III Retrospective"
-  group: "RPA Des Moines"
-  location: "Conga"
-  details_url: "https://www.meetup.com/RPADesMoines/events/265742785/"
-  date: "Nov 06"
-  time: "5:30 - 7:00pm"
-  
-- title: "Going Deep...Sometimes"
-  group: "Des Moines Data & Analytics"
-  location: "John Deere Financial"
-  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/265695178/"
-  date: "Nov 07"
-  time: "4:00 - 5:30pm"
-  
-- title: "Moar Projects"
-  group: "DSM Teach n' Learn"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/DSM-Teach-n-Learn/events/265974285/"
-  date: "Nov 07"
-  time: "6:00 - 8:00pm"
-
-- title: "My House Runs .NET - Home Automation with .NET Core & Azure"
-  group: "IADNUG"
-  location: "Gravitate Valley Junction"
-  details_url: "https://www.meetup.com/iadnug/events/265751996/"
-  date: "Nov 07"
-  time: "6:00 - 8:00pm"
-  
-- title: "Agile Open Iowa"
-  group:
-  location: "Prairie Meadows Conference Center"
-  details_url: "https://www.eventbrite.com/e/agile-open-iowa-des-moines-ia-tickets-62012212196"
-  date: "Nov 08"
-  time: "8:00 - 4:00pm"
   
 - title: "Build a Game Engine with Elixir"
   group: "Des Moines Web Geeks"
