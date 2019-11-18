@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "Agile Iowa Social"
+  group: "Agile Iowa"
+  location: "The Keg Stand"
+  details_url: "https://www.facebook.com/events/1420613558104867/"
+  date: "Nov 18"
+  time: "5:30pm"
+
 - title: "Test Driven Elixir"
   group: "Des Moines Web Geeks"
   location: "We Write Code"
