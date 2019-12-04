@@ -32,6 +32,13 @@
   details_url: "https://www.dsmwebgeeks.com/wg_events/ugly-sweater-show-and-share-2019/"
   date: "Dec 09"
   time: "6:30 - 8:30pm"
+  
+- title: "Re:Invent recap"
+  group: "AWS Des Moines"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/frbslryzqbgb/"
+  date: "Dec 11"
+  time: "5:30 - 7:00pm"
 
 - title: "WordPress 5.3 - New Features"
   group: "WordPress Des Moines"
