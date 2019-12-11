@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Python Projects"
-  group: "Pyowa"
-  location: "LenderClose"
-  details_url: "https://www.pyowa.org/"
-  date: "Dec 03"
-  time: "6:00 - 8:00pm"
-
-- title: "Sharing Best Practices in Data & Analytics"
-  group: "Des Moines Data & Analytics"
-  location: "The Forge: Pillar Technology"
-  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/266719111/"
-  date: "Dec 04"
-  time: "4:00 - 5:30pm"
-
-- title: "2019 Annual Bash"
-  group: "IADNUG"
-  location: "The Beerhouse"
-  details_url: "https://www.meetup.com/iadnug/events/266739518/"
-  date: "Dec 05"
-  time: "6:00 - 8:00pm"
-
 - title: "Ugly Sweater Show & Share 2019"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
