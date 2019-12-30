@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Resilient smart homes with Docker & .NET Core on a Raspberry Pi"
+  group: "IADNUG"
+  location: "CO-OP Financial Services"
+  details_url: "https://www.meetup.com/iadnug/events/267512312/"
+  date: "Jan 09"
+  time: "11:30am - 1:00pm"
+
 - title: "More WordPress Goodness and Help!"
   group: "WordPress Des Moines"
   location: "Valley Community Center"
