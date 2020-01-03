@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Lightning Talks"
+  group: "Pyowa"
+  location: "LenderClose"
+  details_url: "https://www.pyowa.org/"
+  date: "Jan 07"
+  time: "6:00 - 8:00pm"
+
 - title: "Resilient smart homes with Docker & .NET Core on a Raspberry Pi"
   group: "IADNUG"
   location: "CO-OP Financial Services"
