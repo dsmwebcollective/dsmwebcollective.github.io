@@ -39,6 +39,13 @@
   details_url: "https://www.dsmwebgeeks.com/wg_events/jamstack-say-what/"
   date: "Jan 13"
   time: "6:30 - 8:30pm"
+  
+- title: "Cypress for E2E Testing - A Retrospective"
+  group: "dsmJS"
+  location: "Source Allies"
+  details_url: "https://dsmjs.com/"
+  date: "Jan 14"
+  time: "6:00 - 7:00pm"
 
 - title: "The Design of Design Teams: Improving Team Outcomes"
   group: "experiencing UX"
