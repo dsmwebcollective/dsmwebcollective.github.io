@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "Downtown Lean Beers"
+  group: "Agile Iowa"
+  location: "The Royal Mile"
+  details_url: "https://www.eventbrite.com/e/downtown-lean-beers-tickets-88005696407"
+  date: "Jan 14"
+  time: "4:30 - 6:00pm"
+
 - title: "Cypress for E2E Testing - A Retrospective"
   group: "dsmJS"
   location: "Source Allies"
