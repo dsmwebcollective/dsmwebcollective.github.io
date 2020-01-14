@@ -11,6 +11,13 @@
   details_url: "https://dsmjs.com/"
   date: "Jan 14"
   time: "6:00 - 7:00pm"
+  
+- title: "Azure DevOps: Not just for Devs and Ops"
+  group: "DAQAA"
+  location: "CCOP Training Center"
+  details_url: "https://www.eventbrite.com/e/daqaa-azure-devops-not-just-for-devs-and-ops-tickets-89152667027"
+  date: "Jan 15"
+  time: "4:00 - 5:00pm"
 
 - title: "The Design of Design Teams: Improving Team Outcomes"
   group: "experiencing UX"
