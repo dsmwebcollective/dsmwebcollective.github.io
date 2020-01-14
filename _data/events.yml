@@ -39,6 +39,13 @@
   details_url: "https://www.cialug.org/?page_id=7&event_id=1104"
   date: "Jan 15"
   time: "7:00 - 8:30pm"
+  
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.eventbrite.com/e/lean-coffee-tickets-89361064349"
+  date: "Jan 16"
+  time: "7:00 - 8:30am"
 
 - title: "It Looks So Simple: Overcoming Challenges in Developing Self-Service Dashboards"
   group: "Des Moines Data & Analytics"
