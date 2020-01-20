@@ -54,19 +54,19 @@
   date: "Jan 16"
   time: "8:30 - 10:00am"
   
-- title: "The WordPress Dashboard - What is All This Stuff?"
-  group: "WordPress Des Moines"
-  location: "Valley Community Center"
-  details_url: "https://www.meetup.com/wordpressdsm/events/267457785/"
-  date: "Jan 18"
-  time: "9:00am - 12:00pm"  
-
 - title: "IIBA-CIC Annual General Meeting - Panel Discussion: Board Member Q&A"
   group: "IIBA-CIC"
   location: "Corteva"
   details_url: "http://www.centraliowaiiba.org/news/monthly-chapter-meeting-january-2020"
   date: "Jan 23"
   time: "11:00am - 12:30pm"
+  
+- title: "The WordPress Dashboard - What is All This Stuff?"
+  group: "WordPress Des Moines"
+  location: "Clive Public Library"
+  details_url: "https://www.meetup.com/wordpressdsm/events/268067354/"
+  date: "Jan 25"
+  time: "9:00am - 12:00pm"   
 
 - title: "Walking into Mordor: The History and Future of DevOps"
   group: "IADNUG"
