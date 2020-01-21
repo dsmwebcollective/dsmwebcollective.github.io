@@ -17,7 +17,14 @@
   location: "Clive Public Library"
   details_url: "https://www.meetup.com/wordpressdsm/events/268067354/"
   date: "Jan 25"
-  time: "9:00am - 12:00pm"   
+  time: "9:00am - 12:00pm" 
+  
+- title: "Requirements Gathering, How to Deliver what they really want."
+  group: "ProductTank Ames/DesMoines"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/268078519/"
+  date: "Feb 06"
+  time: "5:30 - 7:00pm"  
 
 - title: "Walking into Mordor: The History and Future of DevOps"
   group: "IADNUG"
