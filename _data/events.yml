@@ -25,6 +25,13 @@
   details_url: "https://www.meetup.com/iadnug/events/267738065/"
   date: "Feb 06"
   time: "5:45 - 7:00pm"
+  
+- title: "Agile Working Group - Lean Lunch"
+  group: "IIBA-CIC"
+  location: "NCMIC"
+  details_url: "http://www.centraliowaiiba.org/news/agile-working-group-february-2020"
+  date: "Feb 14"
+  time: "11:00am - 12:30pm"
 
 - title: "Maximizing resources: Dataflows, datasets, and the Enhanced Compute Engine"
   group: "Des Moines Power BI"
