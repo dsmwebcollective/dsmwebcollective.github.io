@@ -17,7 +17,14 @@
   location: "Clive Public Library"
   details_url: "https://www.meetup.com/wordpressdsm/events/268067354/"
   date: "Jan 25"
-  time: "9:00am - 12:00pm" 
+  time: "9:00am - 12:00pm"
+  
+- title: "Python on AWS Lambda"
+  group: "Pyowa"
+  location: "LenderClose"
+  details_url: "https://www.pyowa.org/"
+  date: "Feb 04"
+  time: "6:00 - 8:00pm"
   
 - title: "Requirements Gathering, How to Deliver what they really want."
   group: "ProductTank Ames/DesMoines"
