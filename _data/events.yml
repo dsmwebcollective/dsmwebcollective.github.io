@@ -30,8 +30,15 @@
   group: "IIBA-CIC"
   location: "NCMIC"
   details_url: "http://www.centraliowaiiba.org/news/agile-working-group-february-2020"
-  date: "Feb 14"
+  date: "Feb 13"
   time: "11:00am - 12:30pm"
+  
+- title: "Exploring the Java Virtual Machine (JVM)"
+  group: "CIJUG"
+  location: "The Forge: Pillar Technology"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/268270488/"
+  date: "Feb 13"
+  time: "6:00 - 8:00pm"
 
 - title: "Maximizing resources: Dataflows, datasets, and the Enhanced Compute Engine"
   group: "Des Moines Power BI"
