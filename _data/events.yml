@@ -61,6 +61,13 @@
   date: "Feb 18"
   time: "3:00 - 4:30pm"
   
+- title: "Panel: Becoming a Developer"
+  group: "Des Moines Web Geeks"
+  location: "We Write Code"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/panel-becoming-a-developer/"
+  date: "Feb 19"
+  time: "12:00 - 1:00pm"
+  
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
