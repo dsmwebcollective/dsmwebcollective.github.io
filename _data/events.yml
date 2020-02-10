@@ -19,6 +19,13 @@
   date: "Feb 11"
   time: "4:30 - 7:00pm"
   
+- title: "The Hitchhiker’s Guide to Public APIs"
+  group: "dsmJS"
+  location: "LenderClose"
+  details_url: "https://dsmjs.com/"
+  date: "Feb 11"
+  time: "6:00 - 7:00pm"
+  
 - title: "Cypress for E2E Testing: A Retrospective"
   group: "DAQAA"
   location: "Source Allies"
