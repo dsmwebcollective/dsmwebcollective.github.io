@@ -26,6 +26,13 @@
   date: "Feb 12"
   time: "4:00 - 5:00pm"
   
+- title: "Data & Analytics Social at Django"
+  group: "Des Moines Data & Analytics"
+  location: "Django"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/268324115/"
+  date: "Feb 12"
+  time: "4:00 - 5:30pm"
+  
 - title: "Agile Working Group - Lean Lunch"
   group: "IIBA-CIC"
   location: "NCMIC"
