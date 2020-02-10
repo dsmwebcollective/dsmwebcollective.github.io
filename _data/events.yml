@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
-- title: "Python on AWS Lambda"
-  group: "Pyowa"
-  location: "LenderClose"
-  details_url: "https://www.pyowa.org/"
-  date: "Feb 04"
-  time: "6:00 - 8:00pm"
-  
-- title: "Requirements Gathering, How to Deliver what they really want."
-  group: "ProductTank Ames/DesMoines"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/268078519/"
-  date: "Feb 06"
-  time: "5:30 - 7:00pm"  
-
-- title: "Walking into Mordor: The History and Future of DevOps"
-  group: "IADNUG"
-  location: "John Deere ISG"
-  details_url: "https://www.meetup.com/iadnug/events/267738065/"
-  date: "Feb 06"
-  time: "5:45 - 7:00pm"
-  
 - title: "Web Geeks Dojo: React Hooks"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
