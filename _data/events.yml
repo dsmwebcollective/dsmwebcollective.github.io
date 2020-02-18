@@ -25,6 +25,13 @@
   details_url: "https://www.eventbrite.com/e/lean-coffee-tickets-89361066355"
   date: "Feb 20"
   time: "7:00 - 8:30am"
+  
+- title: "Modern Agile for IT Operations"
+  group: "DevOpsDSM"
+  location: "Gravitate Valley Junction"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/268128283/"
+  date: "Feb 26"
+  time: "6:00 - 7:00pm"
 
 - title: "The Evolution of Business Needs and the Role of Product Ownership"
   group: "IIBA-CIC"
