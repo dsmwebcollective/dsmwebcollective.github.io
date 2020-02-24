@@ -32,6 +32,13 @@
   details_url: "https://www.meetup.com/Product-DSM/events/268628844/"
   date: "Mar 12"
   time: "5:30 - 7:00pm"
+  
+- title: "Carl Franklin's Blazor Road Show!"
+  group: "IADNUG"
+  location: "Microsoft"
+  details_url: "https://www.meetup.com/iadnug/events/267760952/"
+  date: "Mar 12"
+  time: "5:45 - 9:00pm"
 
 - title: "Cybernetics Entomology: There’s Always One More Bug"
   group: "CIJUG"
