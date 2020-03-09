@@ -4,21 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-   
-- title: "How to Log in Python"
-  group: "Pyowa"
-  location: "LenderClose"
-  details_url: "https://www.pyowa.org/"
-  date: "Mar 03"
-  time: "6:00 - 8:00pm"
-
-- title: "Terraform and Docker Swarm"
-  group: "AWS Des Moines"
-  location: "DHI Group, Inc."
-  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/268610675/"
-  date: "Mar 04"
-  time: "5:30 - 7:30pm"
-  
+    
 - title: "CraftCMS Dojo"
   group: "Des Moines Web Geeks"
   location: "The Forge: Pillar Technology"
