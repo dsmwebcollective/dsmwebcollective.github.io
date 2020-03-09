@@ -12,6 +12,13 @@
   date: "Mar 09"
   time: "6:30 - 8:30pm"
   
+- title: "OAuth for Authentication and Authorization"
+  group: "dsmJS"
+  location: "Lean TECHniques"
+  details_url: "https://dsmjs.com/"
+  date: "Mar 10"
+  time: "6:00 - 7:00pm"
+  
 - title: "BDD Process and Test Automation"
   group: "DAQAA"
   location: "CCOP Training Center"
