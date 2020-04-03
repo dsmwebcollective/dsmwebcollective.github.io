@@ -25,6 +25,13 @@
   details_url: "https://www.meetup.com/Product-DSM/events/269650616/"
   date: "Apr 09"
   time: "3:30 - 5:00pm"
+  
+- title: "WordPress Des Moines Meetup Goes Virtual!"
+  group: "WordPress Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/wordpressdsm/events/269840086/"
+  date: "Apr 11"
+  time: "9:00am - 12:00pm"
 
 - title: "'Kubernetes"
   group: "Central Iowa Linux Users Group"
