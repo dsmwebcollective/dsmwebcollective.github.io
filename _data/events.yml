@@ -5,20 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Design Eye for the Dev Guy"
-  group: "IADNUG"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/269965156/"
-  date: "May 07"
-  time: "11:45am - 12:45pm"
-
-- title: "On the Road to Woo!"
-  group: "WordPress Des Moines"
-  location: "Online"
-  details_url: "https://www.meetup.com/wordpressdsm/events/270461973/"
-  date: "May 09"
-  time: "9:00am - 12:00pm"
-
 - title: "Automated API Testing"
   group: "DAQAA"
   location: "Online"
