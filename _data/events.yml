@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Web Geeks/dsmJS Spring (Virtual) Gathering"
+  group: "DSM Web Geeks / dsmJS"
+  location: "Online"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/web-geeks-dsmjs-spring-virtual-gathering/"
+  date: "May 12"
+  time: "6:00 - 7:00pm"
+
 - title: "Automated API Testing"
   group: "DAQAA"
   location: "Online"
