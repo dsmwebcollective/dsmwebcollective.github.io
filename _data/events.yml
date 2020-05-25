@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "Lean Beers"
+  group: "Agile Iowa"
+  location: "Online"
+  details_url: "https://www.eventbrite.com/e/downtown-lean-beers-tickets-88005265117"
+  date: "May 26"
+  time: "4:30pm"
+
 - title: "A glimpse into DevOps at Principal"
   group: "DevOpsDSM"
   location: "Online"
