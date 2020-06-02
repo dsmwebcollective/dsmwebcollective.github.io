@@ -24,4 +24,11 @@
   location: "Online"
   details_url: "https://www.meetup.com/experiencing-UX-DSM/events/270818325/"
   date: "June 04"
-  time: "4:30-5:30pm"
+  time: "4:30 - 5:30pm"
+
+- title: "Dynamic vs Static Sites"
+  group: "DSM Web Geeks + dsmJS"
+  location: "Online"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/discussion-on-dynamic-static-sites-and-going-server-less/"
+  date: "June 08"
+  time: "6:30 - 7:30pm"
