@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
-- title: "Lean Beers"
-  group: "Agile Iowa"
-  location: "Online"
-  details_url: "https://www.eventbrite.com/e/downtown-lean-beers-tickets-88005265117"
-  date: "May 26"
-  time: "4:30pm"
-
-- title: "A glimpse into DevOps at Principal"
-  group: "DevOpsDSM"
-  location: "Online"
-  details_url: "https://www.meetup.com/DevOpsDSM/events/mlqjhrybchbkc/"
-  date: "May 27"
-  time: "12:00 - 1:00pm"
-
-- title: "Webflow & The Future of No-code"
-  group: "experiencingUX"
-  location: "Online"
-  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/270729668/"
-  date: "May 27"
-  time: "6:00 - 7:30pm"
-  
 - title: "Pathlib"
   group: "Pyowa"
   location: "Online"
