@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Women in Tech: Mindy Hoover"
+  group: "experiencing UX"
+  location: "Online"
+  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/271397446/"
+  date: "June 30"
+  time: "5:00 - 6:00pm"
+
 - title: "Docker for Devs, not Ops"
   group: "IADNUG"
   location: "Online"
