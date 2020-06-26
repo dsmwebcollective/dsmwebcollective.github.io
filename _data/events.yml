@@ -25,3 +25,10 @@
   details_url: "https://www.meetup.com/dsmsql/events/271362106/"
   date: "July 13"
   time: "6:00 - 7:30pm"
+
+- title: "Visual Testing for React Components"
+  group: "Des Moines Web Geeks"
+  location: "Online"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/visual-testing-for-react-components/"
+  date: "July 13"
+  time: "6:30 - 8:00pm"
