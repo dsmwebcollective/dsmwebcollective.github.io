@@ -18,6 +18,13 @@
   details_url: "https://www.meetup.com/iadnug/events/271078640/"
   date: "July 09"
   time: "12:00 - 1:00pm"
+  
+- title: "Declutter Code to Increase Performance"
+  group: "CIJUG"
+  location: "Online"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/271655722/"
+  date: "July 09"
+  time: "6:00 - 8:00pm"
 
 - title: "AWS vs. Azure: What's The Difference For A DBA?"
   group: "IASSUG"
