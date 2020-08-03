@@ -4,7 +4,14 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
+
+- title: "Azure API Management service"
+  group: "IADNUG"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/272284486/"
+  date: "Aug 06"
+  time: "12:00 - 1:00pm"
+
 - title: "Knowledge Work 3.0"
   group: "Des Moines Web Geeks + dsmJS"
   location: "Online"
