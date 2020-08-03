@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/iadnug/events/272284486/"
   date: "Aug 06"
   time: "12:00 - 1:00pm"
+  
+- title: "How to do a Complete Server Assessment"
+  group: "IASSUG"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/272335730/"
+  date: "Aug 10"
+  time: "6:00 - 8:00pm"
 
 - title: "Knowledge Work 3.0"
   group: "Des Moines Web Geeks + dsmJS"
