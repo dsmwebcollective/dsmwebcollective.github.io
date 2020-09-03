@@ -18,6 +18,13 @@
   details_url: "https://www.meetup.com/dsmsql/events/272989423/"
   date: "Sept 10"
   time: "6:00 - 7:30pm"
+  
+- title: "Knowledge Work 3.0"
+  group: "DSM Web Geeks + dsmJS"
+  location: "Online"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/how-to-organize-the-work/"
+  date: "Sept 15"
+  time: "6:30 - 8:00pm"
 
 - title: "Panel Discussion: Looking for a Product Job"
   group: "ProductTank Des Moines/Ames"
