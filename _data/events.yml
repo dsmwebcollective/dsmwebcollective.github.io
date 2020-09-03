@@ -12,6 +12,13 @@
   date: "Sept 09"
   time: "4:00 - 5:00pm"
 
+- title: "Data Engineering Brick-by-Brick: An Intro To Azure Databricks"
+  group: "IASSUG"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/272989423/"
+  date: "Sept 10"
+  time: "6:00 - 7:30pm"
+
 - title: "Panel Discussion: Looking for a Product Job"
   group: "ProductTank Des Moines/Ames"
   location: "Online"
