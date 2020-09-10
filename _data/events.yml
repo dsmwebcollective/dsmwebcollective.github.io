@@ -32,6 +32,13 @@
   details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/272804508/"
   date: "Sept 16"
   time: "12:00 - 1:00pm"
+  
+- title: "CICD for Database"
+  group: "IADNUG"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/273125529/"
+  date: "Sept 17"
+  time: "6:00 - 8:00pm"
 
 - title: "Deploying Solutions to Azure"
   group: "Iowa Microsoft Azure User Group"
