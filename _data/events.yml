@@ -11,13 +11,6 @@
   details_url: "https://www.eventbrite.com/e/daqaa-cybernetics-entomology-theres-always-one-more-bug-tickets-118669526749"
   date: "Sept 09"
   time: "4:00 - 5:00pm"
-
-- title: "Data Engineering Brick-by-Brick: An Intro To Azure Databricks"
-  group: "IASSUG"
-  location: "Online"
-  details_url: "https://www.meetup.com/dsmsql/events/272989423/"
-  date: "Sept 10"
-  time: "6:00 - 7:30pm"
   
 - title: "Knowledge Work 3.0"
   group: "DSM Web Geeks + dsmJS"
@@ -39,6 +32,13 @@
   details_url: "https://www.meetup.com/iadnug/events/273125529/"
   date: "Sept 17"
   time: "6:00 - 8:00pm"
+  
+- title: "Data Engineering Brick-by-Brick: An Intro To Azure Databricks"
+  group: "IASSUG"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/272989423/"
+  date: "Sept 17"
+  time: "6:00 - 7:30pm"
 
 - title: "Deploying Solutions to Azure"
   group: "Iowa Microsoft Azure User Group"
