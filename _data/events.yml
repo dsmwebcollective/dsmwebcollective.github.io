@@ -26,6 +26,13 @@
   date: "Sept 16"
   time: "12:00 - 1:00pm"
   
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Online"
+  details_url: "https://www.meetup.com/Agile-Iowa/events/ztxfxrybcmbwb/"
+  date: "Sept 17"
+  time: "7:00 - 8:30am"
+  
 - title: "CICD for Database"
   group: "IADNUG"
   location: "Online"
