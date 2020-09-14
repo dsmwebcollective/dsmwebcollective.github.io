@@ -4,13 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-
-- title: "Cybernetics Entomology: There's Always One More Bug"
-  group: "DAQAA"
-  location: "Online"
-  details_url: "https://www.eventbrite.com/e/daqaa-cybernetics-entomology-theres-always-one-more-bug-tickets-118669526749"
-  date: "Sept 09"
-  time: "4:00 - 5:00pm"
   
 - title: "Knowledge Work 3.0"
   group: "DSM Web Geeks + dsmJS"
