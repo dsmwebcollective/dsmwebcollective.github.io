@@ -39,6 +39,13 @@
   details_url: "https://www.meetup.com/dsmsql/events/272989423/"
   date: "Sept 17"
   time: "6:00 - 7:30pm"
+  
+- title: "Custom Post Types using Pods"
+  group: "WordPress Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/wordpressdsm/events/273205033/"
+  date: "Sept 19"
+  time: "9:00am - 12:00pm"
 
 - title: "Deploying Solutions to Azure"
   group: "Iowa Microsoft Azure User Group"
