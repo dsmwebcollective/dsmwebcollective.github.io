@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Hactoberfest"
+  group: "Des Moines Web Geeks + dsmJS"
+  location: "Online"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/hacktoberfest/"
+  date: "Oct 12"
+  time: "6:30pm"
+
 - title: "Cloud Adoption Framework for Az"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
