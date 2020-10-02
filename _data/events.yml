@@ -4,7 +4,14 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
+
+- title: "Cloud Adoption Framework for Az"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/273190259/"
+  date: "Oct 20"
+  time: "12:00 - 1:30pm"
+
 - title: "Lean Beers"
   group: "Agile Iowa"
   location: "Online"
