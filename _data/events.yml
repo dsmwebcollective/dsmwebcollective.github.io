@@ -40,6 +40,13 @@
   date: "Oct 20"
   time: "12:00 - 1:30pm"
 
+- title: "eBPF: the Extended Berkeley Packet Filter"
+  group: "Central Iowa Linux Users Group"
+  location: "Online"
+  details_url: "https://www.cialug.org/?page_id=7&event_id=1113"
+  date: "Oct 21"
+  time: "7:00 PM"
+
 - title: "Lean Beers"
   group: "Agile Iowa"
   location: "Online"
