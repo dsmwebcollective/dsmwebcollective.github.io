@@ -32,6 +32,13 @@
   details_url: "https://www.dsmwebgeeks.com/wg_events/hacktoberfest/"
   date: "Oct 12"
   time: "6:30pm"
+  
+- title: "Performance, stress and load testing, oh my!"
+  group: "DAQAA"
+  location: "Online"
+  details_url: "https://www.daqaa.com/event/daqaa-october-meeting-2/"
+  date: "Oct 14"
+  time: "4:00 - 5:30pm"
 
 - title: "Cloud Adoption Framework for Az"
   group: "Iowa Microsoft Azure User Group"
