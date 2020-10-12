@@ -32,6 +32,13 @@
   details_url: "https://www.meetup.com/Agile-Iowa/events/273323058/"
   date: "Oct 15"
   time: "7:00 - 8:30am"
+  
+- title: "Child Themes"
+  group: "WordPress Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/wordpressdsm/events/273834955/"
+  date: "Oct 17"
+  time: "9:00am - 12:00pm"
 
 - title: "Cloud Adoption Framework for Az"
   group: "Iowa Microsoft Azure User Group"
