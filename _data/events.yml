@@ -46,6 +46,13 @@
   details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/273190259/"
   date: "Oct 20"
   time: "12:00 - 1:30pm"
+  
+- title: "Governing Master Data"
+  group: "DAMA Iowa"
+  location: "Online"
+  details_url: "https://www.meetup.com/DAMA-Iowa/events/273901348/"
+  date: "Oct 21"
+  time: "9:00am - 12:00pm"
 
 - title: "eBPF: the Extended Berkeley Packet Filter"
   group: "Central Iowa Linux Users Group"
