@@ -53,6 +53,13 @@
   details_url: "https://www.meetup.com/DAMA-Iowa/events/273901348/"
   date: "Oct 21"
   time: "9:00am - 12:00pm"
+  
+- title: "Ensembles: Making Elegant Models Together"
+  group: "Des Moines Data & Analytics"
+  location: "Online"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/273902835/"
+  date: "Oct 21"
+  time: "12:00 - 1:00pm"
 
 - title: "eBPF: the Extended Berkeley Packet Filter"
   group: "Central Iowa Linux Users Group"
