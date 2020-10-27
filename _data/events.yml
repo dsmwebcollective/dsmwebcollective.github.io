@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/Agile-Iowa/events/272635764/"
   date: "Oct 27"
   time: "4:30 - 6:30pm"
+  
+- title: "Replacing a VPN with Cloudflare Access/Teams"
+  group: "DevOpsDSM"
+  location: "Online"
+  details_url: "https://www.meetup.com/DevOpsDSM/events/273473669/"
+  date: "Oct 28"
+  time: "12:00 - 1:00pm"
 
 - title: "Updates to Power BI Composite Models"
   group: "Des Moines Power BI User Group"
