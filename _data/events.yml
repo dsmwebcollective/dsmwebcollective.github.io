@@ -25,6 +25,13 @@
   details_url: "https://www.meetup.com/central-iowa-java-users-group/events/274355863/"
   date: "Nov 12"
   time: "6:00 - 8:00pm"
+  
+- title: "AWS Multi-Account, Multi-Region Networking with Terraform"
+  group: "AWS Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/AWS-User-Group-Des-Moines/events/274368414/"
+  date: "Nov 17"
+  time: "12:00 - 1:00pm"
 
 - title: "Jitsi"
   group: "Central Iowa Linux Users Group "
