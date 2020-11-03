@@ -19,6 +19,13 @@
   date: "Nov 10"
   time: "12:00 - 1:30pm"
 
+- title: "ES Modules - Things to consider"
+  group: "DSM Web Geeks"
+  location: "Online"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/es-modules-things-to-consider/"
+  date: "Nov 10"
+  time: "6:30pm"
+
 - title: "Lazy TDD With Intellij"
   group: "CIJUG"
   location: "Online"
