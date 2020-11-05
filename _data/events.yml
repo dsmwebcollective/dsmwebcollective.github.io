@@ -18,6 +18,13 @@
   details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/273800972/"
   date: "Nov 10"
   time: "12:00 - 1:30pm"
+  
+- title: "ES Modules - Things to consider"
+  group: "Des Moines Web Geeks + dsmJS"
+  location: "Online"
+  details_url: "https://www.meetup.com/Des-Moines-Web-Geeks/events/xngjwrybcpbmb/"
+  date: "Nov 10"
+  time: "6:30 - 7:30pm"
 
 - title: "Lazy TDD With Intellij"
   group: "CIJUG"
