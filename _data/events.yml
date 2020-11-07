@@ -25,6 +25,13 @@
   details_url: "https://www.meetup.com/Des-Moines-Web-Geeks/events/xngjwrybcpbmb/"
   date: "Nov 10"
   time: "6:30 - 7:30pm"
+  
+- title: "Data Lakes & Feature Stores at John Deere"
+  group: "Des Moines Data & Analytics"
+  location: "Online"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/274439218/"
+  date: "Nov 11"
+  time: "11:30am - 12:30pm"
 
 - title: "Lazy TDD With Intellij"
   group: "CIJUG"
