@@ -32,6 +32,13 @@
   details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/274439218/"
   date: "Nov 11"
   time: "11:30am - 12:30pm"
+  
+- title: "Unit & Integration Testing Fundamentals"
+  group: "DAQAA"
+  location: "Online"
+  details_url: "https://www.daqaa.com/event/daqaa-november-meeting-2/"
+  date: "Nov 11"
+  time: "4:00 - 5:00pm"
 
 - title: "Lazy TDD With Intellij"
   group: "CIJUG"
