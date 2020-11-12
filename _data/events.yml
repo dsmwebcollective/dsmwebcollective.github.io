@@ -47,6 +47,13 @@
   date: "Nov 12"
   time: "6:00 - 8:00pm"
   
+- title: "Google Analytics - Part 1 - Basics"
+  group: "WordPress Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/wordpressdsm/events/274547368/"
+  date: "Nov 14"
+  time: "9:00am - 12:00pm"
+  
 - title: "AWS Multi-Account, Multi-Region Networking with Terraform"
   group: "AWS Des Moines"
   location: "Online"
