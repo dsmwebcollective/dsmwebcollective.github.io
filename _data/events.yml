@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "Show and Tell from PASS Summit Virtual 2020"
+  group: "Des Moines SQL Server User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/274494524/"
+  date: "Nov 16"
+  time: "6:00 - 8:00pm"
+
 - title: "AWS Multi-Account, Multi-Region Networking with Terraform"
   group: "AWS Des Moines"
   location: "Online"
