@@ -33,6 +33,13 @@
   date: "Nov 18"
   time: "7:00 PM"
   
+- title: "Virtual Lean Coffee"
+  group: "Agile Iowa"
+  location: "Online"
+  details_url: "https://www.meetup.com/Agile-Iowa/events/ztxfxrybcpbzb/"
+  date: "Nov 19"
+  time: "7:00 - 8:30am"
+  
 - title: "Monoliths to Babyliths"
   group: "Iowa .NET User Group"
   location: "Online"
