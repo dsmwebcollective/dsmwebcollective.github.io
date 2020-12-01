@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/Agile-Iowa/events/274362450/"
   date: "Dec 03"
   time: "5:00 - 6:15pm"
+  
+- title: "Think like the Cardinality Estimator"
+  group: "Des Moines SQL Server Users Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/274655320/"
+  date: "Dec 07"
+  time: "6:00 - 7:00pm"
 
 - title: "What’s the right amount of product process?"
   group: "ProductTank Des Moines/Ames"
