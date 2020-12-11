@@ -39,3 +39,10 @@
   details_url: "https://www.meetup.com/wordpressdsm/events/275113025/"
   date: "Dec 12"
   time: "9:00am - 12:00pm"
+
+- title: "Intro to Rust"
+  group: "Des Moines Web Geeks + dsmJS"
+  location: "Online"
+  details_url: "https://www.eventbrite.com/e/intro-to-rust-tickets-130944096317"
+  date: "Dec 14"
+  time: "6:30 - 7:30pm"
