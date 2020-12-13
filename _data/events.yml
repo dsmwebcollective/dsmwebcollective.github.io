@@ -54,6 +54,13 @@
   date: "Dec 15"
   time: "12:00 - 1:00pm"
 
+- title: "Local Kubernetes and Helm, moving beyond docker-compose"
+  group: "Central Iowa Linux Users Group"
+  location: "Online"
+  details_url: "https://www.cialug.org/?page_id=7&event_id=1115"
+  date: "Dec 16"
+  time: "7:00 - 8:30pm"
+  
 - title: "Virtual Lean Coffee"
   group: "Agile Iowa"
   location: "Online"
