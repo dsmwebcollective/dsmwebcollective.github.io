@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "SQL Server Internals and Architecture"
+  group: "Des Moines SQL Server Users Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/275529800/"
+  date: "Jan 11"
+  time: "6:00 - 8:00pm"
+
 - title: "Cryptography 101"
   group: "Iowa .NET User Group"
   location: "Online"
