@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/dsmsql/events/275529800/"
   date: "Jan 11"
   time: "6:00 - 8:00pm"
+  
+- title: "Worldwide Trends in QA"
+  group: "Des Moines Area Quality Assurance Association"
+  location: "Online"
+  details_url: "https://www.daqaa.com/event/daqaa-jan-2021/"
+  date: "Jan 13"
+  time: "4:00 - 5:00pm"
 
 - title: "Cryptography 101"
   group: "Iowa .NET User Group"
