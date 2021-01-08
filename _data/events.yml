@@ -12,6 +12,13 @@
   date: "Jan 11"
   time: "6:00 - 8:00pm"
   
+- title: "Rendering React on the Edge with Flareact and Cloudflare Workers"
+  group: "Des Moines Web Geeks + dsmJS"
+  location: "Online"
+  details_url: "https://www.eventbrite.com/e/rendering-react-on-the-edge-with-flareact-and-cloudflare-workers-tickets-135586690441"
+  date: "Jan 11"
+  time: "6:30 - 8:30pm"
+  
 - title: "Worldwide Trends in QA"
   group: "Des Moines Area Quality Assurance Association"
   location: "Online"
