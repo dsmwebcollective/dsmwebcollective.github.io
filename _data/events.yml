@@ -32,6 +32,13 @@
   details_url: "https://www.meetup.com/iadnug/events/275430637/"
   date: "Jan 14"
   time: "12:00 - 1:00pm"
+  
+- title: "Using Cosmos DB to build global scale NoSQL applications"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/275620277/"
+  date: "Jan 19"
+  time: "12:00 - 1:00pm"
 
 - title: "Theranos: An Agile Anti-pattern Case Study"
   group: "Agile Iowa"
