@@ -60,6 +60,13 @@
   details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/275684030/"
   date: "Jan 21"
   time: "11:30am - 12:30pm"
+  
+- title: "Lean Beers"
+  group: "Agile Iowa"
+  location: "Online"
+  details_url: "https://www.meetup.com/Agile-Iowa/events/qfbbcsycccbjc/"
+  date: "Jan 26"
+  time: "4:30 - 6:30pm"
 
 - title: "Process Mining Analysis in Power BI using PAFnow Custom Visual"
   group: "Des Moines Power BI User Group"
