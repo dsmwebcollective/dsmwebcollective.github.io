@@ -33,6 +33,13 @@
   date: "Jan 14"
   time: "12:00 - 1:00pm"
   
+- title: "Google Analytics - Part 2 - Marketing Tools"
+  group: "WordPress Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/wordpressdsm/events/275747801/"
+  date: "Jan 16"
+  time: "9:00am - 12:00pm"
+  
 - title: "Using Cosmos DB to build global scale NoSQL applications"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
