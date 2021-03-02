@@ -4,7 +4,14 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
+
+- title: "Implementing Geo-Redundant App Service Applications"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/276530240/"
+  date: "Mar 02"
+  time: "12:00 - 1:00pm"
+
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Online"
