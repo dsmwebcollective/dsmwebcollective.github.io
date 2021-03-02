@@ -25,6 +25,13 @@
   details_url: "https://www.meetup.com/iadnug/events/276616397/"
   date: "Mar 04"
   time: "6:000 - 8:00pm"
+  
+- title: "Intro to foundational programing: Quickly build a game in VueJS"
+  group: "Des Moines Web Geeks / dsmJS"
+  location: "Online"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/intro-to-foundational-programing-quickly-build-a-game-in-vuejs/"
+  date: "Mar 08"
+  time: "6:30 - 8:30pm"
 
 - title: "Lean Coffee"
   group: "Agile Iowa"
