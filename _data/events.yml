@@ -12,20 +12,6 @@
   date: "Mar 02"
   time: "12:00 - 1:00pm"
   
-- title: "How to Wireframe the Cube"
-  group: "Experiencing UX"
-  location: "Online"
-  details_url: "https://www.meetup.com/experiencing-UX-DSM/events/276553028/"
-  date: "Mar 04"
-  time: "5:30 - 6:30pm"
-  
-- title: "Infrastructure as Code Made Easy"
-  group: "Iowa .NET User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/276616397/"
-  date: "Mar 04"
-  time: "6:000 - 8:00pm"
-  
 - title: "Intro to foundational programing: Quickly build a game in VueJS"
   group: "Des Moines Web Geeks / dsmJS"
   location: "Online"
