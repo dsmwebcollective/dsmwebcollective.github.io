@@ -26,6 +26,13 @@
   date: "Mar 10"
   time: "4:00 - 5:00pm"
 
+- title: "Creating Remote Desktops for Schools Using LXC and Guacamole"
+  group: "Central Iowa Linux Users Group"
+  location: "Online"
+  details_url: "https://www.cialug.org/?page_id=7&event_id=1118"
+  date: "Mar 17"
+  time: "7:00 - 8:30pm"
+
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Online"
