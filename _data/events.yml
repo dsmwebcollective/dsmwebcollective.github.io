@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Implementing Geo-Redundant App Service Applications"
-  group: "Iowa Microsoft Azure User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/276530240/"
-  date: "Mar 02"
-  time: "12:00 - 1:00pm"
-  
-- title: "Intro to foundational programing: Quickly build a game in VueJS"
-  group: "Des Moines Web Geeks / dsmJS"
-  location: "Online"
-  details_url: "https://www.dsmwebgeeks.com/wg_events/intro-to-foundational-programing-quickly-build-a-game-in-vuejs/"
-  date: "Mar 08"
-  time: "6:30 - 8:30pm"
-  
-- title: "Strategy and Practical Implementation of Mobile Testing"
-  group: "Des Moines Area Quality Assurance Association"
-  location: "Online"
-  details_url: "https://www.eventbrite.com/e/strategy-and-practical-implementation-of-mobile-testing-tickets-145079860769"
-  date: "Mar 10"
-  time: "4:00 - 5:00pm"
-
 - title: "Creating Remote Desktops for Schools Using LXC and Guacamole"
   group: "Central Iowa Linux Users Group"
   location: "Online"
