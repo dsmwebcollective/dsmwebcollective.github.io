@@ -19,6 +19,13 @@
   date: "Apr 01"
   time: "12:00 - 1:00pm"
   
+- title: "Virtual Lean Coffee"
+  group: "Agile Iowa"
+  location: "Online"
+  details_url: "https://www.meetup.com/Agile-Iowa/events/flgndsyccgbtb/"
+  date: "Apr 15"
+  time: "7:00 - 8:30am"
+  
 - title: "Getting the Most from Modern Java brought to you by Foojay.io"
   group: "Central Iowa Java Users Group"
   location: "Online"
