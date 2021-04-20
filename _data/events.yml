@@ -4,28 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
- 
-- title: "Intro to Azure Synapse Analytics"
-  group: "Iowa Data Professionals Association"
-  location: "Online"
-  details_url: "https://www.meetup.com/dsmsql/events/277445759/"
-  date: "Apr 12"
-  time: "5:30 - 7:30pm"
-
-- title: "Web Geeks/dsmJS 2021 Spring Social"
-  group: "Des Moines Web Geeks + dsmJS"
-  location: "Online"
-  details_url: "https://www.eventbrite.com/e/web-geeksdsmjs-2021-spring-social-tickets-149634706435"
-  date: "Apr 12"
-  time: "6:30 - 7:30pm"
-
-- title: "Virtual Lean Coffee"
-  group: "Agile Iowa"
-  location: "Online"
-  details_url: "https://www.meetup.com/Agile-Iowa/events/flgndsyccgbtb/"
-  date: "Apr 15"
-  time: "7:00 - 8:30am"
-  
+   
 - title: "Prioritizing Your Analytics Requests"
   group: "Des Moines Data & Analytics"
   location: "Online"
