@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/Agile-Iowa/events/qfbbcsyccgbkc/"
   date: "Apr 27"
   time: "4:30 - 6:30pm"
+  
+- title: "Image processing with Pillow"
+  group: "Pyowa"
+  location: "Online"
+  details_url: "https://www.pyowa.org/"
+  date: "May 03"
+  time: "6:00 - 8:00pm"
 
 - title: "In Memory API Testing"
   group: "IADNUG"
