@@ -4,14 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-   
-- title: "Virtual Lean Beers"
-  group: "Agile Iowa"
-  location: "Online"
-  details_url: "https://www.meetup.com/Agile-Iowa/events/qfbbcsyccgbkc/"
-  date: "Apr 27"
-  time: "4:30 - 6:30pm"
-  
+     
 - title: "Image processing with Pillow"
   group: "Pyowa"
   location: "Online"
