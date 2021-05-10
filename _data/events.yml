@@ -25,3 +25,10 @@
   details_url: "https://www.daqaa.com/event/daqaa-may-2021/"
   date: "May 12"
   time: "4:00 - 5:00pm"
+  
+- title: "Why Redis: How to start modernizing with .NET"
+  group: "IADNUG"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/277854640/"
+  date: "May 20"
+  time: "12:00 - 1:00pm"
