@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
      
+- title: "Intro to TailwindCSS"
+  group: "Des Moines Web Geeks + dsmJS"
+  location: "Online"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/intro-to-tailwindcss/"
+  date: "May 10"
+  time: "6:30 - 7:30pm"
+
 - title: "Are my QA skills marketable?"
   group: "Des Moines Area Quality Assurance Association"
   location: "Online"
