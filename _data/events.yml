@@ -26,6 +26,13 @@
   date: "May 12"
   time: "4:00 - 5:00pm"
   
+- title: "Full Site Editing and WordPress 5.8"
+  group: "WordPress Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/wordpressdsm/events/277972850/"
+  date: "May 15"
+  time: "9:00am - 12:00pm"
+  
 - title: "Why Redis: How to start modernizing with .NET"
   group: "IADNUG"
   location: "Online"
