@@ -47,6 +47,13 @@
   date: "May 18"
   time: "6:00 - 8:00pm"
   
+- title: "Virtual Lean Coffee"
+  group: "Agile Iowa"
+  location: "Online"
+  details_url: "https://www.meetup.com/Agile-Iowa/events/flgndsycchbbc/"
+  date: "May 20"
+  time: "7:00 - 8:30am"
+  
 - title: "Why Redis: How to start modernizing with .NET"
   group: "IADNUG"
   location: "Online"
