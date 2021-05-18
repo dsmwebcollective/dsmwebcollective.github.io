@@ -4,35 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-     
-- title: "Don't try it, Own it - Query Store feature on your Servers!"
-  group: "Iowa Data Professionals Association - Des Moines"
-  location: "Online"
-  details_url: "https://www.meetup.com/dsmsql/events/277988094/"
-  date: "May 10"
-  time: "5:30 - 7:30pm"
-
-- title: "Intro to TailwindCSS"
-  group: "Des Moines Web Geeks + dsmJS"
-  location: "Online"
-  details_url: "https://www.dsmwebgeeks.com/wg_events/intro-to-tailwindcss/"
-  date: "May 10"
-  time: "6:30 - 7:30pm"
-
-- title: "Are my QA skills marketable?"
-  group: "Des Moines Area Quality Assurance Association"
-  location: "Online"
-  details_url: "https://www.daqaa.com/event/daqaa-may-2021/"
-  date: "May 12"
-  time: "4:00 - 5:00pm"
-  
-- title: "Full Site Editing and WordPress 5.8"
-  group: "WordPress Des Moines"
-  location: "Online"
-  details_url: "https://www.meetup.com/wordpressdsm/events/277972850/"
-  date: "May 15"
-  time: "9:00am - 12:00pm"
-  
+      
 - title: "Microsoft Identify"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
