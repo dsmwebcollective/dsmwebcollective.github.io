@@ -18,6 +18,13 @@
   details_url: "https://www.meetup.com/ProductTank-Des-Moines-Ames/events/277079900/"
   date: "June 09"
   time: "12:00 - 1:00pm"
+  
+- title: "Summer Social"
+  group: "Des Moines Area Quality Assurance Association"
+  location: "The Grumpy Goat Tavern"
+  details_url: "https://www.daqaa.com/event/daqaa-june-meeting-3/"
+  date: "June 09"
+  time: "4:00 - 6:00pm"
 
 - title: "Machine Learning"
   group: "Iowa Microsoft Azure User Group"
