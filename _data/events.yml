@@ -25,6 +25,13 @@
   details_url: "https://www.daqaa.com/event/daqaa-june-meeting-3/"
   date: "June 09"
   time: "4:00 - 6:00pm"
+  
+- title: "DSM Data & Analytics Gathering"
+  group: "Des Moines Data & Analytics"
+  location: "Wellman's Pub & Rooftop"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/278641422/"
+  date: "June 10"
+  time: "3:30 - 5:00pm"
 
 - title: "Machine Learning"
   group: "Iowa Microsoft Azure User Group"
