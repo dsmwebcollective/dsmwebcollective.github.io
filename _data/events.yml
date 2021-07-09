@@ -19,6 +19,13 @@
   date: "July 12"
   time: "5:30 - 7:30pm"
   
+- title: "ARM Versus Bicep Deploying Via Github Actions"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/278401301/"
+  date: "July 13"
+  time: "12:00 - 1:00pm"
+  
 - title: "Automate Your Tests with Tosca"
   group: "Des Moines Area Quality Assurance Association"
   location: "Online"
