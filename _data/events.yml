@@ -25,7 +25,14 @@
   details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/278401301/"
   date: "July 13"
   time: "12:00 - 1:00pm"
-  
+
+- title: "TechJourney Panel Discussion"
+  group: "Des Moines Web Geeks + dsmJS"
+  location: "We Write Code"
+  details_url: "https://www.eventbrite.com/e/tech-journey-panel-discussion-tickets-162319454859"
+  date: "July 13"
+  time: "6:30 - 8:30pm"
+
 - title: "Automate Your Tests with Tosca"
   group: "Des Moines Area Quality Assurance Association"
   location: "Online"
