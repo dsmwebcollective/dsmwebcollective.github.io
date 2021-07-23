@@ -26,6 +26,13 @@
   date: "July 24"
   time: "9:00am - 12:00pm"
   
+- title: "ML Part 2"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/279509774/"
+  date: "July 27"
+  time: "12:00 - 1:00pm"
+  
 - title: "Approaches to Reverse Engineering C# Applications"
   group: "Iowa .NET User Group"
   location: "Online"
