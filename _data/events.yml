@@ -12,6 +12,13 @@
   date: "July 27"
   time: "12:00 - 1:00pm"
   
+- title: "Review of the basic features of OpenCV"
+  group: "Pyowa"
+  location: "Online"
+  details_url: "https://www.pyowa.org/"
+  date: "Aug 03"
+  time: "6:00 - 8:00pm"
+  
 - title: "Approaches to Reverse Engineering C# Applications"
   group: "Iowa .NET User Group"
   location: "Online"
