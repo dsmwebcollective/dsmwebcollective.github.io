@@ -4,13 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-   
-- title: "ML Part 2"
-  group: "Iowa Microsoft Azure User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/279509774/"
-  date: "July 27"
-  time: "12:00 - 1:00pm"
   
 - title: "Review of the basic features of OpenCV"
   group: "Pyowa"
