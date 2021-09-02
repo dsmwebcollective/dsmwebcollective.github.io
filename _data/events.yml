@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/iadnug/events/280072334"
   date: "Sept 02"
   time: "12:00 - 1:00pm"
+  
+- title: "Power Apps & Fusion Development"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/280036702/"
+  date: "Sept 07"
+  time: "12:00 - 1:00pm"
 
 - title: "Python all the things"
   group: "Pyowa"
