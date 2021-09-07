@@ -25,3 +25,10 @@
   details_url: "https://www.pyowa.org/"
   date: "Sept 07"
   time: "6:00 - 8:00pm"
+
+- title: "Phoenix LiveView Workshop"
+  group: "Des Moines Web Geeks + dsmJS"
+  location: "Online"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/phoenix-liveview-workshop-for-dsm-webgeeks-sept-13th/"
+  date: "Sept 13"
+  time: "6:30 - 7:30pm"
