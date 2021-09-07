@@ -4,14 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
-- title: "What's New in C# 10"
-  group: "Iowa .NET User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/280072334"
-  date: "Sept 02"
-  time: "12:00 - 1:00pm"
-  
+   
 - title: "Power Apps & Fusion Development"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
