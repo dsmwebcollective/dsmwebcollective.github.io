@@ -4,13 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-   
-- title: "Agile Iowa Social"
-  group: "Agile Iowa"
-  location: "Lua Brewing"
-  details_url: "https://www.meetup.com/Agile-Iowa/events/280488835/"
-  date: "Sept 28"
-  time: "4:30 - 6:30pm"
 
 - title: "Data Factory & Power BI"
   group: "Iowa Microsoft Azure User Group"
