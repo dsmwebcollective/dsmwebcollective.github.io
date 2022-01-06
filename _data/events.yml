@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "User Group Planning & Organizing"
+  group: "Des Moines Web Geeks"
+  location: "Online"
+  details_url: "https://www.meetup.com/Des-Moines-Web-Geeks/events/xngjwrydccbnb/"
+  date: "Jan 10"
+  time: "6:30 - 8:00pm"
+
 - title: ".NET Fireside Chat"
   group: "Iowa .NET User Group"
   location: "Online"
