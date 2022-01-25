@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/experiencing-UX-DSM/events/283139956"
   date: "Jan 26"
   time: "6:00 - 7:00pm"
+  
+- title: "Design Thinking for Projects"
+  group: "IIBA-CIC"
+  location: "Online"
+  details_url: "https://www.centraliowaiiba.org/events-details"
+  date: "Jan 27"
+  time: "11:15am - 12:30pm"
 
 - title: "Using and Deploying Azure Static Sites"
   group: "Iowa Microsoft Azure User Group"
