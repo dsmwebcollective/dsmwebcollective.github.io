@@ -47,6 +47,13 @@
   date: "Jan 26"
   time: "6:00 - 7:00pm"
 
+- title: "Using and Deploying Azure Static Sites"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/283448415/"
+  date: "Feb 08"
+  time: "12:00 - 1:00pm"
+
 - title: "Securing and Exploiting Java Applications with Erik Costlow"
   group: "Central Iowa Java Users Group"
   location: "Online"
