@@ -25,6 +25,13 @@
   details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/283448415/"
   date: "Feb 08"
   time: "12:00 - 1:00pm"
+  
+- title: "Product Owner Explained"
+  group: "IIBA-CIC"
+  location: "Online"
+  details_url: "https://www.centraliowaiiba.org/events-details"
+  date: "Feb 10"
+  time: "11:30am - 1:00pm"  
 
 - title: "Securing and Exploiting Java Applications with Erik Costlow"
   group: "Central Iowa Java Users Group"
