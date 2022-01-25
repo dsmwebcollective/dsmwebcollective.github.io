@@ -26,13 +26,6 @@
   date: "Jan 12"
   time: "12:00 - 1:00pm"
   
-- title: "Introduction to GraphQL for Java"
-  group: "Central Iowa Java Users Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/282556096"
-  date: "Jan 13"
-  time: "6:00 - 7:30pm"
-  
 - title: "Developing Partners in Operational Analytics"
   group: "Des Moines Data & Analytics"
   location: "Online"
@@ -53,3 +46,10 @@
   details_url: "https://www.meetup.com/experiencing-UX-DSM/events/283139956"
   date: "Jan 26"
   time: "6:00 - 7:00pm"
+
+- title: "Securing and Exploiting Java Applications with Erik Costlow"
+  group: "Central Iowa Java Users Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/283202534/"
+  date: "Feb 10"
+  time: "6:00 - 7:30pm"
