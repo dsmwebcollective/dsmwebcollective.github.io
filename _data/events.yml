@@ -17,7 +17,14 @@
   location: "Online"
   details_url: "https://www.centraliowaiiba.org/events-details"
   date: "Feb 10"
-  time: "11:30am - 1:00pm"  
+  time: "11:30am - 1:00pm"
+  
+- title: "10 Opinions For Creating More Maintainable .NET Apps"
+  group: "Iowa .NET User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/283608737/"
+  date: "Feb 10"
+  time: "12:00 - 1:00pm"
 
 - title: "Securing and Exploiting Java Applications"
   group: "Central Iowa Java Users Group"
