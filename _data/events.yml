@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Using and Deploying Azure Static Sites"
-  group: "Iowa Microsoft Azure User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/283448415/"
-  date: "Feb 08"
-  time: "12:00 - 1:00pm"
-  
 - title: "Product Owner Explained"
   group: "IIBA-CIC"
   location: "Online"
@@ -39,3 +32,10 @@
   details_url: "https://www.meetup.com/Agile-Iowa/events/kwgxrsydcdbwb/"
   date: "Feb 17"
   time: "7:00 - 8:30am"
+
+- title: "Azure Synapse Analytics"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/283553408"
+  date: "Feb 22"
+  time: "12:00 - 1:00pm"
