@@ -19,13 +19,6 @@
   date: "Feb 10"
   time: "12:00 - 1:00pm"
 
-- title: "Securing and Exploiting Java Applications"
-  group: "Central Iowa Java Users Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/283202534/"
-  date: "Feb 10"
-  time: "6:00 - 7:30pm"
-
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
@@ -46,6 +39,13 @@
   details_url: "https://www.meetup.com/experiencing-UX-DSM/events/283865073/"
   date: "Feb 23"
   time: "6:00 - 7:00pm"
+  
+- title: "How to be a Java Automated Testing Superstar"
+  group: "Central Iowa Java Users Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/283053290/"
+  date: "Mar 10"
+  time: "6:00 - 7:30pm"  
   
 - title: "PBI Tools: Source Control & DevOps for Power BI"
   group: "Des Moines Power BI User Group"
