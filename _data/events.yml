@@ -5,20 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Product Owner Explained"
-  group: "IIBA-CIC"
-  location: "Online"
-  details_url: "https://www.centraliowaiiba.org/events-details"
-  date: "Feb 10"
-  time: "11:30am - 1:00pm"
-  
-- title: "10 Opinions For Creating More Maintainable .NET Apps"
-  group: "Iowa .NET User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/283608737/"
-  date: "Feb 10"
-  time: "12:00 - 1:00pm"
-
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
