@@ -18,6 +18,13 @@
   details_url: "https://www.meetup.com/Agile-Iowa/events/kwgxrsydcdbwb/"
   date: "Feb 17"
   time: "7:00 - 8:30am"
+  
+- title: "My Recipe For a Happy WordPress Website"
+  group: "WordPress DSM"
+  location: "Online"
+  details_url: "https://www.meetup.com/wordpressdsm/events/284011506"
+  date: "Feb 19"
+  time: "9:00am - 12:00pm"
 
 - title: "Azure Synapse Analytics"
   group: "Iowa Microsoft Azure User Group"
