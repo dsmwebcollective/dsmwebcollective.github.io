@@ -24,7 +24,14 @@
   location: "Online"
   details_url: "https://www.meetup.com/des-moines-area-quality-assurance-association/events/283927752/"
   date: "Apr 13"
-  time: "3:30 - 4:30pm"  
+  time: "3:30 - 4:30pm"
+  
+- title: "Advancing Causality Using Customer Matching"
+  group: "Des Moines Data & Analytics"
+  location: "Online"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/284981578"
+  date: "Apr 14"
+  time: "12:00 - 1:00pm"
   
 - title: "Spring Boot: From Zero to Production in 90 minutes with Craig Walls"
   group: "Central Iowa Java Users Group"
