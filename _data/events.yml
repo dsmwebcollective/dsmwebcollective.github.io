@@ -60,3 +60,10 @@
   details_url: "https://www.meetup.com/Agile-Iowa/events/kwgxrsydchbzb/"
   date: "May 19"
   time: "7:00 - 8:30am"
+
+- title: "Application Gateway vs. Traffic Manager vs. Front Door"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/285696015/"
+  date: "May 31"
+  time: "12:00 - 1:00pm"
