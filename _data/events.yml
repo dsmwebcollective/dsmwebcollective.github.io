@@ -39,6 +39,13 @@
   details_url: "https://www.meetup.com/Agile-Iowa/events/kwgxrsydchbzb/"
   date: "May 19"
   time: "7:00 - 8:30am"
+  
+- title: "Tableau Tips & Tricks for BI Developers"
+  group: "Des Moines Data & Analytics"
+  location: "F&G"
+  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/285417431/"
+  date: "May 24"
+  time: "4:30 - 5:30pm"
 
 - title: "Application Gateway vs. Traffic Manager vs. Front Door"
   group: "Iowa Microsoft Azure User Group"
