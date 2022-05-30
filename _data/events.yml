@@ -4,27 +4,6 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
-- title: "Accessibility and Websites... Becoming an A11y"
-  group: "WordPress Des Moines"
-  location: "Valley Community Center"
-  details_url: "https://www.meetup.com/wordpressdsm/events/285914677/"
-  date: "May 21"
-  time: "9:00am - 12:00pm"
-
-- title: "Tableau Tips & Tricks for BI Developers"
-  group: "Des Moines Data & Analytics"
-  location: "F&G"
-  details_url: "https://www.meetup.com/Des-Moines-Data-Analytics/events/285417431/"
-  date: "May 24"
-  time: "4:30 - 5:30pm"
-  
-- title: "Lean Beers"
-  group: "Agile Iowa"
-  location: "We Write Code"
-  details_url: "https://www.meetup.com/Agile-Iowa/events/qcdwtsydchbjc/"
-  date: "May 26"
-  time: "4:30 - 6:30pm"  
 
 - title: "Application Gateway vs. Traffic Manager vs. Front Door"
   group: "Iowa Microsoft Azure User Group"
