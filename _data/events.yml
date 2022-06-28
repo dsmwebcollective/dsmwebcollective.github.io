@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Application Gateway vs. Traffic Manager vs. Front Door"
-  group: "Iowa Microsoft Azure User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group/events/285696015/"
-  date: "May 31"
-  time: "12:00 - 1:00pm"
-
-- title: "Advanced Fiddler Techniques"
-  group: "Iowa .NET User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/285724842/"
-  date: "June 02"
-  time: "12:00 - 1:00pm"
-
-- title: "Event Streaming & Processing using Apache Pulsar"
-  group: "Central Iowa Java Users Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/285784935/"
-  date: "June 09"
-  time: "6:00 - 7:30pm"
-
 - title: "Summer Social"
   group: "Des Moines Area Quality Assurance Association"
   location: "Grumpy Goat Tavern"
