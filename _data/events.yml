@@ -12,6 +12,13 @@
   date: "July 26"
   time: "5:30 - 7:00pm"
   
+- title: "Lean Beers"
+  group: "Agile Iowa"
+  location: "Shift Interactive"
+  details_url: "https://www.meetup.com/agile-iowa/events/287072359/"
+  date: "July 28"
+  time: "5:00 - 7:00pm"  
+  
 - title: "Minimal APIs with ASP.NET 6.0"
   group: "Iowa .NET User Group"
   location: "Online"
