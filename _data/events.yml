@@ -10,7 +10,14 @@
   location: "Online"
   details_url: "https://www.meetup.com/iadnug/events/286579480/"
   date: "Aug 04"
-  time: "12:00 - 1:00pm"  
+  time: "12:00 - 1:00pm"
+  
+- title: "Unified Data Governance with Azure Purview"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Zirous"
+  details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/287425725/"
+  date: "Aug 09"
+  time: "5:30 - 7:00pm"
   
 - title: "DevOpsDays Des Moines Agile 2022"
   group: "Agile Iowa"
