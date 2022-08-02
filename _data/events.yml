@@ -19,6 +19,13 @@
   date: "Aug 09"
   time: "5:30 - 7:00pm"
   
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.meetup.com/agile-iowa/events/287151342/"
+  date: "Aug 18"
+  time: "7:00 - 8:30am"
+  
 - title: "DevOpsDays Des Moines Agile 2022"
   group: "Agile Iowa"
   location: "Iowa Events Center"
