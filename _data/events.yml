@@ -19,6 +19,13 @@
   date: "Aug 20"
   time: "9:00am - 12:00pm"
   
+- title: "Business Agility"
+  group: "IIBA - Central Iowa Chapter"
+  location: "Online"
+  details_url: "https://www.centraliowaiiba.org/event-details/august-2022-chapter-meeting-2022-08-25-11-15"
+  date: "Aug 25"
+  time: "11:15am - 12:30pm"  
+  
 - title: "AWS Tips from a Data Engineer"
   group: "Des Moines Data & Analytics"
   location: "Online"
