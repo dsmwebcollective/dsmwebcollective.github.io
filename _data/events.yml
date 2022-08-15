@@ -33,6 +33,13 @@
   date: "Aug 25"
   time: "11:30am - 12:30pm"
   
+- title: "IBADD 2022"
+  group: "IIBA - Central Iowa Chapter"
+  location: "Online"
+  details_url: "https://www.ibadd.org/"
+  date: "Oct 14"
+  time: "8:00am - 4:00pm"
+  
 - title: "DevOpsDays Des Moines Agile 2022"
   group: "Agile Iowa"
   location: "Iowa Events Center"
