@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "Build a Data Science Playground with Azure Synapse Analytics"
+  group: "IDPA - Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/288036481/"
+  date: "Sept 12"
+  time: "5:30 - 7:30pm"
+
 - title: "IBADD 2022"
   group: "IIBA - Central Iowa Chapter"
   location: "Online"
