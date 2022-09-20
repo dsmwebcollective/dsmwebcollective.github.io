@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "Lean Beers"
+  group: "Agile Iowa"
+  location: "Gilroy's Kitchen + Pub + Patio"
+  details_url: "https://www.meetup.com/agile-iowa/events/qcdwtsydcmbdc/"
+  date: "Sept 22"
+  time: "4:30 - 6:30pm"
+
 - title: "Enterprise KPI's"
   group: "Des Moines Data & Analytics"
   location: "Online"
