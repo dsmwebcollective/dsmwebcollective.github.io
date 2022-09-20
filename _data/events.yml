@@ -19,6 +19,13 @@
   date: "Sept 23"
   time: "1:30 - 2:30pm"
   
+- title: "Beyond the GUI: Techniques in M and Power Query"
+  group: "Iowa Power BI User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iowapowerbi/events/288505515/"
+  date: "Oct 05"
+  time: "6:00 - 7:30pm"
+  
 - title: "How Azure supports the Low Code Revolution"
   group: "Iowa Microsoft Azure User Group"
   location: "Gravitate - East Village"
