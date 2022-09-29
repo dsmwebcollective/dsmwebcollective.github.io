@@ -19,6 +19,13 @@
   date: "Oct 06"
   time: "1:00 - 2:00pm"
   
+- title: "BDD and why you need to be doing it"
+  group: "Iowa .NET User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/288786402/"
+  date: "Oct 06"
+  time: "6:00 - 7:00pm"
+  
 - title: "How Azure supports the Low Code Revolution"
   group: "Iowa Microsoft Azure User Group"
   location: "Gravitate - East Village"
