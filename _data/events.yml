@@ -32,3 +32,17 @@
   details_url: "https://www.eventbrite.com/e/devopsdays-des-moines-agile-2022-tickets-358456341567"
   date: "Oct 27-28"
   time: "8:30am - 5:00pm"
+
+- title: "Uncovering IEnumerables"
+  group: "Iowa .NET User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/289374467/"
+  date: "Nov 03"
+  time: "12:00 - 1:00pm"
+  
+- title: "Blazor Workshop"
+  group: "Iowa .NET User Group"
+  location: "Lean TECHniques + Online"
+  details_url: "https://www.meetup.com/iadnug/events/288901772/"
+  date: "Nov 17"
+  time: "5:00 - 8:00pm"  
