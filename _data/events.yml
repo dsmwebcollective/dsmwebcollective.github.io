@@ -11,7 +11,14 @@
   details_url: "https://www.meetup.com/iadnug/events/289374467/"
   date: "Nov 03"
   time: "12:00 - 1:00pm"
-  
+
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location" Machine Shed Restaurant"
+  details_url: "https://www.meetup.com/agile-iowa/events/kwgxrsydcpbwb/"
+  date: "Nov 17"
+  time: "7:00 - 8:30am"
+
 - title: "Blazor Workshop"
   group: "Iowa .NET User Group"
   location: "Lean TECHniques + Online"
