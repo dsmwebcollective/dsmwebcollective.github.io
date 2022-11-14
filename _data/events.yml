@@ -4,7 +4,14 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-  
+
+- title: "2022 Software Development Practices"
+  group: "Des Moines Web Geeks"
+  location: "Online"
+  details_url: "https://www.meetup.com/des-moines-web-geeks/events/289234329/"
+  date: "Nov 14"
+  time: "6:30 - 8:30pm"
+
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
