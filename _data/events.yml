@@ -12,6 +12,13 @@
   date: "Dec 08"
   time: "6:00 - 7:30pm"
 
+- title: "Docker for Databases"
+  group: "Iowa Data Professionals Association"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/290047439/"
+  date: "Dec 12"
+  time: "5:30 - 7:30pm"
+
 - title: "Lean Coffee"
   group: "Agile Iowa"
   location: "Machine Shed Restaurant"
