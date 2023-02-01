@@ -26,6 +26,13 @@
   date: "Jan 28"
   time: "9:00am - 12:00pm"
 
+- title: "<Virtual>[.NET@Night] Working the Way We Want"
+  group: "Iowa .NET User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/291250937/"
+  date: "Feb 02"
+  time: "6:00 - 7:30pm"
+
 - title: "Re:Invent Recap"
   group: "AWS Des Moines User Group"
   location: "DHI Group, Inc."
