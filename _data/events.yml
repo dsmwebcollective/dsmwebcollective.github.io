@@ -25,6 +25,13 @@
   details_url: "https://www.meetup.com/producttank-des-moines-ames/events/291183548/"
   date: "Feb 07"
   time: "5:30 - 7:00pm"
+  
+- title: "Streamline Your Development and Deployment with CI/CD"
+  group: "Des Moines Web Geeks"
+  location: "Anthologic"
+  details_url: "https://www.dsmwebgeeks.com/wg_events/streamline-your-development-and-deployment-with-ci-cd/"
+  date: "Feb 13"
+  time: "6:30 - 8:30pm"
 
 - title: "Advanced Custom Fields"
   group: "WordPress Des Moines"
