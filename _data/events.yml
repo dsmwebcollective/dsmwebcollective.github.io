@@ -67,6 +67,13 @@
   details_url: "https://www.meetup.com/iadnug/events/291721623/"
   date: "Mar 02"
   time: "6:00 - 7:30pm"
+  
+- title: "The Economics of Data"
+  group: "Des Moines Data & Analytics"
+  location: "The Harkin Institute for Public Policy & Citizen Engagement"
+  details_url: "https://www.meetup.com/des-moines-data-analytics/events/291518851/"
+  date: "Mar 06"
+  time: "4:00 - 5:30pm"
 
 - title: "Building Web Apps with Ease: Let's Learn Rails"
   group: "Des Moines Web Geeks"
