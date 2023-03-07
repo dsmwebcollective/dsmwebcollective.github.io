@@ -25,3 +25,10 @@
   details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/291636011/"
   date: "Mar 21"
   time: "12:00 - 1:00pm"
+
+- title: "HTTP Caching in Python"
+  group: "Pyowa"
+  location: "Online"
+  details_url: "https://www.pyowa.org/"
+  date: "Apr 04"
+  time: "8:00pm"
