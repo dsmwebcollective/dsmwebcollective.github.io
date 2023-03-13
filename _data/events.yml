@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Agile Working Group: Moving from Business Analyst to Product Owner to Product Manager"
-  group: "IIBA Central Iowa Chapter"
-  location: "Aureon + virtual"
-  details_url: "https://www.centraliowaiiba.org/event-details/march-agile-working-group-kent-mcdonald"
-  date: "Mar 09"
-  time: "11:00am - 12:30pm"
-
 - title: "Building Web Apps with Ease: Let's Learn Rails"
   group: "Des Moines Web Geeks"
   location: "Anthologic"
@@ -46,3 +39,10 @@
   details_url: "https://www.pyowa.org/"
   date: "Apr 04"
   time: "8:00pm"
+
+- title: "Agile Working Group: Moving from Business Analyst to Product Owner to Product Manager"
+  group: "IIBA Central Iowa Chapter"
+  location: "Aureon + virtual"
+  details_url: "https://www.centraliowaiiba.org/event-details/agile-working-group-kent-mcdonald"
+  date: "Apr 13"
+  time: "11:00am - 12:30pm"
