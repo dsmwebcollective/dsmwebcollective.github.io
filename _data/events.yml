@@ -25,6 +25,13 @@
   details_url: "https://www.centraliowaiiba.org/event-details/chapter-meeting-march-2023-planning-in-uncertainty-jodi-jones"
   date: "Mar 23"
   time: "11:00am - 12:30pm"
+  
+- title: "Serverless Kubernetes"
+  group: "Central Iowa Java Users Group"
+  location: "Lean Techniques"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/292112505/"
+  date: "Mar 23"
+  time: "6:00 - 7:30pm"
 
 - title: "HTTP Caching in Python"
   group: "Pyowa"
