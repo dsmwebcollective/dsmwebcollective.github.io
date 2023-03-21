@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Lean Coffee"
-  group: "Agile Iowa"
-  location: "Machine Shed Restaurant"
-  details_url: "https://www.meetup.com/agile-devops-dsm/events/291841323/"
-  date: "Mar 16"
-  time: "7:00 - 8:30am"
-
 - title: "Using the Actor Model within the Microsoft Ecosystem"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
@@ -46,3 +39,10 @@
   details_url: "https://www.centraliowaiiba.org/event-details/agile-working-group-kent-mcdonald"
   date: "Apr 13"
   time: "11:00am - 12:30pm"
+
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.meetup.com/agile-devops-dsm/events/kwgxrsyfcgbbc/"
+  date: "Apr 20"
+  time: "7:00 - 8:30am"
