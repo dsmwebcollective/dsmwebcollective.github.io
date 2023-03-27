@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Using the Actor Model within the Microsoft Ecosystem"
-  group: "Iowa Microsoft Azure User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/291636011/"
-  date: "Mar 21"
-  time: "12:00 - 1:00pm"
-  
-- title: "Planning In Uncertainty"
-  group: "IIBA Central Iowa Chapter"
-  location: "Kreg Tools + virtual"
-  details_url: "https://www.centraliowaiiba.org/event-details/chapter-meeting-march-2023-planning-in-uncertainty-jodi-jones"
-  date: "Mar 23"
-  time: "11:00am - 12:30pm"
-  
-- title: "Serverless Kubernetes"
-  group: "Central Iowa Java Users Group"
-  location: "Lean Techniques"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/292112505/"
-  date: "Mar 23"
-  time: "6:00 - 7:30pm"
-  
 - title: "A Look at AWS Inside EMC Insurance"
   group: "AWS Des Moines User Group"
   location: "EMC Insurance"
