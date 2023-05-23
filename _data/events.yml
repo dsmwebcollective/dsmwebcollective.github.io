@@ -26,13 +26,6 @@
   date: "Apr 06"
   time: "6:00 - 7:30pm"
   
-- title: "Azure Open AI Service"
-  group: "Iowa Microsoft Azure User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/292684827/"
-  date: "Apr 11"
-  time: "12:00 - 1:00pm"
-
 - title: "Agile Working Group: Moving from Business Analyst to Product Owner to Product Manager"
   group: "IIBA Central Iowa Chapter"
   location: "Aureon + virtual"
@@ -60,6 +53,13 @@
   details_url: "https://www.meetup.com/aws-user-group-des-moines/events/293596595/"
   date: "Jun 06"
   time: "5:30 - 8:30pm"  
+
+- title: "How to Build a Modern Data Warehouse Environment in Azure"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/293554920/"
+  date: "Jun 13"
+  time: "12:00 - 1:00pm"
 
 - title: "Iowa Code Camp"
   group: "Iowa Code Camp"
