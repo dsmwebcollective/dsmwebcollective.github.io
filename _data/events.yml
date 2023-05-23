@@ -37,5 +37,12 @@
   group: "Iowa Code Camp"
   location: "FFA Enrichment Center, DMACC Ankeny Campus"
   details_url: "https://iowacodecamp.com/"
-  date: "June 17"
+  date: "Jun 17"
   time: "8:00am - 5:30pm"
+
+- title: "Agile + DevOpsDays Des Moines 2023"
+  group: "Agile + DevOps Des Moines"
+  location: "Iowa Events Center"
+  details_url: "https://www.eventbrite.com/e/agile-devopsdays-des-moines-2023-tickets-558729744707"
+  date: "Sept 7-8"
+  time: "9:00am - 5:00pm"
