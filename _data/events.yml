@@ -12,13 +12,6 @@
   date: "Apr 04"
   time: "12:00 - 1:00pm"
 
-- title: "A Look at AWS Inside EMC Insurance"
-  group: "AWS Des Moines User Group"
-  location: "EMC Insurance"
-  details_url: "https://www.meetup.com/aws-user-group-des-moines/events/292076260/"
-  date: "Apr 04"
-  time: "5:30 - 7:30pm"
-
 - title: "HTTP Caching in Python"
   group: "Pyowa"
   location: "Online"
@@ -53,6 +46,13 @@
   details_url: "https://www.meetup.com/agile-devops-dsm/events/kwgxrsyfcgbbc/"
   date: "Apr 20"
   time: "7:00 - 8:30am"
+  
+- title: "Generative AI on AWS"
+  group: "AWS Des Moines User Group"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/aws-user-group-des-moines/events/293596595/"
+  date: "Jun 06"
+  time: "5:30 - 8:30pm"  
 
 - title: "Iowa Code Camp"
   group: "Iowa Code Camp"
