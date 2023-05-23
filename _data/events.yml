@@ -33,13 +33,6 @@
   date: "Apr 13"
   time: "11:00am - 12:30pm"
 
-- title: "Lean Coffee"
-  group: "Agile Iowa"
-  location: "Machine Shed Restaurant"
-  details_url: "https://www.meetup.com/agile-devops-dsm/events/kwgxrsyfcgbbc/"
-  date: "Apr 20"
-  time: "7:00 - 8:30am"
-  
 - title: "Utilization of Large Language Models at John Deere"
   group: "Des Moines Data & Analytics"
   location: "John Deere Financial"
@@ -60,6 +53,13 @@
   details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/293554920/"
   date: "Jun 13"
   time: "12:00 - 1:00pm"
+  
+- title: "Lean Coffee"
+  group: "Agile Iowa"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.meetup.com/agile-devops-dsm/events/kwgxrsyfcjbtb/"
+  date: "Jun 15"
+  time: "7:00 - 8:30am"  
 
 - title: "Iowa Code Camp"
   group: "Iowa Code Camp"
