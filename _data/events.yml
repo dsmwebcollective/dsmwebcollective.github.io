@@ -19,6 +19,13 @@
   date: "Jun 06"
   time: "5:30 - 8:30pm"  
 
+- title: "Lions, Tigers, and Stable Diffusion, Oh My!"
+  group: "Iowa .NET User Group"
+  location: "Lean TECHniques + Zoom"
+  details_url: "https://www.meetup.com/iadnug/events/293799865/"
+  date: "Jun 08"
+  time: "12:00 - 1:00pm"
+
 - title: "The power between Kusto and Power BI"
   group: "IDPA - Des Moines"
   location: "Online"
