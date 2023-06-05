@@ -53,6 +53,13 @@
   details_url: "https://iowacodecamp.com/"
   date: "Jun 17"
   time: "8:00am - 5:30pm"
+  
+- title: "Borg Backup"
+  group: "Central Iowa Linux Users Group"
+  location: "Online and Gravitate Midtown"
+  details_url: "https://www.cialug.org/?page_id=7&event_id=1147&lang=en"
+  date: "June 21"
+  time: "7:00 - 8:30pm"
 
 - title: "Agile + DevOpsDays Des Moines 2023"
   group: "Agile + DevOps Des Moines"
