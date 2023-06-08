@@ -4,14 +4,7 @@
 #  details_url: "URL to additional details"
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
-
-- title: "Utilization of Large Language Models at John Deere"
-  group: "Des Moines Data & Analytics"
-  location: "John Deere Financial"
-  details_url: "https://www.meetup.com/des-moines-data-analytics/events/293299887/"
-  date: "May 31"
-  time: "4:00 - 5:30pm"
-  
+ 
 - title: "Generative AI on AWS"
   group: "AWS Des Moines User Group"
   location: "Source Allies"
