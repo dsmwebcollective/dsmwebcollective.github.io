@@ -60,6 +60,13 @@
   details_url: "https://iowacodecamp.com/"
   date: "Jun 17"
   time: "8:00am - 5:30pm"
+  
+- title: "[.NET@Night] Summer Social"
+  group: "Iowa .NET User Group"
+  location: "Gilroy's"
+  details_url: "https://www.meetup.com/iadnug/events/293960818/"
+  date: "Jun 29"
+  time: "4:00 - 8:00pm"  
 
 - title: "Agile + DevOpsDays Des Moines 2023"
   group: "Agile + DevOps Des Moines"
