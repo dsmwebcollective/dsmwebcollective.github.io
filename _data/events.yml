@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "AI Hack & Tell DSM"
+  group: "Des Moines Artificial Intelligence Group"
+  location: "Gravitate - Downtown"
+  details_url: "https://www.meetup.com/des-moines-artificial-intelligence-group/events/294768446/"
+  date: "July 19"
+  time: "6:00 - 8:00pm"
+
 - title: "Lean Coffee"
   group: "Agile + DevOps DSM"
   location: "Machine Shed Restaurant"
