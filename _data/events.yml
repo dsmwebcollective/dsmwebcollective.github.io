@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
+- title: "Lean Coffee"
+  group: "Agile + DevOps DSM"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.meetup.com/agile-devops-dsm/events/kwgxrsyfckbbc/"
+  date: "July 20"
+  time: "7:00 - 8:30am"
+
 - title: "[.NET@Noon] C# Language Server Protocol (LSP) and Debug Adapter Protocol"
   group: "Iowa .NET User Group"
   location: Lean TECHniques + Zoom
