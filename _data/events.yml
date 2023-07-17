@@ -10,7 +10,14 @@
   location: Lean TECHniques + Zoom
   details_url: "https://www.meetup.com/iadnug/events/294729625/"
   date: "July 20"
-  time: "12:00 - 1:00pm"  
+  time: "12:00 - 1:00pm" 
+
+- title: "The Whole Pie – Casey’s Road to BI Modernization"
+  group: "Des Moines Data & Analytics"
+  location: "Casey's Store Support Center"
+  details_url: "https://www.meetup.com/des-moines-data-analytics/events/294784097/"
+  date: "Aug 15"
+  time: "4:30 - 6:00pm"
 
 - title: "Agile + DevOpsDays Des Moines 2023"
   group: "Agile + DevOps Des Moines"
