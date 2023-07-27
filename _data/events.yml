@@ -19,6 +19,13 @@
   date: "Aug 15"
   time: "4:30 - 6:00pm"
 
+- title: "Lean Coffee"
+  group: "Agile + DevOps DSM"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.meetup.com/agile-devops-dsm/events/293645768/"
+  date: "Aug 17"
+  time: "7:00 - 8:30am"
+
 - title: "Agile + DevOpsDays Des Moines 2023"
   group: "Agile + DevOps Des Moines"
   location: "Iowa Events Center"
