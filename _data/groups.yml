@@ -35,10 +35,6 @@
 - title: "Des Moines Atlassian User Group"
   url: "https://aug.atlassian.com/des-moines/"
   meeting: "Quarterly"
-
-- title: "Des Moines Area Quality Assurance Association"
-  url: "http://www.daqaa.com/"
-  meeting: "Second Wednesday of the month"
   
 - title: "Des Moines Bitcoin & Blockchain Group"
   url: "https://www.meetup.com/Des-Moines-Bitcoin-Blockchain-Group/"
@@ -55,22 +51,12 @@
 - title: "Des Moines HashiCorp User Group"
   url: "https://www.meetup.com/Des-Moines-HashiCorp-User-Group/"
 
-- title: "Des Moines PHP"
-  url: "https://www.meetup.com/Des-Moines-PHP/"
-
 - title: "Des Moines Power BI User Group"
   url: "https://www.meetup.com/IowaPowerBI/"
-
-- title: "Des Moines Tableau User Group"
-  url: "https://www.meetup.com/Des-Moines-Tableau-User-Group-DSM-TUG/"
 
 - title: "Des Moines Web Geeks"
   url: "http://www.dsmwebgeeks.com/"
   meeting: "Second Monday of the month"
-
-- title: "DevOpsDSM"
-  url: "http://devopsdsm.com/"
-  meeting: "Fourth Wednesday of the month"
   
 - title: "Docker Des Moines"
   url: "https://www.meetup.com/Docker-Des-Moines/"
@@ -78,9 +64,6 @@
 - title: "dsmJS"
   url: "http://dsmjs.com/"
   meeting: "Second Tuesday of the month"
-  
-- title: "DSM Teach n' Learn"
-  url: "https://www.meetup.com/DSM-Teach-n-Learn/"
 
 - title: "Experiencing UX"
   url: "http://www.meetup.com/Experiencing-UX-DSM/"
@@ -104,17 +87,9 @@
   url: "https://www.meetup.com/Iowa-Microsoft-Azure-User-Group"
   meeting: "Third/fourth Tuesday of every month"
 
-- title: "Iowa Ruby Brigade"
-  url: "http://www.iowaruby.org/"
-  meeting: "Third Tuesday of the month"
-
 - title: "ISSA Des Moines Chapter"
   url: "http://desmoines.issa.org/"
   meeting: "Fourth Monday of the month"
-  
-- title: "ladyDev"
-  url: "http://ladydev.org/events/"
-  meeting: "Last Thursday of the month"
 
 - title: "PMI Central Iowa Chapter"
   url: "https://pmi-centraliowa.org/"
@@ -129,16 +104,10 @@
 - title: "Pyowa"
   url: "http://www.pyowa.org/"
   meeting: "First Tuesday of the month"
-  
-- title: "RPA Des Moines"
-  url: "https://www.meetup.com/RPADesMoines/"
 
 - title: "SecDSM"
   url: "https://secdsm.org/"
   meeting: "Second Thursday of the month"
-
-- title: "Women Who Code"
-  url: "http://www.meetup.com/Women-Who-Code-Des-Moines/"
   
 - title: "Women Who Test Des Moines"
   url: "http://womenwhotest.com/chapters/des-moines/"
