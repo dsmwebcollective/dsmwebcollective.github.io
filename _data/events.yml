@@ -12,6 +12,13 @@
   date: "Aug 03"
   time: "12:00 - 1:00pm" 
 
+- title: "Azure Static Web Apps - a cost effective way to deploy static websites"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/295241219/"
+  date: "Aug 08"
+  time: "12:00 - 1:00pm"
+
 - title: "The Whole Pie – Casey’s Road to BI Modernization"
   group: "Des Moines Data & Analytics"
   location: "Casey's Store Support Center"
