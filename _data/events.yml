@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
-- title: "Azure Static Web Apps - a cost effective way to deploy static websites"
-  group: "Iowa Microsoft Azure User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/295241219/"
-  date: "Aug 08"
-  time: "12:00 - 1:00pm"
-
-- title: "The Whole Pie – Casey’s Road to BI Modernization"
-  group: "Des Moines Data & Analytics"
-  location: "Casey's Store Support Center"
-  details_url: "https://www.meetup.com/des-moines-data-analytics/events/294784097/"
-  date: "Aug 15"
-  time: "4:30 - 6:00pm"
-
-- title: "Lean Coffee"
-  group: "Agile + DevOps DSM"
-  location: "Machine Shed Restaurant"
-  details_url: "https://www.meetup.com/agile-devops-dsm/events/293645768/"
-  date: "Aug 17"
-  time: "7:00 - 8:30am"
-
 - title: "Agile + DevOpsDays Des Moines 2023"
   group: "Agile + DevOps Des Moines"
   location: "Iowa Events Center"
