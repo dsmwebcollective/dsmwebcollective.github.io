@@ -5,27 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
   
-- title: "Agile + DevOpsDays Des Moines 2023"
-  group: "Agile + DevOps Des Moines"
-  location: "Iowa Events Center"
-  details_url: "https://www.eventbrite.com/e/agile-devopsdays-des-moines-2023-tickets-558729744707"
-  date: "Sept 7-8"
-  time: "9:00am - 5:00pm"
-
-- title: "The Ethics of AI"
-  group: "Iowa .NET User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/295490568/"
-  date: "Sept 07"
-  time: "12:00 - 1:00pm"
-
-- title: "Protect your data with DLP!"
-  group: "Iowa Microsoft Azure User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/295801031/"
-  date: "Sept 12"
-  time: "12:00 - 1:00pm"
-
 - title: "The Joys and Challenges of Being a Product Person - A Panel Discussion"
   group: "ProductTank Des Moines/Ames"
   location: "West End Architectural Salvage"
