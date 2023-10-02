@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Code/Application Quality"
+  group: "Des Moines Web Geeks"
+  location: "Anthologic"
+  details_url: "https://www.meetup.com/des-moines-web-geeks/events/294459129/"
+  date: "Oct 09"
+  time: "6:30 - 8:30pm"
+
 - title: "Azure Functions - What Are They and How Can You Use Them?"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
