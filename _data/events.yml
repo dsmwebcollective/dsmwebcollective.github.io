@@ -12,6 +12,13 @@
   date: "Nov 09"
   time: "12:00 - 1:00pm"
 
+- title: "Intro to API Design with NestJS"
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/des-moines-web-geeks/events/296711595/"
+  date: "Nov 13"
+  time: "6:30 - 8:30pm"
+
 - title: "Music League: A Product Management Use Case"
   group: "ProductTank Ames/Des Moines"
   location: "West End Architectural Salvage"
