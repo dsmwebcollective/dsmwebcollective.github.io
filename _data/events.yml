@@ -5,12 +5,12 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Workshop: Deploying a .NET 8 App to Azure App Service"
+- title: "[.NET@Noon] An In-Depth Look At Minimal APIs in ASP.NET Core"
   group: "Iowa .NET User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/296410542/"
-  date: "Dec 07"
-  time: "5:00 - 8:00pm"
+  location: "Hybrid: Lean Techniques + Virtual"
+  details_url: "https://www.meetup.com/iadnug/events/298237404/"
+  date: "Jan 10"
+  time: "12:00 - 1:00pm"
 
 - title: "December Show & Share Event"
   group: "Des Moines Web Geeks"
