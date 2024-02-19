@@ -19,6 +19,13 @@
   date: "Feb 22"
   time: "12:00 - 1:00pm"
 
+- title: "re:Invent Recap"
+  group: "AWS Des Moines User Group"
+  location: "Dice.com"
+  details_url: "https://www.meetup.com/aws-user-group-des-moines/events/299019660/"
+  date: "Mar 01"
+  time: "12:30 - 4:30pm"
+
 - title: "Azure Reliable Web App Pattern"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
