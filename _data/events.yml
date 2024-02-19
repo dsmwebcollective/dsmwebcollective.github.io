@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Clean Coder"
+  group: "Des Moines Web Geeks"
+  location: "Hybrid: Source Allies + Virtual"
+  details_url: "https://www.meetup.com/des-moines-web-geeks/events/298353894/"
+  date: "Feb 19"
+  time: "6:30 - 8:30pm"
+
 - title: "[.NET@Noon] An In-Depth Look At Minimal APIs in ASP.NET Core"
   group: "Iowa .NET User Group"
   location: "Hybrid: Lean Techniques + Virtual"
