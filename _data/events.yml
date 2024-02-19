@@ -12,6 +12,13 @@
   date: "Feb 19"
   time: "6:30 - 8:30pm"
 
+- title: "What Makes a Good Data Science Project?"
+  group: "Des Moines Data & Analytics"
+  location: "Online"
+  details_url: "https://www.meetup.com/des-moines-data-analytics/events/299100490/"
+  date: "Feb 22"
+  time: "12:00 - 1:00pm"
+
 - title: "Azure Reliable Web App Pattern"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
@@ -25,10 +32,3 @@
   details_url: "https://www.meetup.com/agile-devops-dsm/events/298507604/"
   date: "Mar 21"
   time: "7:00 - 8:30am"
-
-- title: "Data for Good Update"
-  group: "Des Moines Data & Analytics"
-  location: "West Des Moines Public Library"
-  details_url: "https://www.meetup.com/des-moines-data-analytics/events/298285195/"
-  date: "Jan 23"
-  time: "4:00 - 5:00pm"
