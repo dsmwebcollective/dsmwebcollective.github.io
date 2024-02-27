@@ -12,6 +12,13 @@
   date: "Feb 27"
   time: "4:30 - 6:00pm"
 
+- title: "Harnessing the Power of SST: Infrastructure as Code Simplified"
+  group: "DevOpsDSM"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/devopsdsm/events/298891976/"
+  date: "Feb 28"
+  time: "6:00 - 7:00pm"
+
 - title: "re:Invent Recap"
   group: "AWS Des Moines User Group"
   location: "Dice.com"
