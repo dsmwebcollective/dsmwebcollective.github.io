@@ -26,6 +26,13 @@
   date: "Mar 01"
   time: "12:30 - 4:30pm"
 
+- title: "Intro to .NET MAUI"
+  group: "Iowa .NET User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/299482172/"
+  date: "Mar 07"
+  time: "11:00am - 12:00pm"
+
 - title: "Azure Reliable Web App Pattern"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
