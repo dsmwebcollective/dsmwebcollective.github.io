@@ -5,7 +5,12 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-
+- title: "Learn JavaScript Basics for WordPress"
+  group: "WordPress Des Moines"
+  location: "Hybrid: Johnston Public Library + Zoom"
+  details_url: "https://www.meetup.com/wordpressdsm/events/299854103/"
+  date: "Mar 20"
+  time: "6:00 - 8:00pm"
 
 - title: "Lean Coffee"
   group: "Agile + DevOps DSM"
