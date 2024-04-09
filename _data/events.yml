@@ -12,6 +12,13 @@
   date: "Apr 10"
   time: "12:00 - 1:00pm"
 
+- title: "Lean Coffee"
+  group: "Agile + DevOps DSM"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.meetup.com/agile-devops-dsm/events/298507607/"
+  date: "Apr 18"
+  time: "7:00 - 8:30am"
+
 - title: "Next Gen Testing Tools For Java"
   group: "Central Iowa Java Users Group"
   location: "Source Allies"
