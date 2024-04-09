@@ -33,6 +33,13 @@
   date: "Apr 23"
   time: "4:30 - 6:00pm"
 
+- title: "B.Y.O.P. | Bring Your Own Problem Roundtable Event"
+  group: "DevOpsDSM"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/devopsdsm/events/300193409/"
+  date: "Apr 24"
+  time: "6:00 - 7:00pm"
+
 - title: "Foundations of Kubernetes"
   group: "Iowa .NET User Group"
   location: "Hybrid: Source Allies + Virtual"
