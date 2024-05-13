@@ -5,6 +5,13 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
+- title: "Utility First CSS with Tailwind"
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details: "https://www.meetup.com/des-moines-web-geeks/events/298353966"
+  date: "May 13"
+  time: "6:30 - 8:30pm"
+
 - title: "DIY Computer Vision"
   group: "Des Moines Artificial Intelligence Group"
   location: "Source Allies"
