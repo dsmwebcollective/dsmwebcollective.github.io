@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Lean Coffee"
-  group: "Agile + DevOps DSM"
-  location: "Machine Shed Restaurant"
-  details_url: "https://www.meetup.com/agile-devops-dsm/events/298507610/"
-  date: "May 16"
-  time: "7:00 - 8:30am"
-
 - title: "AI: Navigating the Future of Work with AI, Chatbot Security & Policy"
   group: "Iowa State University CIRAS"
   location: "Online"
@@ -53,6 +46,13 @@
   details_url: "https://www.meetup.com/des-moines-artificial-intelligence-group/events/301065341/"
   date: "Jun 18"
   time: "5:30 - 7:00pm"
+
+- title: "Lean Coffee"
+  group: "Agile + DevOps DSM"
+  location: "Machine Shed Restaurant"
+  details_url: "https://www.meetup.com/agile-devops-dsm/events/298507611/"
+  date: "Jun 20"
+  time: "7:00 - 8:30am"
 
 - title: "The Foundations of Kubernetes"
   group: "Central Iowa Java Users Group"
