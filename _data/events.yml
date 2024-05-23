@@ -40,6 +40,13 @@
   date: "May 22"
   time: "6:00 - 7:00pm"
 
+- title: "AI Tech Conference"
+  group: "Ankeny AI-Tech Group"
+  location: "Ankeny Kirkendall Library"
+  details_url: "https://www.meetup.com/ankeny-ai-tech-group/events/300746578/"
+  date: "May 28"
+  time: "6:30 - 8:30pm"
+
 - title: "Microsoft Build 2024 Recap!"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
