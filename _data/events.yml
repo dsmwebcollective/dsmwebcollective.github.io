@@ -19,13 +19,6 @@
   date: "May 16"
   time: "7:00 - 8:30am"
 
-- title: "Reactive Java: What is it?"
-  group: "Central Iowa Java Users Group"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/300614666/"
-  date: "May 16"
-  time: "5:30 - 7:00pm"
-
 - title: "AI: Navigating the Future of Work with AI, Chatbot Security & Policy"
   group: "Iowa State University CIRAS"
   location: "Online"
@@ -60,3 +53,10 @@
   details_url: "https://www.meetup.com/des-moines-artificial-intelligence-group/events/301065341/"
   date: "Jun 18"
   time: "5:30 - 7:00pm"
+
+- title: "The Foundations of Kubernetes"
+  group: "Central Iowa Java Users Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/301201025/"
+  date: "Jun 20"
+  time: "5:30 - 7:00pm"  
