@@ -12,13 +12,6 @@
   date: "Jun 10"
   time: "5:30 - 7:30pm"
 
-- title: "Does How You Give Feedback Matter?"
-  group: "Des Moines Web Geeks"
-  location: "Source Allies"
-  details: "https://www.meetup.com/des-moines-web-geeks/events/298353977/"
-  date: "Jun 10"
-  time: "6:30 - 8:00pm"
-
 - title: "Leveraging RAG in Large Organizations"
   group: "Des Moines Artificial Intelligence Group"
   location: "We Write Code"
@@ -53,3 +46,10 @@
   details_url: "https://www.meetup.com/des-moines-data-analytics/events/301577244/"
   date: "Jun 28"
   time: "3:30 - 4:30pm"    
+
+- title: "Typesafe Graph QL in React"
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details: "https://www.meetup.com/des-moines-web-geeks/events/301702392/"
+  date: "Jul 08"
+  time: "6:30 - 8:00pm"
