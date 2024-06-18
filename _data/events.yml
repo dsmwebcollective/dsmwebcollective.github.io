@@ -33,6 +33,13 @@
   date: "Jun 20"
   time: "7:00 - 8:30am"
 
+- title: "#NoBigProcesses"
+  group: "Iowa .NET User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/301677291/"
+  date: "Jun 20"
+  time: "12:00 - 1:00pm"
+
 - title: "The Foundations of Kubernetes"
   group: "Central Iowa Java Users Group"
   location: "Online"
