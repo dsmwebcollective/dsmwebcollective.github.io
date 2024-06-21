@@ -33,7 +33,14 @@
   date: "Jun 20"
   time: "5:30 - 7:00pm"
 
-- title: "A Data Practitioner's View of Data Driven Leadership at John Deere"
+- title: "Nix, the Package Manager"
+  group: "DevOpsDSM"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/devopsdsm/events/301507779/"
+  date: "Jun 26"
+  time: "6:00 - 7:00pm"
+
+- title: "A Data Practitioner's View of Data-Driven Leadership at John Deere"
   group: "Des Moines Data & Analytics"
   location: "John Deere Financial"
   details_url: "https://www.meetup.com/des-moines-data-analytics/events/301577244/"
