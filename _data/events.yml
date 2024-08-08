@@ -12,6 +12,13 @@
   date: "Aug 08"
   time: "6:00 - 8:00pm"
 
+- title: "Intro to Microsoft Fabric"
+  group: "Iowa Data Professionals Association - Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/298513219"
+  date: "Aug 12"
+  time: "5:30 - 7:30pm"
+
 - title: "AWS Amplify Gen2: Production-Grade Cloud Backends Running in Minutes"
   group: "Des Moines Web Geeks"
   location: "Source Allies"
