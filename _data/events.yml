@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Build an Enterprise-ready Data API for Azure SQL"
-  group: "Iowa Data Professionals Association - Des Moines"
-  location: "Online"
-  details_url: "https://www.meetup.com/dsmsql/events/298513228"
-  date: "Sept 09"
-  time: "5:30 - 7:30pm"
-
 - title: "The Road to Mordor: An Engineer’s Guide to Delivering Complex Features"
   group: "Des Moines Web Geeks"
   location: "Source Allies"
@@ -25,6 +18,13 @@
   details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/303059533"
   date: "Sept 11"
   time: "12:00 - 1:00pm"
+
+- title: "Build an Enterprise-ready Data API for Azure SQL"
+  group: "Iowa Data Professionals Association - Des Moines"
+  location: "Online"
+  details_url: "https://www.meetup.com/dsmsql/events/298513228"
+  date: "Sept 16"
+  time: "5:30 - 7:30pm"  
 
 - title: "Lean Coffee"
   group: "Agile + DevOps DSM"
