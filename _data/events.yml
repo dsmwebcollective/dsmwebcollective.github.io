@@ -53,3 +53,10 @@
   details_url: "https://www.meetup.com/agile-devops-dsm/events/301236483/"
   date: "Nov 21"
   time: "7:00 - 8:30am"
+
+- title: "Deploying Private Open Source LLMs on Azure: A Production-Ready Reference"
+  group: "Iowa Microsoft Azure User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iowa-microsoft-azure-user-group/events/304560664"
+  date: "Nov 21"
+  time: "12:00 - 1:00pm"
