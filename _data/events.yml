@@ -46,3 +46,10 @@
   details_url: "https://www.meetup.com/agile-devops-dsm/events/304687006"
   date: "Dec 19"
   time: "7:00 - 8:30am"
+
+- title: "Creating a Weather App in Your Terminal with Python"
+  group: "Pyowa"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/305226378"
+  date: "Jan 28"
+  time: "5:30 - 7:00pm"
