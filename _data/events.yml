@@ -33,6 +33,13 @@
   date: "Jan 16"
   time: "5:30 - 7:00pm"
 
+- title: "Unleashing the Power of AI/ML with AWS"
+  group: "Des Moines Artificial Intelligence Group"
+  location: "We Write Code"
+  details_url: "https://www.meetup.com/des-moines-artificial-intelligence-group/events/303337549/"
+  date: "Jan 21"
+  time: "5:30 - 7:30pm"
+
 - title: "Creating a Weather App in Your Terminal with Python"
   group: "Pyowa"
   location: "Source Allies"
