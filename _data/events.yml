@@ -54,6 +54,13 @@
   date: "Feb 20"
   time: "5:30 - 7:00pm"
 
+- title: "Behavior Driven Development in Practice"
+  group: "Pyowa (Iowa Python Users Group)"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/305975304/"
+  date: "Feb 25"
+  time: "5:30 - 7pm"
+
 - title: "Navigating Branching Strategies"
   group: "DevOpsDSM"
   location: "Source Allies"
