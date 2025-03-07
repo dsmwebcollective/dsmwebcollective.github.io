@@ -53,3 +53,17 @@
   details_url: "https://www.meetup.com/central-iowa-java-users-group/events/306438156/"
   date: "Mar 20"
   time: "5:30 - 7:00pm"
+
+- title: "Hacking My Home's Audio/Video with Python"
+  group: "Pyowa"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/306533693/"
+  date: "Mar 25"
+  time: "5:30 - 7:00pm"
+
+- title: "Lightning Talks"
+  group: "DevOpsDSM"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/devopsdsm/events/306533721/"
+  date: "Mar 26"
+  time: "6:00 - 7:00pm"
