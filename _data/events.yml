@@ -82,6 +82,13 @@
   date: "May 21"
   time: "4:30 - 6:00pm"
 
+- title: "Framing DataFrames – A High-Level Overview of Python DataFrame Libraries"
+  group: "Pyowa"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/307526993/"
+  date: "May 27"
+  time: "5:30 - 7:00pm"
+
 - title: "Dependency Maintenance at Scale"
   group: "DevOpsDSM"
   location: "Source Allies"
