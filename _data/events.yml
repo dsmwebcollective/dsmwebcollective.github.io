@@ -81,3 +81,10 @@
   details_url: "https://www.meetup.com/producttank-des-moines-ames/events/307395417/"
   date: "May 21"
   time: "4:30 - 6:00pm"
+
+- title: "Dependency Maintenance at Scale"
+  group: "DevOpsDSM"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/devopsdsm/events/307546060/"
+  date: "May 28"
+  time: "6:00 - 7:00pm"
