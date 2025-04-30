@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Unleashing Software Development by Applying the Theory of Constraints"
-  group: "Des Moines Web Geeks"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/des-moines-web-geeks/events/306658267/"
-  date: "Apr 14"
-  time: "6:30 - 8:00pm"
-
 - title: "Azure Local"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
@@ -67,3 +60,10 @@
   details_url: "https://www.meetup.com/iadnug/events/307405746"
   date: "May 01"
   time: "12:00 - 1:00pm"
+
+- title: "From Mockups to Makers: Building 'Jucie'"
+  group: "Des Moines Web Geeks"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/des-moines-web-geeks/events/306721533/"
+  date: "May 12"
+  time: "6:30 - 8:30pm"
