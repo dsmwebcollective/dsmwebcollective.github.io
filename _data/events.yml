@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Developing interactive websites with C# using Blazor"
-  group: "Iowa .NET User Group"
-  location: "Hybrid - ITA Group + Zoom"
-  details_url: "https://www.meetup.com/iadnug/events/308127054/"
-  date: "June 05"
-  time: "12:00 - 1:00pm"
-
 - title: "Coding Dojo"
   group: "Des Moines Web Geeks"
   location: "Source Allies"
@@ -52,4 +45,11 @@
   location: "Source Allies"
   details_url: "https://www.meetup.com/devopsdsm/events/308160280/"
   date: "June 25"
+  time: "6:00 - 7:00pm"
+
+- title: "Get on the Bus - The Azure Service Bus"
+  group: "Iowa .NET User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/308637244/"
+  date: "July 10"
   time: "6:00 - 7:00pm"
