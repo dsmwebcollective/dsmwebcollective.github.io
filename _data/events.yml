@@ -26,13 +26,6 @@
   date: "June 17"
   time: "5:30 - 7:30pm"
 
-- title: "Lightning Talks"
-  group: "Central Iowa Java Users Group"
-  location: "Hybrid - Lean TECHniques + Zoom"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/307861534/"
-  date: "June 19"
-  time: "5:30 - 7:00pm"
-
 - title: "Live Fast, Store Smarter: Python-Driven Data Architectures for Machine Learning"
   group: "Pyowa"
   location: "Source Allies"
@@ -46,6 +39,13 @@
   details_url: "https://www.meetup.com/devopsdsm/events/308160280/"
   date: "June 25"
   time: "6:00 - 7:00pm"
+
+- title: "Six Secrets to Succeeding with Microservices"
+  group: "Central Iowa Java Users Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/308628976/"
+  date: "July 10"
+  time: "5:30 - 7:00pm"
 
 - title: "Get on the Bus - The Azure Service Bus"
   group: "Iowa .NET User Group"
