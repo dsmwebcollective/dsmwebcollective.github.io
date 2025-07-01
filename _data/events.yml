@@ -19,13 +19,6 @@
   date: "June 17"
   time: "5:30 - 7:30pm"
 
-- title: "Bring Your Own Problem Roundtable Event"
-  group: "DevOpsDSM"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/devopsdsm/events/308160280/"
-  date: "June 25"
-  time: "6:00 - 7:00pm"
-
 - title: "AI for Dummies: Building AI-powered apps without the data science degree"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
@@ -53,3 +46,10 @@
   details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/308092675/"
   date: "July 22"
   time: "5:30 - 7:00pm"
+
+- title: "Beyond DevOps: From Automation to Adaptation"
+  group: "DevOpsDSM"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/devopsdsm/events/308165294/"
+  date: "July 23"
+  time: "6:00 - 7:00pm"
