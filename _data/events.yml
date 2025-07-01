@@ -19,13 +19,6 @@
   date: "June 17"
   time: "5:30 - 7:30pm"
 
-- title: "Live Fast, Store Smarter: Python-Driven Data Architectures for Machine Learning"
-  group: "Pyowa"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/308092672/"
-  date: "June 24"
-  time: "5:30 - 7:00pm"
-
 - title: "Bring Your Own Problem Roundtable Event"
   group: "DevOpsDSM"
   location: "Source Allies"
@@ -53,3 +46,10 @@
   details_url: "https://www.meetup.com/iadnug/events/308637244/"
   date: "July 10"
   time: "6:00 - 7:00pm"
+
+- title: "DSPy: Replacing LLM Musings with Modules"
+  group: "Pyowa"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/308092675/"
+  date: "July 22"
+  time: "5:30 - 7:00pm"
