@@ -5,20 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "University of Iowa Analytics Competition Winners"
-  group: "Des Moines Data & Analytics"
-  location: "Online"
-  details_url: "https://www.meetup.com/des-moines-data-analytics/events/308274005/"
-  date: "June 13"
-  time: "11:30am - 12:30pm"
-
-- title: "Enhancing Behavior Driven Development (BDD) with AI"
-  group: "Des Moines Artificial Intelligence Group"
-  location: "We Write Code"
-  details_url: "https://www.meetup.com/des-moines-artificial-intelligence-group/events/307090800/"
-  date: "June 17"
-  time: "5:30 - 7:30pm"
-
 - title: "AI for Dummies: Building AI-powered apps without the data science degree"
   group: "Iowa Microsoft Azure User Group"
   location: "Online"
