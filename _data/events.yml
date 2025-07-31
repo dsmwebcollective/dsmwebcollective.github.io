@@ -26,19 +26,19 @@
   date: "July 10"
   time: "6:00 - 7:00pm"
 
-- title: "DSPy: Replacing LLM Musings with Modules"
-  group: "Pyowa"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/308092675/"
-  date: "July 22"
-  time: "5:30 - 7:00pm"
-
 - title: "A Chatbot for Data Analytics? A Proof of Value Study from Casey’s"
   group: "Des Moines Data & Analytics"
   location: "Casey's Store Support Center"
   details_url: "https://www.meetup.com/des-moines-data-analytics/events/309984201/"
   date: "Aug 05"
   time: "4:00 - 5:30pm"
+
+- title: "Reverse Engineering Raw Binary Files"
+  group: "Pyowa"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/308092677/"
+  date: "Aug 26"
+  time: "5:30 - 7:00pm"  
 
 - title: "BLE for Fun and Games"
   group: "DevOpsDSM"
