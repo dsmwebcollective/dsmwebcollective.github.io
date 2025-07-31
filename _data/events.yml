@@ -12,13 +12,6 @@
   date: "July 08"
   time: "12:00 - 1:00pm"
 
-- title: "Six Secrets to Succeeding with Microservices"
-  group: "Central Iowa Java Users Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/308628976/"
-  date: "July 10"
-  time: "5:30 - 7:00pm"
-
 - title: "Get on the Bus - The Azure Service Bus"
   group: "Iowa .NET User Group"
   location: "Online"
@@ -32,6 +25,13 @@
   details_url: "https://www.meetup.com/des-moines-data-analytics/events/309984201/"
   date: "Aug 05"
   time: "4:00 - 5:30pm"
+
+- title: "Techniques to Tackle Tech Debt"
+  group: "Central Iowa Java Users Group"
+  location: "Hybrid: Source Allies + Online"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/309871115/"
+  date: "Aug 21"
+  time: "5:30 - 7:00pm"
 
 - title: "Reverse Engineering Raw Binary Files"
   group: "Pyowa"
