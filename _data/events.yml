@@ -12,6 +12,13 @@
   date: "Aug 05"
   time: "4:00 - 5:30pm"
 
+- title: "Getting Started with AI for .NET Developers"
+  group: "Lean TECHniques"
+  location: "Online"
+  details_url: "https://leantechniques.com/events/getting-started-with-ai-for-net-developers/"
+  date: "Aug 07"
+  time: "11:00am - 12:00pm"
+
 - title: ".NET@Night: How to deliver good vibes with AI"
   group: "Iowa .NET User Group"
   location: "Online"
