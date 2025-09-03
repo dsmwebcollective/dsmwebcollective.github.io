@@ -19,13 +19,6 @@
   date: "Aug 07"
   time: "11:00am - 12:00pm"
 
-- title: "How Generative AI Apps Use APIs & Author Fireside Chat"
-  group: "Des Moines Artificial Intelligence Group"
-  location: "We Write Code"
-  details_url: "https://www.meetup.com/des-moines-artificial-intelligence-group/events/307408357/"
-  date: "Aug 19"
-  time: "5:30 - 7:30pm"
-
 - title: ".NET@Noon: GitHub Copilot: The Future of .NET Modernization"
   group: "Iowa .NET User Group"
   location: "Online"
@@ -39,6 +32,13 @@
   details_url: "https://www.meetup.com/des-moines-web-geeks/events/306721538/"
   date: "Sept 08"
   time: "6:30 - 8:00pm"
+
+- title: "Building Feedback-Driven Agentic Workflows"
+  group: "Des Moines Artificial Intelligence Group"
+  location: "We Write Code"
+  details_url: "https://www.meetup.com/des-moines-artificial-intelligence-group/events/307090852/"
+  date: "Sept 16"
+  time: "5:30 - 7:30pm"
 
 - title: "Enterprise AI Agents: Building Intelligent Applications the Java Way"
   group: "Central Iowa Java Users Group"
