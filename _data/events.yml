@@ -19,13 +19,6 @@
   date: "Aug 07"
   time: "11:00am - 12:00pm"
 
-- title: ".NET@Night: How to deliver good vibes with AI"
-  group: "Iowa .NET User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/310342795/"
-  date: "Aug 07"
-  time: "6:00 - 7:00pm"
-
 - title: "The State of AI-Assisted Development"
   group: "DSM Web Geeks"
   location: "Source Allies"
@@ -60,3 +53,10 @@
   details_url: "https://www.meetup.com/devopsdsm/events/308165295/"
   date: "Aug 27"
   time: "6:00 - 7:00pm"
+
+- title: ".NET@Noon: GitHub Copilot: The Future of .NET Modernization"
+  group: "Iowa .NET User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/310632231/"
+  date: "Sept 03"
+  time: "12:00 - 1:00pm"
