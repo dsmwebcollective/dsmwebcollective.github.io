@@ -40,13 +40,6 @@
   date: "Aug 21"
   time: "5:30 - 7:00pm"
 
-- title: "BLE for Fun and Games"
-  group: "DevOpsDSM"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/devopsdsm/events/308165295/"
-  date: "Aug 27"
-  time: "6:00 - 7:00pm"
-
 - title: ".NET@Noon: GitHub Copilot: The Future of .NET Modernization"
   group: "Iowa .NET User Group"
   location: "Online"
@@ -60,3 +53,10 @@
   details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/308092679/"
   date: "Sept 23"
   time: "5:30 - 7:00pm"  
+
+- title: "Leveling Up Local Dev Experience"
+  group: "DevOpsDSM"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/devopsdsm/events/308165296/"
+  date: "Sept 24"
+  time: "6:00 - 7:00pm"
