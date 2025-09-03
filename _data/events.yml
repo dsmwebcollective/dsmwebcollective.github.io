@@ -33,19 +33,19 @@
   date: "Aug 19"
   time: "5:30 - 7:30pm"
 
-- title: "Techniques to Tackle Tech Debt"
-  group: "Central Iowa Java Users Group"
-  location: "Hybrid: Source Allies + Online"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/309871115/"
-  date: "Aug 21"
-  time: "5:30 - 7:00pm"
-
 - title: ".NET@Noon: GitHub Copilot: The Future of .NET Modernization"
   group: "Iowa .NET User Group"
   location: "Online"
   details_url: "https://www.meetup.com/iadnug/events/310632231/"
   date: "Sept 03"
   time: "12:00 - 1:00pm"
+
+- title: "Enterprise AI Agents: Building Intelligent Applications the Java Way"
+  group: "Central Iowa Java Users Group"
+  location: "Hybrid: Source Allies + Online"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/310712006/"
+  date: "Sept 18"
+  time: "5:30 - 7:00pm"
 
 - title: "Setting Up Local Python Environments for Consistent Development and Deployment"
   group: "Pyowa"
