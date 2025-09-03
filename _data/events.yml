@@ -5,20 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "A Chatbot for Data Analytics? A Proof of Value Study from Casey’s"
-  group: "Des Moines Data & Analytics"
-  location: "Casey's Store Support Center"
-  details_url: "https://www.meetup.com/des-moines-data-analytics/events/309984201/"
-  date: "Aug 05"
-  time: "4:00 - 5:30pm"
-
-- title: "Getting Started with AI for .NET Developers"
-  group: "Lean TECHniques"
-  location: "Online"
-  details_url: "https://leantechniques.com/events/getting-started-with-ai-for-net-developers/"
-  date: "Aug 07"
-  time: "11:00am - 12:00pm"
-
 - title: ".NET@Noon: GitHub Copilot: The Future of .NET Modernization"
   group: "Iowa .NET User Group"
   location: "Online"
