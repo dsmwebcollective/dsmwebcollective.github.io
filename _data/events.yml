@@ -19,13 +19,6 @@
   date: "Sept 18"
   time: "5:30 - 7:00pm"
 
-- title: "Setting Up Local Python Environments for Consistent Development and Deployment"
-  group: "Pyowa"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/308092679/"
-  date: "Sept 23"
-  time: "5:30 - 7:00pm"  
-
 - title: "Impact-First Product Teams"
   group: "ProductTank Des Moines/Ames"
   location: "Exile Brewing"
@@ -53,3 +46,10 @@
   details_url: "https://www.meetup.com/devopsdsm/events/311291033/"
   date: "Oct 22"
   time: "6:00 - 7:00pm"  
+
+- title: "Setting Up Local Python Environments for Consistent Development and Deployment"
+  group: "Pyowa"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/311305301/"
+  date: "Oct 28"
+  time: "5:30 - 7:00pm" 
