@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Extreme Programming Explained"
-  group: "DSM Web Geeks"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/des-moines-web-geeks/events/306721538/"
-  date: "Sept 08"
-  time: "6:30 - 8:00pm"
-
 - title: "Building Feedback-Driven Agentic Workflows"
   group: "Des Moines Artificial Intelligence Group"
   location: "We Write Code"
@@ -53,3 +46,10 @@
   details_url: "https://www.meetup.com/iadnug/events/311178275/"
   date: "Oct 02"
   time: "6:00 - 7:00pm"
+
+- title: "Vetting Generative AI Use Cases with Amazon Bedrock"
+  group: "DSM Web Geeks"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/des-moines-web-geeks/events/306721539/"
+  date: "Oct 13"
+  time: "6:30 - 8:00pm"
