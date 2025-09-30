@@ -12,13 +12,6 @@
   date: "Sept 16"
   time: "5:30 - 7:30pm"
 
-- title: "Enterprise AI Agents: Building Intelligent Applications the Java Way"
-  group: "Central Iowa Java Users Group"
-  location: "Hybrid: Source Allies + Online"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/310712006/"
-  date: "Sept 18"
-  time: "5:30 - 7:00pm"
-
 - title: "Impact-First Product Teams"
   group: "ProductTank Des Moines/Ames"
   location: "Exile Brewing"
@@ -39,6 +32,13 @@
   details_url: "https://www.meetup.com/des-moines-web-geeks/events/306721539/"
   date: "Oct 13"
   time: "6:30 - 8:00pm"
+
+- title: "Kubernetes: From Pipeline to Ingress"
+  group: "Central Iowa Java Users Group"
+  location: "Hybrid: Source Allies + Online"
+  details_url: https://www.meetup.com/central-iowa-java-users-group/events/311188005/"
+  date: "Oct 16"
+  time: "5:30 - 7:00pm"
 
 - title: "Leveling Up Local Dev Experience"
   group: "DevOpsDSM"
