@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: ".NET@Noon: GitHub Copilot: The Future of .NET Modernization"
-  group: "Iowa .NET User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/310632231/"
-  date: "Sept 03"
-  time: "12:00 - 1:00pm"
-
 - title: "Extreme Programming Explained"
   group: "DSM Web Geeks"
   location: "Source Allies"
@@ -48,8 +41,15 @@
   time: "6:00 - 7:00pm"
 
 - title: "Impact-First Product Teams"
-  group: "ProductTank Des Moines/Ames
+  group: "ProductTank Des Moines/Ames"
   location: "Exile Brewing"
   details_url: "https://www.meetup.com/producttank-des-moines-ames/events/310892757/"
   date: "Oct 01"
   time: "4:30 - 6:00pm"
+
+- title: ".NET@Night: Infrastructure as Code with .NET and Pulumi"
+  group: "Iowa .NET User Group"
+  location: "Online"
+  details_url: "https://www.meetup.com/iadnug/events/311178275/"
+  date: "Oct 02"
+  time: "6:00 - 7:00pm"
