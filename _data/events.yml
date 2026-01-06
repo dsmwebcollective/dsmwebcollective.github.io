@@ -33,13 +33,6 @@
   date: "Nov 18"
   time: "5:30 - 7:30pm"
 
-- title: "The Bleeding Edge of Angular"
-  group: "Central Iowa Java Users Group"
-  location: "Hybrid: Source Allies + Online"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/311623484/"
-  date: "Nov 20"
-  time: "5:30 - 7:00pm"
-
 - title: "Vibe Coding Games With Python and Pygame"
   group: "Pyowa"
   location: "Hybrid: Source Allies + Online"
@@ -67,3 +60,10 @@
   details_url: "https://www.meetup.com/des-moines-web-geeks/events/306721560/"
   date: "Jan 12"
   time: "6:30 - 8:00pm"
+
+- title: "Application Visibility and Monitoring with OpenTelemetry"
+  group: "Central Iowa Java Users Group"
+  location: "Lean TECHniques"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/312394650/"
+  date: "Jan 15"
+  time: "5:30 - 7:00pm"  
