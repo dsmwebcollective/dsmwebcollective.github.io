@@ -11,6 +11,13 @@
   details_url: "https://www.meetup.com/iadnug/events/312543699/"
   date: "Jan 08"
   time: "12:00 - 1:00pm"
+  
+- title: "Zoneminder"
+  group: "Central Iowa Linux Users Group"
+  location: "Gravitate Midtown and Zoom"
+  details_url: "https://www.cialug.org/?page_id=7&event_id=1132&lang=en"
+  date: "Apr 20"
+  time: "7:00 - 8:30pm"
 
 - title: "Signals Through Time and JavaScript"
   group: "DSM Web Geeks"
