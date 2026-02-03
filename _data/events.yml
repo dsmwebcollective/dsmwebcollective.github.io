@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Application Visibility and Monitoring with OpenTelemetry"
-  group: "Central Iowa Java Users Group"
-  location: "Lean TECHniques"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/312394650/"
-  date: "Jan 15"
-  time: "5:30 - 7:00pm"  
-
 - title: "Pella’s Copilot Rollout: Driving Adoption and Impact"
   group: "Des Moines Data & Analytics"
   location: "Pella Corporation - Urbandale"
@@ -60,3 +53,10 @@
   details_url: "https://www.meetup.com/devopsdsm/events/313190329/"
   date: "Feb 25"
   time: "6:00 - 7:00pm"
+
+- title: "Building Engineers or Teaching Technicians?"
+  group: "Central Iowa Java Users Group"
+  location: "Lean TECHniques"
+  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/313066806/"
+  date: "Feb 26"
+  time: "5:30 - 7:00pm"  
