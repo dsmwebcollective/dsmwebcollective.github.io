@@ -33,6 +33,13 @@
   date: "Feb 17"
   time: "4:30 - 6:00pm"  
 
+- title: "February Meetup"
+  group: "vibeDSM"
+  location: "DMACC Southridge Center"
+  details_url: "https://luma.com/wsznruuc"
+  date: "Feb 17"
+  time: "6:00 - 8:00pm"
+
 - title: "Log Like a Robot, Debug Like a Human"
   group: "Pyowa"
   location: "Source Allies"
