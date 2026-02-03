@@ -12,13 +12,6 @@
   date: "Jan 15"
   time: "5:30 - 7:00pm"  
 
-- title: "Coding Dojo"
-  group: "Pyowa"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/312477848/"
-  date: "Jan 27"
-  time: "5:30 - 7:00pm"
-
 - title: "Pella’s Copilot Rollout: Driving Adoption and Impact"
   group: "Des Moines Data & Analytics"
   location: "Pella Corporation - Urbandale"
@@ -53,3 +46,10 @@
   details_url: "https://www.meetup.com/producttank-des-moines-ames/events/313133560/"
   date: "Feb 17"
   time: "4:30 - 6:00pm"  
+
+- title: "Log Like a Robot, Debug Like a Human"
+  group: "Pyowa"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/313174348/"
+  date: "Feb 24"
+  time: "5:30 - 7:00pm"
