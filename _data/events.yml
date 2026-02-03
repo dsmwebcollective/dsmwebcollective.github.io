@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Signals Through Time and JavaScript"
-  group: "DSM Web Geeks"
-  location: "Hybrid: Source Allies + Online"
-  details_url: "https://www.meetup.com/des-moines-web-geeks/events/306721560/"
-  date: "Jan 12"
-  time: "6:30 - 8:00pm"
-
 - title: "Application Visibility and Monitoring with OpenTelemetry"
   group: "Central Iowa Java Users Group"
   location: "Lean TECHniques"
@@ -39,3 +32,10 @@
   details_url: "https://www.meetup.com/iadnug/events/313058429/"
   date: "Feb 05"
   time: "12:00 - 1:00pm"
+
+- title: "Convex: Reactive Database and Sync Engine"
+  group: "DSM Web Geeks"
+  location: "Hybrid: Source Allies + Online"
+  details_url: "https://www.meetup.com/des-moines-web-geeks/events/306721561/"
+  date: "Feb 09"
+  time: "6:30 - 8:00pm"
