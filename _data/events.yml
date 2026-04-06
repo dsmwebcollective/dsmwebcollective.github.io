@@ -24,7 +24,14 @@
   location: "The Venue"
   details_url: "https://www.meetup.com/producttank-des-moines-ames/events/313733522/"
   date: "Apr 21"
-  time: "4:30 - 6:00pm"  
+  time: "4:30 - 6:00pm"
+
+- title: "Serve, Protect, Automate: Building Better AI Agents"
+  group: "DevOpsDSM"
+  location: "Hybrid: Source Allies + Online"
+  details_url: "https://www.meetup.com/devopsdsm/events/314055212/"
+  date: "Apr 22"
+  time: "6:00 - 7:00pm"  
 
 - title: "From TypeScript to Python: AI-Powered Code Migration Magic"
   group: "Pyowa"
@@ -32,17 +39,3 @@
   details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/314040501/"
   date: "Apr 28"
   time: "5:30 - 7:00pm"
-
-- title: "FinOps: Bringing Engineering and Finance Together"
-  group: "DevOpsDSM"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/devopsdsm/events/313190329/"
-  date: "Feb 25"
-  time: "6:00 - 7:00pm"
-
-- title: "Building Engineers or Teaching Technicians?"
-  group: "Central Iowa Java Users Group"
-  location: "Lean TECHniques"
-  details_url: "https://www.meetup.com/central-iowa-java-users-group/events/313066806/"
-  date: "Feb 26"
-  time: "5:30 - 7:00pm"  
