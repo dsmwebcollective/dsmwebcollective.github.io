@@ -46,3 +46,10 @@
   details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/314040501/"
   date: "Apr 28"
   time: "5:30 - 7:00pm"
+
+- title: "Parallel Processing: Scaling Political Opinion Analysis with Serverless AWS"
+  group: "AWS Des Moines"
+  location: "Lean TECHniques"
+  details_url: "https://www.meetup.com/aws-user-group-des-moines/events/313625045/"
+  date: "Apr 29"
+  time: "5:30 - 7:00pm"
