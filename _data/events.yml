@@ -12,13 +12,6 @@
   date: "Apr 09"
   time: "12:00 - 1:00pm"
 
-- title: "Bridging the Gap: Scaling Product Strategy for the AI-Accelerated Team"
-  group: "ProductTank Des Moines/Ames"
-  location: "The Venue"
-  details_url: "https://www.meetup.com/producttank-des-moines-ames/events/313733522/"
-  date: "Apr 21"
-  time: "4:30 - 6:00pm"
-
 - title: "Serve, Protect, Automate: Building Better AI Agents"
   group: "DevOpsDSM"
   location: "Hybrid: Source Allies + Online"
@@ -60,3 +53,10 @@
   details_url: "https://www.meetup.com/central-iowa-java-users-group/events/314300787/"
   date: "May 19"
   time: "5:30 - 7:00pm"
+
+- title: "Emotional Intelligence in an AI World"
+  group: "ProductTank Des Moines/Ames"
+  location: "The Venue"
+  details_url: "https://www.meetup.com/producttank-des-moines-ames/events/314181001/"
+  date: "May 20"
+  time: "4:30 - 6:00pm"
