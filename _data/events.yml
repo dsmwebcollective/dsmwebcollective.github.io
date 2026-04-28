@@ -33,6 +33,13 @@
   date: "Apr 22"
   time: "6:00 - 7:00pm"  
 
+- title: "AI Ready Data"
+  group: "Des Moines Data & Analytics"
+  location: "Wellable"
+  details_url: "https://www.meetup.com/des-moines-data-analytics/events/31421464"
+  date: "Apr 28"
+  time: "4:00 - 5:30pm"
+
 - title: "From TypeScript to Python: AI-Powered Code Migration Magic"
   group: "Pyowa"
   location: "Hybrid: Source Allies + Online"
