@@ -12,13 +12,6 @@
   date: "Apr 09"
   time: "12:00 - 1:00pm"
 
-- title: "The Power of Common Knowledge: Why Teams Break When Information Isn't Shared"
-  group: "DSM Web Geeks"
-  location: "Hybrid: Source Allies + Online"
-  details_url: "https://www.meetup.com/des-moines-web-geeks/events/311473701/"
-  date: "Apr 13"
-  time: "6:30 - 8:00pm"
-
 - title: "Bridging the Gap: Scaling Product Strategy for the AI-Accelerated Team"
   group: "ProductTank Des Moines/Ames"
   location: "The Venue"
@@ -53,3 +46,10 @@
   details_url: "https://www.meetup.com/aws-user-group-des-moines/events/313625045/"
   date: "Apr 29"
   time: "5:30 - 7:00pm"
+
+- title: "Access Granted: Accessibility in the Modern Web"
+  group: "DSM Web Geeks"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/des-moines-web-geeks/events/314385247/"
+  date: "May 11"
+  time: "6:30 - 8:00pm"
