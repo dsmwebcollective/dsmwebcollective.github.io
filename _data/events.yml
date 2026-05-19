@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Serve, Protect, Automate: Building Better AI Agents"
-  group: "DevOpsDSM"
-  location: "Hybrid: Source Allies + Online"
-  details_url: "https://www.meetup.com/devopsdsm/events/314055212/"
-  date: "Apr 22"
-  time: "6:00 - 7:00pm"  
-
 - title: "AI Ready Data"
   group: "Des Moines Data & Analytics"
   location: "Wellable"
@@ -67,3 +60,10 @@
   details_url: "https://www.meetup.com/iadnug/events/314693266/"
   date: "May 21"
   time: "12:00 - 1:00pm"
+
+- title: "Beyond Firefighting: Managing Reliability with Service Level Objectives"
+  group: "DevOpsDSM"
+  location: "Hybrid: Source Allies + Online"
+  details_url: "https://www.meetup.com/devopsdsm/events/314508493/"
+  date: "May 27"
+  time: "6:00 - 7:00pm" 
