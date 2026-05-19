@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: ".NET@Noon: 'The Past Didn’t Go Anywhere': Fundamentals > AI"
-  group: "Iowa .NET User Group"
-  location: "Online"
-  details_url: "https://www.meetup.com/iadnug/events/314148713/"
-  date: "Apr 09"
-  time: "12:00 - 1:00pm"
-
 - title: "Serve, Protect, Automate: Building Better AI Agents"
   group: "DevOpsDSM"
   location: "Hybrid: Source Allies + Online"
@@ -60,3 +53,10 @@
   details_url: "https://www.meetup.com/producttank-des-moines-ames/events/314181001/"
   date: "May 20"
   time: "4:30 - 6:00pm"
+
+- title: ".NET@Noon: From Fear to Flow: 7 Weeks That Changed My Mind About AI"
+  group: "Iowa .NET User Group"
+  location: "Hybrid: ITA Group + Online"
+  details_url: "https://www.meetup.com/iadnug/events/314693266/"
+  date: "May 21"
+  time: "12:00 - 1:00pm"
