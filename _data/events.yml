@@ -12,13 +12,6 @@
   date: "Apr 28"
   time: "4:00 - 5:30pm"
 
-- title: "From TypeScript to Python: AI-Powered Code Migration Magic"
-  group: "Pyowa"
-  location: "Hybrid: Source Allies + Online"
-  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/314040501/"
-  date: "Apr 28"
-  time: "5:30 - 7:00pm"
-
 - title: "Parallel Processing: Scaling Political Opinion Analysis with Serverless AWS"
   group: "AWS Des Moines"
   location: "Lean TECHniques"
@@ -60,6 +53,13 @@
   details_url: "https://www.meetup.com/iadnug/events/314693266/"
   date: "May 21"
   time: "12:00 - 1:00pm"
+
+- title: "May Lightning Talks"
+  group: "Pyowa"
+  location: "Hybrid: Source Allies + Online"
+  details_url: "https://www.meetup.com/pyowa-iowa-python-user-group/events/314738462/"
+  date: "May 26"
+  time: "5:30 - 7:00pm"
 
 - title: "Beyond Firefighting: Managing Reliability with Service Level Objectives"
   group: "DevOpsDSM"
