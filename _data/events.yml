@@ -5,13 +5,6 @@
 #  date: "Sept 05"
 #  time: "5:00 - 6:00pm"
 
-- title: "Access Granted: Accessibility in the Modern Web"
-  group: "DSM Web Geeks"
-  location: "Source Allies"
-  details_url: "https://www.meetup.com/des-moines-web-geeks/events/314385247/"
-  date: "May 11"
-  time: "6:30 - 8:00pm"
-
 - title: "What's New In Java (Live): Simplicity and Vector API"
   group: "Central Iowa Java Users Group"
   location: "Hybrid: Source Allies + Online"
@@ -52,4 +45,11 @@
   location: "Hybrid: Source Allies + Online"
   details_url: "https://www.meetup.com/devopsdsm/events/314508493/"
   date: "May 27"
-  time: "6:00 - 7:00pm" 
+  time: "6:00 - 7:00pm"
+
+- title: "Hiring in the Age of AI"
+  group: "DSM Web Geeks"
+  location: "Source Allies"
+  details_url: "https://www.meetup.com/des-moines-web-geeks/events/312416819/"
+  date: "July 13"
+  time: "6:30 - 8:00pm"
